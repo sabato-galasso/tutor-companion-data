@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "version": "2026-09-06.1",
+  "generatedAt": "2026-09-07T12:00:00.000Z",
+  "sources": [
+    {
+      "id": "openstreetmap",
+      "name": "OpenStreetMap contributors",
+      "license": "ODbL-1.0",
+      "url": "https://www.openstreetmap.org/copyright",
+      "snapshotAt": "2026-09-05T07:18:06Z"
+    },
+    {
+      "id": "mit-velox",
+      "name": "Ministero delle Infrastrutture e dei Trasporti — Registro Velox",
+      "url": "https://velox.mit.gov.it/dispositivi"
+    },
+    {
+      "id": "aspi-tutor",
+      "name": "Autostrade per l’Italia — Il Tutor",
+      "url": "https://www.autostrade.it/it/tecnologia-sicurezza/sicurezza/il-tutor"
+    }
+  ],
+  "files": [
+    {
+      "path": "speed-cameras.json",
+      "records": 5084,
+      "sha256": "1d0eb6c95165650b0bf94f35156e7a3f1de9c6b5bc3953b3dd46aace5d4c5aa6"
+    },
+    {
+      "path": "tutor-sections-osm.json",
+      "records": 56,
+      "sha256": "2d763a96bf1036daf18f2e78dfa25a40c55ee9850989d8e40087263cfc8d0103"
+    },
+    {
+      "path": "mit-velox-devices.json",
+      "records": 4106,
+      "sha256": "9ae5a9dba55895bef5cd0ad7e9a84a02de9b27ec6618d3486d300199d6d598cd"
+    },
+    {
+      "path": "tutor-sections-aspi.json",
+      "records": 178,
+      "sha256": "0009cf6aa34e027e9de24a83b501ecbf9b61d09d838d4f60512b42cf0f3ccd85"
+    }
+  ]
+}

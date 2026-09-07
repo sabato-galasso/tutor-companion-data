@@ -1,0 +1,1782 @@
+[
+  {
+    "id": "aspi-a1-1-1",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Lodi Dir. Nord",
+    "fromKm": 24,
+    "toName": "Milano Sud Dir. Nord",
+    "toKm": 12.05,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-2",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Casale Dir. Nord",
+    "fromKm": 38.9,
+    "toName": "Lodi Dir. Nord",
+    "toKm": 24,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-3",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Piacenza Nord Dir. Nord",
+    "fromKm": 52.2,
+    "toName": "Casale Dir. Nord",
+    "toKm": 38.9,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-4",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Piacenza Sud Dir. Nord",
+    "fromKm": 60.885,
+    "toName": "Piacenza Nord Dir. Nord",
+    "toKm": 52.2,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-5",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Fiorenzuola Dir. Nord",
+    "fromKm": 76.58,
+    "toName": "Piacenza Sud Dir. Nord",
+    "toKm": 60.885,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-6",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Fidenza Dir. Nord",
+    "fromKm": 92.55,
+    "toName": "Fiorenzuola Dir. Nord",
+    "toKm": 76.58,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-7",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "All. A15 A1 N Dir. Nord",
+    "fromKm": 99.1,
+    "toName": "Fidenza Dir. Nord",
+    "toKm": 92.55,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-8",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Campegine Dir. Nord",
+    "fromKm": 125.83,
+    "toName": "Parma Dir. Nord",
+    "toKm": 113.28,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-9",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Reggio Emilia Dir. Nord",
+    "fromKm": 139.2,
+    "toName": "Campegine Dir. Nord",
+    "toKm": 125.83,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-10",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "All. A22 A1 N Dir Nord",
+    "fromKm": 153.4,
+    "toName": "Reggio Emilia Dir Nord",
+    "toKm": 139.2,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-11",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Modena Sud Dir. Nord",
+    "fromKm": 172.03,
+    "toName": "Modena Nord Dir. Nord",
+    "toKm": 158.53,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-1-12",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Milano Sud Dir. Sud",
+    "fromKm": 12.3,
+    "toName": "Lodi Dir. Sud",
+    "toKm": 21.2,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-13",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Lodi Dir. Sud",
+    "fromKm": 21.2,
+    "toName": "Casale Dir. Sud",
+    "toKm": 36.1,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-14",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Casale Dir. Sud",
+    "fromKm": 36.1,
+    "toName": "Piacenza Nord Dir. Sud",
+    "toKm": 48.1,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-15",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Piacenza Nord Dir. Sud",
+    "fromKm": 48.1,
+    "toName": "Piacenza Sud Dir. Sud",
+    "toKm": 54.5,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-16",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "All. A21 A1 S Dir. Sud",
+    "fromKm": 60.85,
+    "toName": "Fiorenzuola Dir. Sud",
+    "toKm": 71.35,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-17",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Fiorenzuola Dir. Sud",
+    "fromKm": 71.35,
+    "toName": "Fidenza Dir. Sud",
+    "toKm": 89.15,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-18",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Fidenza Dir. Sud",
+    "fromKm": 89.15,
+    "toName": "All. A15 A1 N Dir. Sud",
+    "toKm": 99.45,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-19",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "All. A15 A1 S Dir. Sud",
+    "fromKm": 103.4,
+    "toName": "Parma Dir. Sud",
+    "toKm": 109.2,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-20",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Parma Dir. Sud",
+    "fromKm": 109.2,
+    "toName": "Campegine Dir. Sud",
+    "toKm": 122.35,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-21",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Campegine Dir Sud",
+    "fromKm": 122.35,
+    "toName": "Reggio Emilia Dir Sud",
+    "toKm": 135.85,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-22",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Modena Nord Dir Sud",
+    "fromKm": 158.528,
+    "toName": "Modena Sud Dir Sud",
+    "toKm": 169.05,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-1-23",
+    "motorway": "A1",
+    "routeName": "Milano - Bologna",
+    "fromName": "Modena Sud Dir. Sud",
+    "fromKm": 169.05,
+    "toName": "All. A14 A1 N Dir. Sud",
+    "toKm": 186.83,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-2-24",
+    "motorway": "A1",
+    "routeName": "Bologna-Firenze",
+    "fromName": "Santa Lucia Nord Dir. Sud",
+    "fromKm": 264.94,
+    "toName": "Santa Lucia Sud Dir. Sud",
+    "toKm": 272.698,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-3-25",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "Valdichiana Dir. Nord",
+    "fromKm": 386.45,
+    "toName": "Monte San Savino Dir. Nord",
+    "toKm": 373.65,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-3-26",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "Chiusi Dir. Nord",
+    "fromKm": 411.6,
+    "toName": "Valdichiana Dir. Nord",
+    "toKm": 386.45,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-3-27",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "Orvieto Dir. Nord",
+    "fromKm": 467,
+    "toName": "Fabro Dir. Nord",
+    "toKm": 429.1,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-3-28",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "Magliano Dir. Nord",
+    "fromKm": 503.11,
+    "toName": "Orte Dir. Nord",
+    "toKm": 493.9,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-3-29",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "Ponzano Romano Dir. Nord",
+    "fromKm": 517.55,
+    "toName": "Magliano Dir. Nord",
+    "toKm": 503.11,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-3-30",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "All. Rac Rm-N A1 N Dir. Nord",
+    "fromKm": 529.14,
+    "toName": "Ponzano Romano Dir. Nord",
+    "toKm": 517.55,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-3-31",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "Monte San Savino Dir. Sud",
+    "fromKm": 369.45,
+    "toName": "Valdichiana Dir. Sud",
+    "toKm": 383.95,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-3-32",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "Valdichiana Dir. Sud",
+    "fromKm": 383.95,
+    "toName": "Chiusi Dir. Sud",
+    "toKm": 408.95,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-3-33",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "Orte Dir. Sud",
+    "fromKm": 489.9,
+    "toName": "Ponzano Romano Dir. Sud",
+    "toKm": 512.9,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-3-34",
+    "motorway": "A1",
+    "routeName": "Firenze - Roma",
+    "fromName": "Ponzano Romano Dir. Sud",
+    "fromKm": 512.9,
+    "toName": "All. Rac Rm-N A1 N Dir. Sud",
+    "toKm": 527.6,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-35",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "All. Rac Rm-S A1 N Dir. Nord",
+    "fromKm": 574.6,
+    "toName": "All. A24 A1 S Dir. Nord -M",
+    "toKm": 564.05,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-36",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Valmontone Dir Nord",
+    "fromKm": 589.2,
+    "toName": "All Rac RM-S A1s Dir Nord -M",
+    "toKm": 579.85,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-37",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Colleferro Dir. Nord",
+    "fromKm": 596,
+    "toName": "Valmontone Dir. Nord",
+    "toKm": 589.2,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-38",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Anagni Dir Nord",
+    "fromKm": 605.8,
+    "toName": "Colleferro Dir Nord",
+    "toKm": 596,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-39",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Pontecorvo Dir Nord",
+    "fromKm": 661.75,
+    "toName": "Ceprano Dir Nord",
+    "toKm": 644.85,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-40",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Cassino Dir. Nord",
+    "fromKm": 671.2,
+    "toName": "Pontecorvo Dir. Nord",
+    "toKm": 661.75,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-41",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "San Vittore Dir. Nord",
+    "fromKm": 680.5,
+    "toName": "Cassino Dir. Nord",
+    "toKm": 671.2,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-42",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Caianello Dir Nord",
+    "fromKm": 702.6,
+    "toName": "San Vittore Dir Nord",
+    "toKm": 680.5,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-43",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Sm Capuavetere Dir. Nord",
+    "fromKm": 731.4,
+    "toName": "Capua Dir. Nord",
+    "toKm": 721.5,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-44",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Caserta Nord Dir. Nord",
+    "fromKm": 736.68,
+    "toName": "Sm Capuavetere Dir. Nord",
+    "toKm": 731.4,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-4-45",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "All. A24 A1 S Dir. Sud",
+    "fromKm": 564,
+    "toName": "All. Rac Rm-S A1 N Dir. Sud",
+    "toKm": 574,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-46",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "All. Rac Rm-S A1 S Dir. Sud",
+    "fromKm": 579.75,
+    "toName": "Colleferro Dir. Sud",
+    "toKm": 589.17,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-47",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Colleferro Dir Sud",
+    "fromKm": 589.17,
+    "toName": "Anagni Dir Sud",
+    "toKm": 602.9,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-48",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Anagni Dir Sud",
+    "fromKm": 602.9,
+    "toName": "Ferentino Dir Sud",
+    "toKm": 616.5,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-49",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Frosinone Dir. Sud",
+    "fromKm": 622.5,
+    "toName": "Ceprano Dir. Sud",
+    "toKm": 640.8,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-50",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Pontecorvo Dir. Sud",
+    "fromKm": 656.7,
+    "toName": "Cassino Dir. Sud -M",
+    "toKm": 668.57,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-51",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Cassino Dir Sud -M",
+    "fromKm": 668.57,
+    "toName": "San Vittore Dir Sud",
+    "toKm": 675.9,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-52",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "San Vittore Dir. Sud",
+    "fromKm": 675.9,
+    "toName": "Caianello Dir. Sud",
+    "toKm": 696.7,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-53",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Capua Dir. Sud",
+    "fromKm": 717.45,
+    "toName": "Sm Capuavetere Dir. Sud",
+    "toKm": 727.95,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-4-54",
+    "motorway": "A1",
+    "routeName": "Roma - Napoli",
+    "fromName": "Sm Capuavetere Dir. Sud",
+    "fromKm": 727.95,
+    "toName": "Caserta Nord Dir. Sud",
+    "toKm": 732.89,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-5-55",
+    "motorway": "A1",
+    "routeName": "Diramazione A1 Nord",
+    "fromName": "Castelnuovo Di Porto Dir. Sud",
+    "fromKm": 7.8,
+    "toName": "Settebagni Dir. Sud",
+    "toKm": 17.9,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-6-56",
+    "motorway": "A1",
+    "routeName": "Diramazione A1 Sud",
+    "fromName": "San Cesareo Dir. Nord",
+    "fromKm": 3.7,
+    "toName": "Monteporzio Dir. Nord",
+    "toKm": 9.2,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-6-57",
+    "motorway": "A1",
+    "routeName": "Diramazione A1 Sud",
+    "fromName": "Monteporzio Dir. Sud",
+    "fromKm": 11.88,
+    "toName": "San Cesareo Dir. Sud",
+    "toKm": 3.72,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a1-7-58",
+    "motorway": "A1",
+    "routeName": "Variante Di Valico",
+    "fromName": "Firenzuola Dir. Nord",
+    "fromKm": 27.62,
+    "toName": "Badia Dir. Nord",
+    "toKm": 18.89,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a1-7-59",
+    "motorway": "A1",
+    "routeName": "Variante Di Valico",
+    "fromName": "Badia Dir. Sud",
+    "fromKm": 19,
+    "toName": "Firenzuola Dir. Sud",
+    "toKm": 27.65,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a4-8-60",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Trezzo Dir. Est",
+    "fromKm": 154.85,
+    "toName": "Dalmine Dir. Est",
+    "toKm": 166.633,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a4-8-61",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Dalmine Dir. Est",
+    "fromKm": 166.633,
+    "toName": "Bergamo Dir. Est",
+    "toKm": 171.3,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a4-8-62",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Bergamo Dir. Est",
+    "fromKm": 171.3,
+    "toName": "Seriate Dir. Est",
+    "toKm": 178.45,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a4-8-63",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Seriate Dir. Est",
+    "fromKm": 178.45,
+    "toName": "Grumello Dir. Est",
+    "toKm": 187.01,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a4-8-64",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Grumello Dir. Est",
+    "fromKm": 187.01,
+    "toName": "Ponte Oglio Dir. Est",
+    "toKm": 190.45,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a4-8-65",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Ponte Oglio Dir. Est",
+    "fromKm": 190.45,
+    "toName": "Palazzolo Dir. Est",
+    "toKm": 192.4,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a4-8-66",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Palazzolo Dir. Est",
+    "fromKm": 192.4,
+    "toName": "Rovato Dir. Est",
+    "toKm": 200.69,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a4-8-67",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Rovato Dir. Est",
+    "fromKm": 200.69,
+    "toName": "Ospitaletto Dir. Est",
+    "toKm": 205.55,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a4-8-68",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Capriate Dir. Ovest",
+    "fromKm": 161.49,
+    "toName": "Cavenago Dir. Ovest",
+    "toKm": 151.5,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a4-8-69",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Dalmine Dir. Ovest",
+    "fromKm": 168.9,
+    "toName": "Capriate Dir. Ovest",
+    "toKm": 161.49,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a4-8-70",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Seriate Dir. Ovest",
+    "fromKm": 180,
+    "toName": "Bergamo Dir. Ovest",
+    "toKm": 174.3,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a4-8-71",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Grumello Dir. Ovest",
+    "fromKm": 189,
+    "toName": "Seriate Dir. Ovest",
+    "toKm": 180,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a4-8-72",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Ponte Oglio Dir. Ovest",
+    "fromKm": 192.4,
+    "toName": "Grumello Dir. Ovest",
+    "toKm": 189,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a4-8-73",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Palazzolo Dir. Ovest",
+    "fromKm": 193.9,
+    "toName": "Ponte Oglio Dir. Ovest",
+    "toKm": 192.4,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a4-8-74",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Rovato Dir. Ovest",
+    "fromKm": 202.3,
+    "toName": "Palazzolo Dir. Ovest",
+    "toKm": 193.9,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a4-8-75",
+    "motorway": "A4",
+    "routeName": "Torino - Venezia",
+    "fromName": "Ospitaletto Dir. Ovest",
+    "fromKm": 206.97,
+    "toName": "Rovato Dir. Ovest",
+    "toKm": 202.3,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a7-9-76",
+    "motorway": "A7",
+    "routeName": "Genova - Serravalle",
+    "fromName": "Ronco Scrivia Dir. Nord",
+    "fromKm": 109.33,
+    "toName": "Isola Del Cantone Dir. Nord",
+    "toKm": 104.8,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a7-9-77",
+    "motorway": "A7",
+    "routeName": "Genova - Serravalle",
+    "fromName": "Busalla Dir. Nord",
+    "fromKm": 114.14,
+    "toName": "Ronco Scrivia Dir. Nord",
+    "toKm": 109.33,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a7-9-78",
+    "motorway": "A7",
+    "routeName": "Genova - Serravalle",
+    "fromName": "Busalla Dir. Sud",
+    "fromKm": 112.78,
+    "toName": "Bolzaneto Dir. Sud",
+    "toKm": 125.07,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a8-10-79",
+    "motorway": "A8",
+    "routeName": "Milano - Varese",
+    "fromName": "Castellanza Dir. Nord",
+    "fromKm": 17,
+    "toName": "Busto Arsizio Dir. Nord",
+    "toKm": 20.8,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a8-10-80",
+    "motorway": "A8",
+    "routeName": "Milano - Varese",
+    "fromName": "Castellanza Dir. Sud",
+    "fromKm": 20.4,
+    "toName": "Origgio Ovest Dir. Sud",
+    "toKm": 12.15,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a8-10-81",
+    "motorway": "A8",
+    "routeName": "Milano - Varese",
+    "fromName": "Busto Arsizio Dir. Sud",
+    "fromKm": 25.6,
+    "toName": "Castellanza Dir. Sud",
+    "toKm": 20.4,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a9-11-82",
+    "motorway": "A9",
+    "routeName": "Lainate - Como - Chiasso",
+    "fromName": "Turate Dir. Nord",
+    "fromKm": 18.1,
+    "toName": "All. A9 A36 Dir. Nord",
+    "toKm": 20.15,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a9-11-83",
+    "motorway": "A9",
+    "routeName": "Lainate - Como - Chiasso",
+    "fromName": "Lomazzo Sud Dir. Nord",
+    "fromKm": 22.95,
+    "toName": "Lomazzo Nord Dir. Nord",
+    "toKm": 24.85,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a9-11-84",
+    "motorway": "A9",
+    "routeName": "Lainate - Como - Chiasso",
+    "fromName": "Lomazzo Nord Dir. Nord",
+    "fromKm": 24.85,
+    "toName": "Fino Mornasco Dir. Nord",
+    "toKm": 28.6,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a9-11-85",
+    "motorway": "A9",
+    "routeName": "Lainate - Como - Chiasso",
+    "fromName": "Turate Dir. Sud",
+    "fromKm": 20.45,
+    "toName": "Saronno Dir. Sud",
+    "toKm": 17.65,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a9-11-86",
+    "motorway": "A9",
+    "routeName": "Lainate - Como - Chiasso",
+    "fromName": "Lomazzo Nord Dir. Sud",
+    "fromKm": 26.7,
+    "toName": "Lomazzo Sud Dir. Sud",
+    "toKm": 23.95,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a10-12-87",
+    "motorway": "A10",
+    "routeName": "Genova - Savona",
+    "fromName": "Celle Ligure Dir. Ovest",
+    "fromKm": 31.59,
+    "toName": "Albisola Dir. Ovest",
+    "toKm": 36.05,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a10-12-88",
+    "motorway": "A10",
+    "routeName": "Genova - Savona",
+    "fromName": "Albisola Dir. Est",
+    "fromKm": 38.7,
+    "toName": "Celle Ligure Dir. Est",
+    "toKm": 33.89,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a13-13-89",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Arcoveggio Dir Nord",
+    "fromKm": 1.47,
+    "toName": "Bologna Interporto Dir Nord",
+    "toKm": 6.5,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-90",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Bologna Interporto Dir. Nord",
+    "fromKm": 6.5,
+    "toName": "Altedo Dir. Nord",
+    "toKm": 19.8,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-91",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Altedo Dir. Nord",
+    "fromKm": 19.8,
+    "toName": "Ferrara Sud Dir. Nord",
+    "toKm": 32.3,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-92",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Ferrara Sud Dir Nord",
+    "fromKm": 32.3,
+    "toName": "Ferrara Nord Dir Nord",
+    "toKm": 40.3,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-93",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Ferrara Nord Dir. Nord",
+    "fromKm": 40.3,
+    "toName": "Occhiobello Dir. Nord",
+    "toKm": 45.6,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-94",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Occhiobello Dir. Nord",
+    "fromKm": 45.6,
+    "toName": "Rovigo Sud Dir. Nord",
+    "toKm": 61.7,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-95",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Rovigo Sud Dir. Nord",
+    "fromKm": 61.7,
+    "toName": "Rovigo Dir. Nord",
+    "toKm": 68.9,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-96",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Rovigo Dir. Nord",
+    "fromKm": 68.9,
+    "toName": "Boara Dir. Nord",
+    "toKm": 74.1,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-97",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Boara Dir. Nord",
+    "fromKm": 74.1,
+    "toName": "Monselice Dir. Nord",
+    "toKm": 86.4,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-98",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Monselice Dir. Nord",
+    "fromKm": 86.4,
+    "toName": "Terme Euganee Dir. Nord",
+    "toKm": 92.8,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-99",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Terme Euganee Dir. Nord",
+    "fromKm": 92.8,
+    "toName": "Padova Sud Dir. Nord",
+    "toKm": 99.4,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a13-13-100",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Bologna Interporto Dir Sud",
+    "fromKm": 9.4,
+    "toName": "Arcoveggio Dir. Sud",
+    "toKm": 1.4,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a13-13-101",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Altedo Dir Sud",
+    "fromKm": 21.1,
+    "toName": "Bologna Interporto Dir Sud",
+    "toKm": 9.4,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a13-13-102",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Ferrara Sud Dir. Sud",
+    "fromKm": 34.6,
+    "toName": "Altedo Dir. Sud",
+    "toKm": 21.1,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a13-13-103",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Ferrara Nord",
+    "fromKm": 42.4,
+    "toName": "Ferrara Sud Dir. Sud",
+    "toKm": 34.6,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a13-13-104",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Rovigo Sud Dir. Sud",
+    "fromKm": 64.38,
+    "toName": "Occhiobello",
+    "toKm": 50.3,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a13-13-105",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Rovigo Dir. Sud",
+    "fromKm": 71,
+    "toName": "Rovigo Sud Dir. Sud",
+    "toKm": 64.38,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a13-13-106",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Terme Euganee Dir. Sud",
+    "fromKm": 96.2,
+    "toName": "Monselice Dir. Sud",
+    "toKm": 89.1,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a13-13-107",
+    "motorway": "A13",
+    "routeName": "Bologna - Padova",
+    "fromName": "Padova Zona Ind Dir. Sud",
+    "fromKm": 114.2,
+    "toName": "Padova Sud Dir. Sud",
+    "toKm": 101.9,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a11-14-108",
+    "motorway": "A11",
+    "routeName": "Firenze - Pisa Nord",
+    "fromName": "Prato Est Dir. Ovest",
+    "fromKm": 7.25,
+    "toName": "Prato Ovest Dir. Ovest",
+    "toKm": 15.9,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a11-14-109",
+    "motorway": "A11",
+    "routeName": "Firenze - Pisa Nord",
+    "fromName": "Prato Ovest Dir. Ovest",
+    "fromKm": 15.9,
+    "toName": "Pistoia Dir. Ovest",
+    "toKm": 26.1,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a11-14-110",
+    "motorway": "A11",
+    "routeName": "Firenze - Pisa Nord",
+    "fromName": "Prato Ovest Dir. Est",
+    "fromKm": 18.3,
+    "toName": "Prato Est Dir. Est",
+    "toKm": 9.55,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a11-14-111",
+    "motorway": "A11",
+    "routeName": "Firenze - Pisa Nord",
+    "fromName": "Pistoia Dir. Est",
+    "fromKm": 28.45,
+    "toName": "Prato Ovest Dir. Est",
+    "toKm": 18.3,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a11-14-112",
+    "motorway": "A11",
+    "routeName": "Firenze - Pisa Nord",
+    "fromName": "Montecatini Dir. Est",
+    "fromKm": 40.5,
+    "toName": "Pistoia Dir. Est",
+    "toKm": 28.45,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a14-15-113",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "All. Ramo Casalecchio Dir. Nord",
+    "fromKm": 8.4,
+    "toName": "Borgo Panigale Dir. Nord",
+    "toKm": 5.5,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-15-114",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Castel San Pietro Dir. Nord",
+    "fromKm": 39.4,
+    "toName": "San Lazzaro Dir. Nord",
+    "toKm": 23,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-15-115",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Imola Dir. Nord",
+    "fromKm": 51.3,
+    "toName": "Castel San Pietro Dir. Nord",
+    "toKm": 39.4,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-15-116",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "All. Ravenna Nord Dir. Nord",
+    "fromKm": 55.3,
+    "toName": "Imola Dir. Nord",
+    "toKm": 51.3,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-15-117",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Faenza Dir. Nord",
+    "fromKm": 65.4,
+    "toName": "All. Ravenna Sud Dir. Nord",
+    "toKm": 58.9,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-15-118",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Forli Dir. Nord",
+    "fromKm": 82.6,
+    "toName": "Faenza Dir. Nord",
+    "toKm": 65.4,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-15-119",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Cesena Nord Dir Nord",
+    "fromKm": 94.6,
+    "toName": "Forli Dir Nord",
+    "toKm": 82.6,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-15-120",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Valle Del Rubicone Dir. Nord",
+    "fromKm": 112.25,
+    "toName": "Cesena Dir. Nord",
+    "toKm": 101,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-15-121",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Bologna Fiera Dir. Sud",
+    "fromKm": 16.4,
+    "toName": "All. San Lazzaro Dir. Sud",
+    "toKm": 21.8,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-15-122",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Castel San Pietro Dir. Sud",
+    "fromKm": 35.9,
+    "toName": "Imola Dir. Sud",
+    "toKm": 49,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-15-123",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Faenza Dir. Sud",
+    "fromKm": 63,
+    "toName": "Forli",
+    "toKm": 80.3,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-15-124",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Cesena Dir. Sud",
+    "fromKm": 98.2,
+    "toName": "Valle Del Rubicone Dir. Sud",
+    "toKm": 109.12,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-15-125",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Valle Del Rubicone Dir. Sud",
+    "fromKm": 109.12,
+    "toName": "Rimini Nord Dir. Sud",
+    "toKm": 115.8,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-15-126",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Rimini Sud Dir. Sud",
+    "fromKm": 126.15,
+    "toName": "Riccione Dir. Sud",
+    "toKm": 134.5,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-15-127",
+    "motorway": "A14",
+    "routeName": "Bologna - Ancona",
+    "fromName": "Riccione Dir. Sud",
+    "fromKm": 134.5,
+    "toName": "Cattolica Dir. Sud",
+    "toKm": 142.7,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-16-128",
+    "motorway": "A14",
+    "routeName": "Ancona - Pescara",
+    "fromName": "Riccione Dir. Nord",
+    "fromKm": 137.55,
+    "toName": "Rimini Sud Dir. Nord",
+    "toKm": 128.5,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-16-129",
+    "motorway": "A14",
+    "routeName": "Ancona - Pescara",
+    "fromName": "Cattolica Dir. Nord",
+    "fromKm": 145.95,
+    "toName": "Riccione Dir. Nord",
+    "toKm": 137.55,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-16-130",
+    "motorway": "A14",
+    "routeName": "Ancona - Pescara",
+    "fromName": "Pesaro Dir. Nord",
+    "fromKm": 157.7,
+    "toName": "Cattolica Dir. Nord",
+    "toKm": 145.95,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-16-131",
+    "motorway": "A14",
+    "routeName": "Ancona - Pescara",
+    "fromName": "Giulianova Dir Nord",
+    "fromKm": 336,
+    "toName": "Val Vibrata Dir Nord",
+    "toKm": 329.5,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-17-132",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Pescara Ovest Dir Nord",
+    "fromKm": 383.7,
+    "toName": "All A14 A25 S Dir Nord -M",
+    "toKm": 378.3,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-17-133",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Ortona Dir. Nord",
+    "fromKm": 405.45,
+    "toName": "Pescara Sud Dir. Nord",
+    "toKm": 394.55,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-17-134",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "San Severo Dir. Nord",
+    "fromKm": 529.55,
+    "toName": "Poggio Imperiale Dir. Nord",
+    "toKm": 508.03,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-17-135",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Foggia Dir. Nord -M",
+    "fromKm": 555.7,
+    "toName": "San Severo Dir. Nord",
+    "toKm": 529.55,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-17-136",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Foggia Zona Industriale Dir. Nord",
+    "fromKm": 566.978,
+    "toName": "Foggia Dir. Nord -M",
+    "toKm": 555.7,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-17-137",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Cerignola Est Dir. Nord",
+    "fromKm": 590.8,
+    "toName": "Foggia Zona Industriale Dir. Nord",
+    "toKm": 566.978,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-17-138",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "All. A16 A14 N Dir. Nord",
+    "fromKm": 599.51,
+    "toName": "Cerignola Est Dir. Nord",
+    "toKm": 590.8,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-17-139",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Pescara Sud Dir. Sud",
+    "fromKm": 390.07,
+    "toName": "Ortona Dir. Sud",
+    "toKm": 402.3,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-17-140",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Valdisangro Dir Sud",
+    "fromKm": 417.15,
+    "toName": "Vasto Nord Dir Sud",
+    "toKm": 434.43,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-17-141",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Poggio Imperiale Dir Sud",
+    "fromKm": 502.78,
+    "toName": "San Severo Dir Sud",
+    "toKm": 525.785,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-17-142",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "San Severo Dir. Sud",
+    "fromKm": 525.785,
+    "toName": "Foggia Dir. Sud",
+    "toKm": 551.69,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-17-143",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Foggia Dir. Sud",
+    "fromKm": 551.69,
+    "toName": "Foggia Zona Industriale Dir. Sud",
+    "toKm": 562.65,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-17-144",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Foggia Zona Industriale Dir. Sud",
+    "fromKm": 562.65,
+    "toName": "Cerignola Est Dir. Sud",
+    "toKm": 580.225,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-17-145",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Cerignola Est Dir. Sud",
+    "fromKm": 580.225,
+    "toName": "All. A16 A14 N Dir. Sud",
+    "toKm": 599.5,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-17-146",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "All. A16 A14 S Dir. Sud",
+    "fromKm": 603.79,
+    "toName": "Canosa Dir. Sud",
+    "toKm": 608.79,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-17-147",
+    "motorway": "A14",
+    "routeName": "Pescara - Canosa",
+    "fromName": "Canosa Dir. Sud",
+    "fromKm": 608.79,
+    "toName": "Andria Barletta Dir. Sud",
+    "toKm": 619.4,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-18-148",
+    "motorway": "A14",
+    "routeName": "Canosa - Bari - Taranto",
+    "fromName": "Canosa Dir. Nord",
+    "fromKm": 611.1,
+    "toName": "All. A16 A14 S Dir. Nord",
+    "toKm": 605.05,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-18-149",
+    "motorway": "A14",
+    "routeName": "Canosa - Bari - Taranto",
+    "fromName": "Andria Barletta Dir. Nord",
+    "fromKm": 628.8,
+    "toName": "Canosa Dir. Nord",
+    "toKm": 611.1,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-18-150",
+    "motorway": "A14",
+    "routeName": "Canosa - Bari - Taranto",
+    "fromName": "Bitonto Dir Nord",
+    "fromKm": 663.97,
+    "toName": "Molfetta Dir Nord",
+    "toKm": 654,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-18-151",
+    "motorway": "A14",
+    "routeName": "Canosa - Bari - Taranto",
+    "fromName": "Bari Nord Dir. Nord",
+    "fromKm": 671,
+    "toName": "Bitonto Dir. Nord",
+    "toKm": 663.97,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-18-152",
+    "motorway": "A14",
+    "routeName": "Canosa - Bari - Taranto",
+    "fromName": "Bari Sud Dir Nord",
+    "fromKm": 681.135,
+    "toName": "Bari Nord Dir Nord",
+    "toKm": 671,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a14-18-153",
+    "motorway": "A14",
+    "routeName": "Canosa - Bari - Taranto",
+    "fromName": "Andria Barletta Dir. Sud",
+    "fromKm": 619.4,
+    "toName": "Trani Dir. Sud",
+    "toKm": 637.05,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-18-154",
+    "motorway": "A14",
+    "routeName": "Canosa - Bari - Taranto",
+    "fromName": "Trani Dir. Sud",
+    "fromKm": 637.05,
+    "toName": "Molfetta Dir. Sud",
+    "toKm": 642.5,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-18-155",
+    "motorway": "A14",
+    "routeName": "Canosa - Bari - Taranto",
+    "fromName": "Molfetta Dir. Sud",
+    "fromKm": 642.5,
+    "toName": "Bitonto Dir. Sud",
+    "toKm": 663.965,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a14-18-156",
+    "motorway": "A14",
+    "routeName": "Canosa - Bari - Taranto",
+    "fromName": "Bitonto Dir. Sud",
+    "fromKm": 663.965,
+    "toName": "Bari Nord Dir. Sud",
+    "toKm": 668.2,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a16-19-157",
+    "motorway": "A16",
+    "routeName": "Napoli - Canosa",
+    "fromName": "Monteforte Dir. Est",
+    "fromKm": 36.05,
+    "toName": "Avellino Ovest Dir. Est",
+    "toKm": 40,
+    "direction": "Est"
+  },
+  {
+    "id": "aspi-a16-19-158",
+    "motorway": "A16",
+    "routeName": "Napoli - Canosa",
+    "fromName": "Monteforte Dir. Ovest",
+    "fromKm": 36.05,
+    "toName": "Baiano Dir. Ovest",
+    "toKm": 27.65,
+    "direction": "Ovest"
+  },
+  {
+    "id": "aspi-a23-20-159",
+    "motorway": "A23",
+    "routeName": "Udine - Tarvisio",
+    "fromName": "Udine Nord Dir. Nord",
+    "fromKm": 25.2,
+    "toName": "Gemona Dir. Nord",
+    "toKm": 43,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a23-20-160",
+    "motorway": "A23",
+    "routeName": "Udine - Tarvisio",
+    "fromName": "Gemona Dir. Nord",
+    "fromKm": 43,
+    "toName": "Carnia Dir. Nord",
+    "toKm": 54.37,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a23-20-161",
+    "motorway": "A23",
+    "routeName": "Udine - Tarvisio",
+    "fromName": "Gemona Dir. Sud",
+    "fromKm": 47.2,
+    "toName": "Udine Nord Dir. Sud",
+    "toKm": 30.65,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a26-21-162",
+    "motorway": "A26",
+    "routeName": "Voltri - Alessandria",
+    "fromName": "Ovada Dir. Nord",
+    "fromKm": 28.95,
+    "toName": "Predosa Dir. Nord",
+    "toKm": 44.49,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a26-21-163",
+    "motorway": "A26",
+    "routeName": "Voltri - Alessandria",
+    "fromName": "Predosa Dir. Sud",
+    "fromKm": 43,
+    "toName": "Ovada",
+    "toKm": 31.75,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a27-22-164",
+    "motorway": "A27",
+    "routeName": "Venezia - Belluno",
+    "fromName": "Treviso Sud Dir. Nord",
+    "fromKm": 10.1,
+    "toName": "Treviso Nord Dir. Nord",
+    "toKm": 21.5,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a27-22-165",
+    "motorway": "A27",
+    "routeName": "Venezia - Belluno",
+    "fromName": "Treviso Nord Dir. Nord",
+    "fromKm": 21.5,
+    "toName": "All. Spv A27 Dir. Nord",
+    "toKm": 24,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a27-22-166",
+    "motorway": "A27",
+    "routeName": "Venezia - Belluno",
+    "fromName": "Vittorio Veneto Nord Dir. Nord",
+    "fromKm": 58.2,
+    "toName": "Fadalto Dir. Nord",
+    "toKm": 62.3,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a27-22-167",
+    "motorway": "A27",
+    "routeName": "Venezia - Belluno",
+    "fromName": "Treviso Sud Dir. Sud",
+    "fromKm": 16.025,
+    "toName": "All. A4 A27 Dir. Sud",
+    "toKm": 10.2,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a27-22-168",
+    "motorway": "A27",
+    "routeName": "Venezia - Belluno",
+    "fromName": "Treviso Nord Dir. Sud",
+    "fromKm": 24.45,
+    "toName": "Treviso Sud Dir. Sud",
+    "toKm": 16.025,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a30-23-169",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "Nola Dir. Nord",
+    "fromKm": 19.28,
+    "toName": "All. A30 A1 Dir. Nord",
+    "toKm": 1.3,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a30-23-170",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "Palma Campania Dir Nord",
+    "fromKm": 32.14,
+    "toName": "All A30 A16 Dir Nord",
+    "toKm": 22.1,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a30-23-171",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "Sarno Dir. Nord",
+    "fromKm": 38.33,
+    "toName": "Palma Campania Dir. Nord",
+    "toKm": 32.14,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a30-23-172",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "Nocera Pagani Dir Nord",
+    "fromKm": 40.94,
+    "toName": "Sarno Dir Nord",
+    "toKm": 38.33,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a30-23-173",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "Salerno San Severino Dir. Nord",
+    "fromKm": 49.47,
+    "toName": "Nocera Pagani Dir. Nord",
+    "toKm": 40.94,
+    "direction": "Nord"
+  },
+  {
+    "id": "aspi-a30-23-174",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "All. A30 A1 Dir. Sud",
+    "fromKm": 1.85,
+    "toName": "Nola Dir. Sud",
+    "toKm": 17.2,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a30-23-175",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "All. A30 A16 Dir. Sud",
+    "fromKm": 22.16,
+    "toName": "Palma Campania Dir. Sud",
+    "toKm": 29,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a30-23-176",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "Palma Campania Dir Sud",
+    "fromKm": 29,
+    "toName": "Sarno Dir Sud",
+    "toKm": 34.365,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a30-23-177",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "Sarno Dir. Sud",
+    "fromKm": 34.365,
+    "toName": "Nocera Pagani Dir. Sud",
+    "toKm": 38.4,
+    "direction": "Sud"
+  },
+  {
+    "id": "aspi-a30-23-178",
+    "motorway": "A30",
+    "routeName": "Caserta - Salerno",
+    "fromName": "Nocera Pagani Dir Sud",
+    "fromKm": 38.4,
+    "toName": "Castel San Giorgio Dir Sud",
+    "toKm": 42.765,
+    "direction": "Sud"
+  }
+]

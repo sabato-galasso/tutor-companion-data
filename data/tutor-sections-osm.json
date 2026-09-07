@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "osm-average-11264280",
+    "label": "Tutor",
+    "start": {
+      "latitude": 44.323474,
+      "longitude": 8.489254
+    },
+    "end": {
+      "latitude": 44.341609,
+      "longitude": 8.537815
+    },
+    "speedLimitKmh": 110,
+    "startLocality": "Savona",
+    "startProvince": "SV",
+    "startRegion": "Liguria",
+    "endLocality": "Celle Ligure",
+    "endProvince": "SV",
+    "endRegion": "Liguria"
+  },
+  {
+    "id": "osm-average-13336315",
+    "label": "Tutor OSM 13336315",
+    "start": {
+      "latitude": 46.042905,
+      "longitude": 9.157144
+    },
+    "end": {
+      "latitude": 46.042872,
+      "longitude": 9.154473
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Carlazzo",
+    "startProvince": "CO",
+    "startRegion": "Lombardia",
+    "endLocality": "Carlazzo",
+    "endProvince": "CO",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-13336317",
+    "label": "Tutor OSM 13336317",
+    "start": {
+      "latitude": 46.02451,
+      "longitude": 9.072824
+    },
+    "end": {
+      "latitude": 46.024297,
+      "longitude": 9.071889
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Valsolda",
+    "startProvince": "CO",
+    "startRegion": "Lombardia",
+    "endLocality": "Valsolda",
+    "endProvince": "CO",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-13336376",
+    "label": "Tutor OSM 13336376",
+    "start": {
+      "latitude": 46.040569,
+      "longitude": 9.145626
+    },
+    "end": {
+      "latitude": 46.040942,
+      "longitude": 9.147177
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Carlazzo",
+    "startProvince": "CO",
+    "startRegion": "Lombardia",
+    "endLocality": "Carlazzo",
+    "endProvince": "CO",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-13336377",
+    "label": "Tutor OSM 13336377",
+    "start": {
+      "latitude": 46.024501,
+      "longitude": 9.073072
+    },
+    "end": {
+      "latitude": 46.024438,
+      "longitude": 9.074305
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Valsolda",
+    "startProvince": "CO",
+    "startRegion": "Lombardia",
+    "endLocality": "Valsolda",
+    "endProvince": "CO",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-13336380",
+    "label": "Tutor OSM 13336380",
+    "start": {
+      "latitude": 46.019815,
+      "longitude": 9.027522
+    },
+    "end": {
+      "latitude": 46.020235,
+      "longitude": 9.028397
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Valsolda",
+    "startProvince": "CO",
+    "startRegion": "Lombardia",
+    "endLocality": "Valsolda",
+    "endProvince": "CO",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-13587591",
+    "label": "Tutor OSM 13587591",
+    "start": {
+      "latitude": 46.080953,
+      "longitude": 9.310471
+    },
+    "end": {
+      "latitude": 46.079685,
+      "longitude": 9.308082
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Dervio",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Dervio",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-13617568",
+    "label": "Controllo elettronico della velocita' con sistema Tutor",
+    "start": {
+      "latitude": 44.620875,
+      "longitude": 8.657002
+    },
+    "end": {
+      "latitude": 44.75358,
+      "longitude": 8.646272
+    },
+    "speedLimitKmh": 130,
+    "startLocality": "Belforte Monferrato",
+    "startProvince": "AL",
+    "startRegion": "Piemonte",
+    "endLocality": "Predosa",
+    "endProvince": "AL",
+    "endRegion": "Piemonte"
+  },
+  {
+    "id": "osm-average-13617569",
+    "label": "Controllo elettronico della velocita' con sistema Tutor",
+    "start": {
+      "latitude": 44.741039,
+      "longitude": 8.651035
+    },
+    "end": {
+      "latitude": 44.645112,
+      "longitude": 8.660699
+    },
+    "speedLimitKmh": 130,
+    "startLocality": "Predosa",
+    "startProvince": "AL",
+    "startRegion": "Piemonte",
+    "endLocality": "Tagliolo Monferrato",
+    "endProvince": "AL",
+    "endRegion": "Piemonte"
+  },
+  {
+    "id": "osm-average-13648301",
+    "label": "Tutor OSM 13648301",
+    "start": {
+      "latitude": 46.07096,
+      "longitude": 9.3077
+    },
+    "end": {
+      "latitude": 46.069892,
+      "longitude": 9.308683
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Dervio",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Dervio",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-13648303",
+    "label": "Tutor OSM 13648303",
+    "start": {
+      "latitude": 46.070768,
+      "longitude": 9.308811
+    },
+    "end": {
+      "latitude": 46.071534,
+      "longitude": 9.3085
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Dervio",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Dervio",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-13863805",
+    "label": "Tutor OSM 13863805",
+    "start": {
+      "latitude": 45.602623,
+      "longitude": 11.0289
+    },
+    "end": {
+      "latitude": 45.601201,
+      "longitude": 11.029896
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Bosco Chiesanuova",
+    "startProvince": "VR",
+    "startRegion": "Veneto",
+    "endLocality": "Bosco Chiesanuova",
+    "endProvince": "VR",
+    "endRegion": "Veneto"
+  },
+  {
+    "id": "osm-average-14125306",
+    "label": "Tutor OSM 14125306",
+    "start": {
+      "latitude": 45.502752,
+      "longitude": 9.346267
+    },
+    "end": {
+      "latitude": 45.4982,
+      "longitude": 9.333031
+    },
+    "speedLimitKmh": 70,
+    "startLocality": "Cernusco sul Naviglio",
+    "startProvince": "MI",
+    "startRegion": "Lombardia",
+    "endLocality": "Pioltello",
+    "endProvince": "MI",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14125307",
+    "label": "Tutor OSM 14125307",
+    "start": {
+      "latitude": 45.49886,
+      "longitude": 9.322346
+    },
+    "end": {
+      "latitude": 45.498738,
+      "longitude": 9.334988
+    },
+    "speedLimitKmh": 90,
+    "startLocality": "Pioltello",
+    "startProvince": "MI",
+    "startRegion": "Lombardia",
+    "endLocality": "Pioltello",
+    "endProvince": "MI",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14520279",
+    "label": "Tutor OSM 14520279",
+    "start": {
+      "latitude": 45.9766,
+      "longitude": 8.70664
+    },
+    "end": {
+      "latitude": 45.976465,
+      "longitude": 8.706474
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Brezzo di Bedero",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Brezzo di Bedero",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14520287",
+    "label": "Tutor OSM 14520287",
+    "start": {
+      "latitude": 45.962551,
+      "longitude": 8.759853
+    },
+    "end": {
+      "latitude": 45.962673,
+      "longitude": 8.759781
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Montegrino Valtravaglia",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Montegrino Valtravaglia",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14520288",
+    "label": "Tutor OSM 14520288",
+    "start": {
+      "latitude": 45.960446,
+      "longitude": 8.762019
+    },
+    "end": {
+      "latitude": 45.960585,
+      "longitude": 8.761595
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Montegrino Valtravaglia",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Montegrino Valtravaglia",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14520289",
+    "label": "Tutor OSM 14520289",
+    "start": {
+      "latitude": 45.956279,
+      "longitude": 8.764947
+    },
+    "end": {
+      "latitude": 45.956526,
+      "longitude": 8.764813
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Mesenzana",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Mesenzana",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14521007",
+    "label": "Tutor OSM 14521007",
+    "start": {
+      "latitude": 45.95925,
+      "longitude": 8.863863
+    },
+    "end": {
+      "latitude": 45.95947,
+      "longitude": 8.863497
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Lavena Ponte Tresa",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Lavena Ponte Tresa",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14521008",
+    "label": "Tutor OSM 14521008",
+    "start": {
+      "latitude": 45.963828,
+      "longitude": 8.859386
+    },
+    "end": {
+      "latitude": 45.964057,
+      "longitude": 8.859253
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Lavena Ponte Tresa",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Lavena Ponte Tresa",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14521009",
+    "label": "Tutor OSM 14521009",
+    "start": {
+      "latitude": 45.957302,
+      "longitude": 8.870121
+    },
+    "end": {
+      "latitude": 45.957534,
+      "longitude": 8.869349
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Lavena Ponte Tresa",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Lavena Ponte Tresa",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14521010",
+    "label": "Tutor OSM 14521010",
+    "start": {
+      "latitude": 45.957195,
+      "longitude": 8.87046
+    },
+    "end": {
+      "latitude": 45.957095,
+      "longitude": 8.870773
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Lavena Ponte Tresa",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Lavena Ponte Tresa",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14521023",
+    "label": "Tutor OSM 14521023",
+    "start": {
+      "latitude": 45.970972,
+      "longitude": 8.848753
+    },
+    "end": {
+      "latitude": 45.970814,
+      "longitude": 8.84912
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Lavena Ponte Tresa",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Lavena Ponte Tresa",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14521024",
+    "label": "Tutor OSM 14521024",
+    "start": {
+      "latitude": 45.968529,
+      "longitude": 8.852109
+    },
+    "end": {
+      "latitude": 45.968422,
+      "longitude": 8.852235
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Lavena Ponte Tresa",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Lavena Ponte Tresa",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14521025",
+    "label": "Tutor OSM 14521025",
+    "start": {
+      "latitude": 45.969567,
+      "longitude": 8.850899
+    },
+    "end": {
+      "latitude": 45.969785,
+      "longitude": 8.850645
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Lavena Ponte Tresa",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Lavena Ponte Tresa",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14601769",
+    "label": "Tutor OSM 14601769",
+    "start": {
+      "latitude": 45.553499,
+      "longitude": 9.440582
+    },
+    "end": {
+      "latitude": 45.55342,
+      "longitude": 9.440598
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Gessate",
+    "startProvince": "MI",
+    "startRegion": "Lombardia",
+    "endLocality": "Gessate",
+    "endProvince": "MI",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14601770",
+    "label": "Tutor OSM 14601770",
+    "start": {
+      "latitude": 45.55225,
+      "longitude": 9.440834
+    },
+    "end": {
+      "latitude": 45.55232,
+      "longitude": 9.44082
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Gessate",
+    "startProvince": "MI",
+    "startRegion": "Lombardia",
+    "endLocality": "Gessate",
+    "endProvince": "MI",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14601790",
+    "label": "Tutor OSM 14601790",
+    "start": {
+      "latitude": 45.580609,
+      "longitude": 9.530731
+    },
+    "end": {
+      "latitude": 45.580674,
+      "longitude": 9.530065
+    },
+    "speedLimitKmh": 30,
+    "startLocality": "Vaprio d'Adda",
+    "startProvince": "MI",
+    "startRegion": "Lombardia",
+    "endLocality": "Vaprio d'Adda",
+    "endProvince": "MI",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14917326",
+    "label": "Tutor OSM 14917326",
+    "start": {
+      "latitude": 46.139995,
+      "longitude": 9.390722
+    },
+    "end": {
+      "latitude": 46.139874,
+      "longitude": 9.388911
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Colico",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Colico",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14917598",
+    "label": "Tutor OSM 14917598",
+    "start": {
+      "latitude": 46.126095,
+      "longitude": 9.35235
+    },
+    "end": {
+      "latitude": 46.126591,
+      "longitude": 9.352975
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Colico",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Colico",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14917599",
+    "label": "Tutor OSM 14917599",
+    "start": {
+      "latitude": 46.127895,
+      "longitude": 9.354657
+    },
+    "end": {
+      "latitude": 46.127064,
+      "longitude": 9.353592
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Colico",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Colico",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-14944372",
+    "label": "Tutor OSM 14944372",
+    "start": {
+      "latitude": 45.614464,
+      "longitude": 8.890014
+    },
+    "end": {
+      "latitude": 45.614312,
+      "longitude": 8.888507
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Castellanza",
+    "startProvince": "VA",
+    "startRegion": "Lombardia",
+    "endLocality": "Castellanza",
+    "endProvince": "VA",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-15002467",
+    "label": "Tutor OSM 15002467",
+    "start": {
+      "latitude": 45.801769,
+      "longitude": 9.296182
+    },
+    "end": {
+      "latitude": 45.801858,
+      "longitude": 9.294854
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Bosisio Parini",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Bosisio Parini",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-15002469",
+    "label": "Tutor OSM 15002469",
+    "start": {
+      "latitude": 45.800145,
+      "longitude": 9.299794
+    },
+    "end": {
+      "latitude": 45.798878,
+      "longitude": 9.300394
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Bosisio Parini",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Bosisio Parini",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-15310765",
+    "label": "Tutor OSM 15310765",
+    "start": {
+      "latitude": 46.137575,
+      "longitude": 9.459073
+    },
+    "end": {
+      "latitude": 46.137579,
+      "longitude": 9.459793
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Delebio",
+    "startProvince": "SO",
+    "startRegion": "Lombardia",
+    "endLocality": "Delebio",
+    "endProvince": "SO",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-15310766",
+    "label": "Tutor OSM 15310766",
+    "start": {
+      "latitude": 46.137623,
+      "longitude": 9.465296
+    },
+    "end": {
+      "latitude": 46.137618,
+      "longitude": 9.464267
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Delebio",
+    "startProvince": "SO",
+    "startRegion": "Lombardia",
+    "endLocality": "Delebio",
+    "endProvince": "SO",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-15457708",
+    "label": "Tutor OSM 15457708",
+    "start": {
+      "latitude": 45.962836,
+      "longitude": 9.301583
+    },
+    "end": {
+      "latitude": 45.962161,
+      "longitude": 9.301396
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Lierna",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Lierna",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-15457749",
+    "label": "Tutor OSM 15457749",
+    "start": {
+      "latitude": 45.956852,
+      "longitude": 9.301951
+    },
+    "end": {
+      "latitude": 45.957424,
+      "longitude": 9.301896
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Lierna",
+    "startProvince": "LC",
+    "startRegion": "Lombardia",
+    "endLocality": "Lierna",
+    "endProvince": "LC",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-15464134",
+    "label": "Tutor OSM 15464134",
+    "start": {
+      "latitude": 46.270286,
+      "longitude": 9.858302
+    },
+    "end": {
+      "latitude": 46.270046,
+      "longitude": 9.859598
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Chiesa in Valmalenco",
+    "startProvince": "SO",
+    "startRegion": "Lombardia",
+    "endLocality": "Chiesa in Valmalenco",
+    "endProvince": "SO",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-15546959",
+    "label": "Tutor OSM 15546959",
+    "start": {
+      "latitude": 45.189821,
+      "longitude": 8.148307
+    },
+    "end": {
+      "latitude": 45.189523,
+      "longitude": 8.122544
+    },
+    "speedLimitKmh": 90,
+    "startLocality": "Crescentino",
+    "startProvince": "VC",
+    "startRegion": "Piemonte",
+    "endLocality": "Crescentino",
+    "endProvince": "VC",
+    "endRegion": "Piemonte"
+  },
+  {
+    "id": "osm-average-15546960",
+    "label": "Tutor OSM 15546960",
+    "start": {
+      "latitude": 45.189523,
+      "longitude": 8.122544
+    },
+    "end": {
+      "latitude": 45.189821,
+      "longitude": 8.148307
+    },
+    "speedLimitKmh": 90,
+    "startLocality": "Crescentino",
+    "startProvince": "VC",
+    "startRegion": "Piemonte",
+    "endLocality": "Crescentino",
+    "endProvince": "VC",
+    "endRegion": "Piemonte"
+  },
+  {
+    "id": "osm-average-15620243",
+    "label": "Tutor OSM 15620243",
+    "start": {
+      "latitude": 43.633971,
+      "longitude": 13.381611
+    },
+    "end": {
+      "latitude": 43.625376,
+      "longitude": 13.386515
+    },
+    "speedLimitKmh": 70,
+    "startLocality": "Falconara Marittima",
+    "startProvince": "AN",
+    "startRegion": "Marche",
+    "endLocality": "Falconara Marittima",
+    "endProvince": "AN",
+    "endRegion": "Marche"
+  },
+  {
+    "id": "osm-average-16464180",
+    "label": "Tutor OSM 16464180",
+    "start": {
+      "latitude": 43.171673,
+      "longitude": 11.464953
+    },
+    "end": {
+      "latitude": 43.170432,
+      "longitude": 11.465451
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Monteroni d'Arbia",
+    "startProvince": "SI",
+    "startRegion": "Toscana",
+    "endLocality": "Monteroni d'Arbia",
+    "endProvince": "SI",
+    "endRegion": "Toscana"
+  },
+  {
+    "id": "osm-average-16759723",
+    "label": "Tutor OSM 16759723",
+    "start": {
+      "latitude": 44.649541,
+      "longitude": 10.910863
+    },
+    "end": {
+      "latitude": 44.646596,
+      "longitude": 10.907868
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Modena",
+    "startProvince": "MO",
+    "startRegion": "Emilia-Romagna",
+    "endLocality": "Modena",
+    "endProvince": "MO",
+    "endRegion": "Emilia-Romagna"
+  },
+  {
+    "id": "osm-average-17988701",
+    "label": "Tutor OSM 17988701",
+    "start": {
+      "latitude": 46.397486,
+      "longitude": 11.669196
+    },
+    "end": {
+      "latitude": 46.397554,
+      "longitude": 11.669157
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Soraga di Fassa",
+    "startProvince": "TN",
+    "startRegion": "Trentino-Alto Adige/Südtirol",
+    "endLocality": "Soraga di Fassa",
+    "endProvince": "TN",
+    "endRegion": "Trentino-Alto Adige/Südtirol"
+  },
+  {
+    "id": "osm-average-18318748",
+    "label": "Tutor OSM 18318748",
+    "start": {
+      "latitude": 45.521769,
+      "longitude": 9.587581
+    },
+    "end": {
+      "latitude": 45.521778,
+      "longitude": 9.587448
+    },
+    "speedLimitKmh": 50,
+    "startLocality": "Treviglio",
+    "startProvince": "BG",
+    "startRegion": "Lombardia",
+    "endLocality": "Treviglio",
+    "endProvince": "BG",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-18491514",
+    "label": "Tutor OSM 18491514",
+    "start": {
+      "latitude": 45.466676,
+      "longitude": 9.285206
+    },
+    "end": {
+      "latitude": 45.472322,
+      "longitude": 9.285566
+    },
+    "speedLimitKmh": 70,
+    "startLocality": "Segrate",
+    "startProvince": "MI",
+    "startRegion": "Lombardia",
+    "endLocality": "Segrate",
+    "endProvince": "MI",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-18539432",
+    "label": "Controllo elettronico della velocità media (in direzione Ospitaletto)",
+    "start": {
+      "latitude": 45.588299,
+      "longitude": 10.096589
+    },
+    "end": {
+      "latitude": 45.576312,
+      "longitude": 10.072443
+    },
+    "speedLimitKmh": 90,
+    "startLocality": "Paderno Franciacorta",
+    "startProvince": "BS",
+    "startRegion": "Lombardia",
+    "endLocality": "Paderno Franciacorta",
+    "endProvince": "BS",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-19153820",
+    "label": "Tutor OSM 19153820",
+    "start": {
+      "latitude": 45.100111,
+      "longitude": 9.11616
+    },
+    "end": {
+      "latitude": 45.119629,
+      "longitude": 9.114404
+    },
+    "speedLimitKmh": 60,
+    "startLocality": "Bastida Pancarana",
+    "startProvince": "PV",
+    "startRegion": "Lombardia",
+    "endLocality": "Cava Manara",
+    "endProvince": "PV",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-19153821",
+    "label": "Tutor OSM 19153821",
+    "start": {
+      "latitude": 45.119629,
+      "longitude": 9.114404
+    },
+    "end": {
+      "latitude": 45.100111,
+      "longitude": 9.11616
+    },
+    "speedLimitKmh": 60,
+    "startLocality": "Cava Manara",
+    "startProvince": "PV",
+    "startRegion": "Lombardia",
+    "endLocality": "Bastida Pancarana",
+    "endProvince": "PV",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-19279177",
+    "label": "Tutor OSM 19279177",
+    "start": {
+      "latitude": 45.426774,
+      "longitude": 9.543826
+    },
+    "end": {
+      "latitude": 45.426591,
+      "longitude": 9.543896
+    },
+    "speedLimitKmh": 70,
+    "startLocality": "Pandino",
+    "startProvince": "CR",
+    "startRegion": "Lombardia",
+    "endLocality": "Pandino",
+    "endProvince": "CR",
+    "endRegion": "Lombardia"
+  },
+  {
+    "id": "osm-average-19558932",
+    "label": "Tutor OSM 19558932",
+    "start": {
+      "latitude": 44.95946,
+      "longitude": 11.44245
+    },
+    "end": {
+      "latitude": 44.968924,
+      "longitude": 11.4356
+    },
+    "speedLimitKmh": 70,
+    "startLocality": "Ficarolo",
+    "startProvince": "RO",
+    "startRegion": "Veneto",
+    "endLocality": "Ficarolo",
+    "endProvince": "RO",
+    "endRegion": "Veneto"
+  },
+  {
+    "id": "osm-average-19558933",
+    "label": "Tutor OSM 19558933",
+    "start": {
+      "latitude": 44.968924,
+      "longitude": 11.4356
+    },
+    "end": {
+      "latitude": 44.95946,
+      "longitude": 11.44245
+    },
+    "speedLimitKmh": 70,
+    "startLocality": "Ficarolo",
+    "startProvince": "RO",
+    "startRegion": "Veneto",
+    "endLocality": "Ficarolo",
+    "endProvince": "RO",
+    "endRegion": "Veneto"
+  },
+  {
+    "id": "osm-average-19984144",
+    "label": "Tutor OSM 19984144",
+    "start": {
+      "latitude": 40.644873,
+      "longitude": 17.029914
+    },
+    "end": {
+      "latitude": 40.611792,
+      "longitude": 17.067646
+    },
+    "speedLimitKmh": 70,
+    "startLocality": "Mottola",
+    "startProvince": "TA",
+    "startRegion": "Puglia",
+    "endLocality": "Mottola",
+    "endProvince": "TA",
+    "endRegion": "Puglia"
+  },
+  {
+    "id": "osm-average-20737470",
+    "label": "Tutor OSM 20737470",
+    "start": {
+      "latitude": 37.636385,
+      "longitude": 15.163334
+    },
+    "end": {
+      "latitude": 37.635462,
+      "longitude": 15.163257
+    },
+    "speedLimitKmh": 90,
+    "startLocality": "Acireale",
+    "startProvince": "CT",
+    "startRegion": "Sicilia",
+    "endLocality": "Acireale",
+    "endProvince": "CT",
+    "endRegion": "Sicilia"
+  },
+  {
+    "id": "osm-average-7846769",
+    "label": "Controllo elettronico della velocità media (in direzione Concesio)",
+    "start": {
+      "latitude": 45.573752,
+      "longitude": 10.07077
+    },
+    "end": {
+      "latitude": 45.588738,
+      "longitude": 10.098082
+    },
+    "speedLimitKmh": 90,
+    "startLocality": "Passirano",
+    "startProvince": "BS",
+    "startRegion": "Lombardia",
+    "endLocality": "Rodengo Saiano",
+    "endProvince": "BS",
+    "endRegion": "Lombardia"
+  }
+]
