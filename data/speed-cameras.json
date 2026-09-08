@@ -468,7 +468,8 @@
     "locality": "Mesagne",
     "municipality": "Mesagne",
     "province": "BR",
-    "region": "Puglia"
+    "region": "Puglia",
+    "name": "Autovelox mobile"
   },
   {
     "id": "osm-camera-10114392617",
@@ -478,7 +479,8 @@
     "locality": "Latiano",
     "municipality": "Latiano",
     "province": "BR",
-    "region": "Puglia"
+    "region": "Puglia",
+    "name": "Autovelox mobile"
   },
   {
     "id": "osm-camera-10130035641",
@@ -679,7 +681,8 @@
     "locality": "Monastir",
     "municipality": "Monastir",
     "province": "CA",
-    "region": "Sardegna"
+    "region": "Sardegna",
+    "name": "Autovelox fisso"
   },
   {
     "id": "osm-camera-10223736194",
@@ -1000,7 +1003,8 @@
     "locality": "Faenza",
     "municipality": "Faenza",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "70"
   },
   {
     "id": "osm-camera-10295495294",
@@ -1011,7 +1015,8 @@
     "locality": "Faenza",
     "municipality": "Faenza",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "70"
   },
   {
     "id": "osm-camera-10300609642",
@@ -1920,7 +1925,8 @@
     "locality": "Santo Stefano al Mare",
     "municipality": "Santo Stefano al Mare",
     "province": "IM",
-    "region": "Liguria"
+    "region": "Liguria",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-1086111313",
@@ -2768,7 +2774,8 @@
     "locality": "Fabriano",
     "municipality": "Fabriano",
     "province": "AN",
-    "region": "Marche"
+    "region": "Marche",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-11132490483",
@@ -3033,7 +3040,8 @@
     "locality": "Triuggio",
     "municipality": "Triuggio",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-11164592112",
@@ -3184,7 +3192,8 @@
     "locality": "Chiusi",
     "municipality": "Chiusi",
     "province": "SI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "name": "Autovelox Chiusi Scalo 1"
   },
   {
     "id": "osm-camera-11192909343",
@@ -3195,7 +3204,8 @@
     "locality": "Chiusi",
     "municipality": "Chiusi",
     "province": "SI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "name": "Autovelox Chiusi Scalo 2"
   },
   {
     "id": "osm-camera-11198400544",
@@ -3624,29 +3634,31 @@
     "locality": "Siena",
     "municipality": "Siena",
     "province": "SI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "controlType": "ztl",
+    "name": "Varco Vallerozzi"
   },
   {
     "id": "osm-camera-11293488965",
     "latitude": 43.317467,
     "longitude": 11.341826,
-    "controlType": "ztl",
-    "name": "Varco Porta Pispini",
     "locality": "Siena",
     "municipality": "Siena",
     "province": "SI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "controlType": "ztl",
+    "name": "Varco Porta Pispini"
   },
   {
     "id": "osm-camera-11293488968",
     "latitude": 43.314934,
     "longitude": 11.339646,
-    "controlType": "ztl",
-    "name": "Varco Porta Romana",
     "locality": "Siena",
     "municipality": "Siena",
     "province": "SI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "controlType": "ztl",
+    "name": "Varco Porta Romana"
   },
   {
     "id": "osm-camera-11296360337",
@@ -3752,7 +3764,8 @@
     "locality": "Zola Predosa",
     "municipality": "Zola Predosa",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Via Risorgimento direzione Riale"
   },
   {
     "id": "osm-camera-11337903432",
@@ -3762,7 +3775,8 @@
     "locality": "Zola Predosa",
     "municipality": "Zola Predosa",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Via risorgimento direzione Zola"
   },
   {
     "id": "osm-camera-11337903437",
@@ -3772,7 +3786,8 @@
     "locality": "Zola Predosa",
     "municipality": "Zola Predosa",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox Via Garibaldi direzione Gesso"
   },
   {
     "id": "osm-camera-11337903438",
@@ -3782,7 +3797,8 @@
     "locality": "Zola Predosa",
     "municipality": "Zola Predosa",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox Cimitero direzione Rotonda"
   },
   {
     "id": "osm-camera-11341731275",
@@ -4685,7 +4701,8 @@
     "locality": "Città della Pieve",
     "municipality": "Città della Pieve",
     "province": "PG",
-    "region": "Umbria"
+    "region": "Umbria",
+    "name": "Autovelox di Po' Bandino"
   },
   {
     "id": "osm-camera-11620061117",
@@ -5336,7 +5353,8 @@
     "locality": "Borgio Verezzi",
     "municipality": "Borgio Verezzi",
     "province": "SV",
-    "region": "Liguria"
+    "region": "Liguria",
+    "name": "Autovelox 2 - SS1 Borgio Verezzi"
   },
   {
     "id": "osm-camera-11808314940",
@@ -5346,7 +5364,8 @@
     "locality": "Pietra Ligure",
     "municipality": "Pietra Ligure",
     "province": "SV",
-    "region": "Liguria"
+    "region": "Liguria",
+    "name": "Autovelox - SS1 Pietra Ligure"
   },
   {
     "id": "osm-camera-11808365900",
@@ -5356,7 +5375,8 @@
     "locality": "Cervo",
     "municipality": "Cervo",
     "province": "IM",
-    "region": "Liguria"
+    "region": "Liguria",
+    "name": "Autovelox - SS1 Cervo direzione IM"
   },
   {
     "id": "osm-camera-11809447444",
@@ -5366,7 +5386,8 @@
     "locality": "Casalgrasso",
     "municipality": "Casalgrasso",
     "province": "CN",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Autovelox - SP663 Casalgrssso CN"
   },
   {
     "id": "osm-camera-11810306232",
@@ -5376,7 +5397,8 @@
     "locality": "Alice Castello",
     "municipality": "Alice Castello",
     "province": "VC",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Autovelox - SS593 Alice Castello dir. Ovest"
   },
   {
     "id": "osm-camera-11810341374",
@@ -5405,7 +5427,8 @@
     "locality": "Cavaglià",
     "municipality": "Cavaglià",
     "province": "BI",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Autovelox 3- Cavglià dir Sud"
   },
   {
     "id": "osm-camera-11810416595",
@@ -5415,7 +5438,8 @@
     "locality": "San Germano Vercellese",
     "municipality": "San Germano Vercellese",
     "province": "VC",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Autovelox 2 - San Germano Vercellese"
   },
   {
     "id": "osm-camera-11810453515",
@@ -5425,7 +5449,8 @@
     "locality": "San Germano Vercellese",
     "municipality": "San Germano Vercellese",
     "province": "VC",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Autovelox - San Germano Vercellese"
   },
   {
     "id": "osm-camera-11811941232",
@@ -5435,7 +5460,8 @@
     "locality": "Marostica",
     "municipality": "Marostica",
     "province": "VI",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "autovelox"
   },
   {
     "id": "osm-camera-11812689650",
@@ -5445,7 +5471,8 @@
     "locality": "Vezza d'Alba",
     "municipality": "Vezza d'Alba",
     "province": "CN",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Autovelox - Vezza d'Alba"
   },
   {
     "id": "osm-camera-11816710062",
@@ -5476,7 +5503,8 @@
     "locality": "San Sebastiano da Po",
     "municipality": "San Sebastiano da Po",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Velox Colombaro Dir. NNE"
   },
   {
     "id": "osm-camera-11824319323",
@@ -5506,7 +5534,8 @@
     "locality": "Chieri",
     "municipality": "Chieri",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Velox Mosi Str. Fontanetp entrambi dir."
   },
   {
     "id": "osm-camera-11825197117",
@@ -5516,7 +5545,9 @@
     "locality": "San Vittore Olona",
     "municipality": "San Vittore Olona",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "trafficLight",
+    "name": "Photored - Via Sempione"
   },
   {
     "id": "osm-camera-11826380446",
@@ -5526,7 +5557,8 @@
     "locality": "Legnano",
     "municipality": "Legnano",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Photored direzione SW"
   },
   {
     "id": "osm-camera-11826380450",
@@ -5536,7 +5568,8 @@
     "locality": "Legnano",
     "municipality": "Legnano",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Photored direzione NE"
   },
   {
     "id": "osm-camera-11826380458",
@@ -5546,7 +5579,9 @@
     "locality": "Legnano",
     "municipality": "Legnano",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "trafficLight",
+    "name": "Photored direzione NE"
   },
   {
     "id": "osm-camera-11826380459",
@@ -5556,7 +5591,9 @@
     "locality": "Legnano",
     "municipality": "Legnano",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "trafficLight",
+    "name": "Photored direzione SW"
   },
   {
     "id": "osm-camera-11827406162",
@@ -5566,7 +5603,9 @@
     "locality": "Rho",
     "municipality": "Rho",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "trafficLight",
+    "name": "Photored direzione Nord"
   },
   {
     "id": "osm-camera-11827406165",
@@ -5576,7 +5615,9 @@
     "locality": "Rho",
     "municipality": "Rho",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "trafficLight",
+    "name": "Photored direzione Sud"
   },
   {
     "id": "osm-camera-11842373698",
@@ -5716,7 +5757,8 @@
     "locality": "Biella",
     "municipality": "Biella",
     "province": "BI",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Speed camera"
   },
   {
     "id": "osm-camera-11902424531",
@@ -5749,7 +5791,8 @@
     "locality": "Venaria Reale",
     "municipality": "Venaria Reale",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Autovelox - Venaria dir Nord"
   },
   {
     "id": "osm-camera-11917376179",
@@ -6550,7 +6593,8 @@
     "locality": "Seregno",
     "municipality": "Seregno",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-12120276236",
@@ -7065,7 +7109,8 @@
     "locality": "Castel Maggiore",
     "municipality": "Castel Maggiore",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-12244165188",
@@ -7076,7 +7121,8 @@
     "locality": "Bentivoglio",
     "municipality": "Bentivoglio",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-12244253129",
@@ -7087,7 +7133,8 @@
     "locality": "Malalbergo",
     "municipality": "Malalbergo",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-12244253136",
@@ -7098,7 +7145,8 @@
     "locality": "Ferrara",
     "municipality": "Ferrara",
     "province": "FE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-12244253139",
@@ -7109,7 +7157,8 @@
     "locality": "Ferrara",
     "municipality": "Ferrara",
     "province": "FE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-12244253142",
@@ -7120,7 +7169,8 @@
     "locality": "Ferrara",
     "municipality": "Ferrara",
     "province": "FE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-12244325859",
@@ -7131,7 +7181,8 @@
     "locality": "Ferrara",
     "municipality": "Ferrara",
     "province": "FE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-12244325863",
@@ -7142,7 +7193,8 @@
     "locality": "Occhiobello",
     "municipality": "Occhiobello",
     "province": "RO",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "130"
   },
   {
     "id": "osm-camera-12244364835",
@@ -7153,7 +7205,8 @@
     "locality": "Villamarzana",
     "municipality": "Villamarzana",
     "province": "RO",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "130"
   },
   {
     "id": "osm-camera-1224485748",
@@ -7174,7 +7227,8 @@
     "locality": "Verona",
     "municipality": "Verona",
     "province": "VR",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "50"
   },
   {
     "id": "osm-camera-12244931119",
@@ -7185,7 +7239,8 @@
     "locality": "Vigasio",
     "municipality": "Vigasio",
     "province": "VR",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "130"
   },
   {
     "id": "osm-camera-12245011989",
@@ -7195,7 +7250,8 @@
     "locality": "Brisighella",
     "municipality": "Brisighella",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "50"
   },
   {
     "id": "osm-camera-12245011992",
@@ -7286,7 +7342,8 @@
     "locality": "Cesena",
     "municipality": "Cesena",
     "province": "FC",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130 Tutor"
   },
   {
     "id": "osm-camera-12269429760",
@@ -7296,7 +7353,8 @@
     "locality": "Cesena",
     "municipality": "Cesena",
     "province": "FC",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130 Tutor"
   },
   {
     "id": "osm-camera-12269429763",
@@ -7346,7 +7404,8 @@
     "locality": "Imola",
     "municipality": "Imola",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130 Tutor"
   },
   {
     "id": "osm-camera-12269750489",
@@ -7366,7 +7425,8 @@
     "locality": "Forlì",
     "municipality": "Forlì",
     "province": "FC",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130 Tutor"
   },
   {
     "id": "osm-camera-12269750495",
@@ -7376,7 +7436,8 @@
     "locality": "Castel San Pietro Terme",
     "municipality": "Castel San Pietro Terme",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130 Tutor"
   },
   {
     "id": "osm-camera-12269750498",
@@ -7386,7 +7447,8 @@
     "locality": "Castel San Pietro Terme",
     "municipality": "Castel San Pietro Terme",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130 Tutor"
   },
   {
     "id": "osm-camera-12271731989",
@@ -7397,7 +7459,8 @@
     "locality": "Riolo Terme",
     "municipality": "Riolo Terme",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "70"
   },
   {
     "id": "osm-camera-1227821717",
@@ -7476,7 +7539,8 @@
     "locality": "Brisighella",
     "municipality": "Brisighella",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "50"
   },
   {
     "id": "osm-camera-12323583704",
@@ -7803,7 +7867,8 @@
     "locality": "Arcore",
     "municipality": "Arcore",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-12355198406",
@@ -9226,7 +9291,8 @@
     "locality": "Pavia",
     "municipality": "Pavia",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "VELOCAR"
   },
   {
     "id": "osm-camera-12850386792",
@@ -9235,7 +9301,8 @@
     "locality": "Pavia",
     "municipality": "Pavia",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "VELOCAR"
   },
   {
     "id": "osm-camera-12852848546",
@@ -10159,7 +10226,8 @@
     "locality": "Torgiano",
     "municipality": "Torgiano",
     "province": "PG",
-    "region": "Umbria"
+    "region": "Umbria",
+    "name": "Snelheidscamera"
   },
   {
     "id": "osm-camera-13048286862",
@@ -11883,7 +11951,8 @@
     "locality": "Ronciglione",
     "municipality": "Ronciglione",
     "province": "VT",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Camera"
   },
   {
     "id": "osm-camera-13433226194",
@@ -12854,7 +12923,8 @@
     "locality": "Voghera",
     "municipality": "Voghera",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Tutor @70 SP23 entrambe le direzioni"
   },
   {
     "id": "osm-camera-13902988080",
@@ -12864,7 +12934,8 @@
     "locality": "Voghera",
     "municipality": "Voghera",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Tutor @70 SP23 entrambe le direzioni"
   },
   {
     "id": "osm-camera-13903689474",
@@ -14330,7 +14401,8 @@
     "locality": "Cavenago di Brianza",
     "municipality": "Cavenago di Brianza",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Tutor Cavenago Brianza A4"
   },
   {
     "id": "osm-camera-13956816421",
@@ -14340,7 +14412,8 @@
     "locality": "Cavenago di Brianza",
     "municipality": "Cavenago di Brianza",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Tutor Cavenago Brianza A4"
   },
   {
     "id": "osm-camera-13958464541",
@@ -15343,7 +15416,8 @@
     "locality": "Brugherio",
     "municipality": "Brugherio",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox 50"
   },
   {
     "id": "osm-camera-14101172375",
@@ -15352,7 +15426,8 @@
     "locality": "Brugherio",
     "municipality": "Brugherio",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox 50"
   },
   {
     "id": "osm-camera-14102893224",
@@ -15391,7 +15466,8 @@
     "locality": "Massa",
     "municipality": "Massa",
     "province": "MS",
-    "region": "Toscana"
+    "region": "Toscana",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-14107243173",
@@ -15696,7 +15772,8 @@
     "locality": "Roncadelle",
     "municipality": "Roncadelle",
     "province": "BS",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Tutor Roncadelle A4 - Val Trompia Nord"
   },
   {
     "id": "osm-camera-1449078197",
@@ -15706,7 +15783,8 @@
     "locality": "Brugherio",
     "municipality": "Brugherio",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cernusco"
   },
   {
     "id": "osm-camera-1449078198",
@@ -15716,7 +15794,8 @@
     "locality": "Brugherio",
     "municipality": "Brugherio",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cernusco"
   },
   {
     "id": "osm-camera-1451193919",
@@ -16284,7 +16363,8 @@
     "locality": "Firenze",
     "municipality": "Firenze",
     "province": "FI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "name": "autovelox"
   },
   {
     "id": "osm-camera-1590020814",
@@ -16565,7 +16645,8 @@
     "locality": "Nervesa della Battaglia",
     "municipality": "Nervesa della Battaglia",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-1730294727",
@@ -16787,7 +16868,8 @@
     "locality": "Verona",
     "municipality": "Verona",
     "province": "VR",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox 50 km/h"
   },
   {
     "id": "osm-camera-1790272194",
@@ -16836,7 +16918,8 @@
     "locality": "Verona",
     "municipality": "Verona",
     "province": "VR",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox 50 km/h"
   },
   {
     "id": "osm-camera-1801340849",
@@ -17386,7 +17469,8 @@
     "locality": "Ivrea",
     "municipality": "Ivrea",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-1886123127",
@@ -17395,7 +17479,8 @@
     "locality": "Ivrea",
     "municipality": "Ivrea",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-1888428513",
@@ -17404,7 +17489,8 @@
     "locality": "Giavera del Montello",
     "municipality": "Giavera del Montello",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-1903115402",
@@ -17494,7 +17580,8 @@
     "locality": "Villorba",
     "municipality": "Villorba",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-1933335602",
@@ -17510,12 +17597,12 @@
     "id": "osm-camera-195511300",
     "latitude": 43.318342,
     "longitude": 11.325655,
-    "controlType": "ztl",
-    "name": "Varco Esterna Fontebranda",
     "locality": "Siena",
     "municipality": "Siena",
     "province": "SI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "controlType": "ztl",
+    "name": "Varco Esterna Fontebranda"
   },
   {
     "id": "osm-camera-1955321194",
@@ -17715,7 +17802,8 @@
     "locality": "Camposampiero",
     "municipality": "Camposampiero",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-1982770321",
@@ -17744,7 +17832,8 @@
     "locality": "Maranello",
     "municipality": "Maranello",
     "province": "MO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Torremaina"
   },
   {
     "id": "osm-camera-1982796461",
@@ -17955,7 +18044,8 @@
     "locality": "Roma",
     "municipality": "Roma",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2034536356",
@@ -17965,7 +18055,8 @@
     "locality": "Roma",
     "municipality": "Roma",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2034550259",
@@ -17975,7 +18066,8 @@
     "locality": "Roma",
     "municipality": "Roma",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2034566788",
@@ -17985,7 +18077,8 @@
     "locality": "Roma",
     "municipality": "Roma",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2035680315",
@@ -18374,7 +18467,8 @@
     "locality": "Concorezzo",
     "municipality": "Concorezzo",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Fisso Agrate Brianza"
   },
   {
     "id": "osm-camera-2153645026",
@@ -18384,7 +18478,8 @@
     "locality": "Sesto San Giovanni",
     "municipality": "Sesto San Giovanni",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Sesto San Giovanni"
   },
   {
     "id": "osm-camera-2153647629",
@@ -18394,7 +18489,8 @@
     "locality": "Milano",
     "municipality": "Milano",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Lambrate"
   },
   {
     "id": "osm-camera-2153652407",
@@ -18404,7 +18500,8 @@
     "locality": "Agrate Brianza",
     "municipality": "Agrate Brianza",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Fisso Agrate Brianza"
   },
   {
     "id": "osm-camera-2157169276",
@@ -18596,7 +18693,8 @@
     "locality": "Inzago",
     "municipality": "Inzago",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Inzago Padana Superiore"
   },
   {
     "id": "osm-camera-2205050353",
@@ -18606,7 +18704,8 @@
     "locality": "Inzago",
     "municipality": "Inzago",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Inzago Padana Superiore"
   },
   {
     "id": "osm-camera-2205079198",
@@ -18624,7 +18723,8 @@
     "locality": "Cassano d'Adda",
     "municipality": "Cassano d'Adda",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cassano D'Adda"
   },
   {
     "id": "osm-camera-2205079200",
@@ -18633,7 +18733,8 @@
     "locality": "Cassano d'Adda",
     "municipality": "Cassano d'Adda",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cassano D'Adda"
   },
   {
     "id": "osm-camera-2209833439",
@@ -18767,7 +18868,8 @@
     "locality": "Costabissara",
     "municipality": "Costabissara",
     "province": "VI",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2270398430",
@@ -18804,7 +18906,8 @@
     "locality": "Villanova d'Asti",
     "municipality": "Villanova d'Asti",
     "province": "AT",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Q8"
   },
   {
     "id": "osm-camera-2278620014",
@@ -18927,7 +19030,8 @@
     "locality": "Cinisello Balsamo",
     "municipality": "Cinisello Balsamo",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cinisello"
   },
   {
     "id": "osm-camera-2283204402",
@@ -19798,7 +19902,8 @@
     "locality": "Costabissara",
     "municipality": "Costabissara",
     "province": "VI",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2381557010",
@@ -19807,7 +19912,8 @@
     "locality": "Costabissara",
     "municipality": "Costabissara",
     "province": "VI",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2384711761",
@@ -20001,7 +20107,8 @@
     "locality": "Nervesa della Battaglia",
     "municipality": "Nervesa della Battaglia",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2415891802",
@@ -20028,7 +20135,8 @@
     "locality": "Volpago del Montello",
     "municipality": "Volpago del Montello",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2416229929",
@@ -20037,7 +20145,8 @@
     "locality": "Giavera del Montello",
     "municipality": "Giavera del Montello",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2416619208",
@@ -20260,7 +20369,8 @@
     "locality": "Grugliasco",
     "municipality": "Grugliasco",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2452674347",
@@ -20270,7 +20380,8 @@
     "locality": "Grugliasco",
     "municipality": "Grugliasco",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2453324885",
@@ -20678,7 +20789,8 @@
     "locality": "San Giorgio in Bosco",
     "municipality": "San Giorgio in Bosco",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2516464515",
@@ -20687,7 +20799,8 @@
     "locality": "San Giorgio in Bosco",
     "municipality": "San Giorgio in Bosco",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2516464519",
@@ -20696,7 +20809,8 @@
     "locality": "San Giorgio in Bosco",
     "municipality": "San Giorgio in Bosco",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2516464523",
@@ -20705,7 +20819,8 @@
     "locality": "San Giorgio in Bosco",
     "municipality": "San Giorgio in Bosco",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2516464607",
@@ -21688,7 +21803,8 @@
     "locality": "Cernusco sul Naviglio",
     "municipality": "Cernusco sul Naviglio",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cernusco"
   },
   {
     "id": "osm-camera-2639186841",
@@ -21738,7 +21854,8 @@
     "locality": "Cernusco sul Naviglio",
     "municipality": "Cernusco sul Naviglio",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cernusco via Po"
   },
   {
     "id": "osm-camera-2644400863",
@@ -21768,7 +21885,8 @@
     "locality": "Cernusco sul Naviglio",
     "municipality": "Cernusco sul Naviglio",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cernusco"
   },
   {
     "id": "osm-camera-2659090427",
@@ -21778,7 +21896,8 @@
     "locality": "Pietra de' Giorgi",
     "municipality": "Pietra de' Giorgi",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Velo OK"
   },
   {
     "id": "osm-camera-2659090428",
@@ -21788,7 +21907,8 @@
     "locality": "Pietra de' Giorgi",
     "municipality": "Pietra de' Giorgi",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Velo OK"
   },
   {
     "id": "osm-camera-2659090429",
@@ -21798,7 +21918,8 @@
     "locality": "Pietra de' Giorgi",
     "municipality": "Pietra de' Giorgi",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Velo OK"
   },
   {
     "id": "osm-camera-2659090431",
@@ -21808,7 +21929,8 @@
     "locality": "Pietra de' Giorgi",
     "municipality": "Pietra de' Giorgi",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Velo OK"
   },
   {
     "id": "osm-camera-2661102073",
@@ -22437,7 +22559,8 @@
     "locality": "Macchia d'Isernia",
     "municipality": "Macchia d'Isernia",
     "province": "IS",
-    "region": "Molise"
+    "region": "Molise",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2799995425",
@@ -22537,7 +22660,8 @@
     "locality": "Fragneto Monforte",
     "municipality": "Fragneto Monforte",
     "province": "BN",
-    "region": "Campania"
+    "region": "Campania",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2809851558",
@@ -22546,7 +22670,8 @@
     "locality": "Pontelandolfo",
     "municipality": "Pontelandolfo",
     "province": "BN",
-    "region": "Campania"
+    "region": "Campania",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-2809852174",
@@ -22556,7 +22681,8 @@
     "locality": "Morcone",
     "municipality": "Morcone",
     "province": "BN",
-    "region": "Campania"
+    "region": "Campania",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-281173833",
@@ -22693,7 +22819,8 @@
     "locality": "Chieuti",
     "municipality": "Chieuti",
     "province": "FG",
-    "region": "Puglia"
+    "region": "Puglia",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-2881195341",
@@ -22741,7 +22868,8 @@
     "locality": "Cologno Monzese",
     "municipality": "Cologno Monzese",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cernusco"
   },
   {
     "id": "osm-camera-2897998694",
@@ -22751,7 +22879,8 @@
     "locality": "Brugherio",
     "municipality": "Brugherio",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cernusco"
   },
   {
     "id": "osm-camera-2897999003",
@@ -22781,7 +22910,8 @@
     "locality": "Agrate Brianza",
     "municipality": "Agrate Brianza",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Fisso Agrate Brianza"
   },
   {
     "id": "osm-camera-2899217598",
@@ -22791,7 +22921,8 @@
     "locality": "Concorezzo",
     "municipality": "Concorezzo",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Fisso Agrate Brianza"
   },
   {
     "id": "osm-camera-2899217599",
@@ -22811,7 +22942,8 @@
     "locality": "Cernusco sul Naviglio",
     "municipality": "Cernusco sul Naviglio",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cernusco"
   },
   {
     "id": "osm-camera-2899591523",
@@ -22821,7 +22953,8 @@
     "locality": "Cernusco sul Naviglio",
     "municipality": "Cernusco sul Naviglio",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cernusco"
   },
   {
     "id": "osm-camera-2899606593",
@@ -22831,7 +22964,8 @@
     "locality": "Milano",
     "municipality": "Milano",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Lambrate"
   },
   {
     "id": "osm-camera-2899623754",
@@ -22852,7 +22986,8 @@
     "locality": "Agrate Brianza",
     "municipality": "Agrate Brianza",
     "province": "MB",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Tutor Agrate Brianza A4"
   },
   {
     "id": "osm-camera-2899638088",
@@ -22862,7 +22997,8 @@
     "locality": "Roncadelle",
     "municipality": "Roncadelle",
     "province": "BS",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Tutor Roncadelle A4"
   },
   {
     "id": "osm-camera-2902682370",
@@ -23203,7 +23339,8 @@
     "locality": "Rosà",
     "municipality": "Rosà",
     "province": "VI",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-3035552788",
@@ -23213,7 +23350,8 @@
     "locality": "Sommacampagna",
     "municipality": "Sommacampagna",
     "province": "VR",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox 70 km/h"
   },
   {
     "id": "osm-camera-3035591305",
@@ -23223,7 +23361,8 @@
     "locality": "Villafranca di Verona",
     "municipality": "Villafranca di Verona",
     "province": "VR",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox 70 km/h"
   },
   {
     "id": "osm-camera-303659219",
@@ -23406,7 +23545,8 @@
     "locality": "Borgo Virgilio",
     "municipality": "Borgo Virgilio",
     "province": "MN",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "telecamera"
   },
   {
     "id": "osm-camera-3056233905",
@@ -23684,7 +23824,8 @@
     "locality": "Fontaniva",
     "municipality": "Fontaniva",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "autovelox 70 km/h"
   },
   {
     "id": "osm-camera-3077250945",
@@ -23694,7 +23835,8 @@
     "locality": "Fontaniva",
     "municipality": "Fontaniva",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "autovelox 70 km/h"
   },
   {
     "id": "osm-camera-3077259101",
@@ -23789,7 +23931,8 @@
     "locality": "Paese",
     "municipality": "Paese",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-312378665",
@@ -24080,7 +24223,8 @@
     "locality": "Due Carrare",
     "municipality": "Due Carrare",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-3184933604",
@@ -24090,7 +24234,8 @@
     "locality": "Due Carrare",
     "municipality": "Due Carrare",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-318684724",
@@ -24109,7 +24254,8 @@
     "locality": "Volpago del Montello",
     "municipality": "Volpago del Montello",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-3194321650",
@@ -24169,7 +24315,8 @@
     "locality": "Sesto San Giovanni",
     "municipality": "Sesto San Giovanni",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Sesto San Giovanni"
   },
   {
     "id": "osm-camera-322008490",
@@ -24238,7 +24385,8 @@
     "locality": "Ponte nelle Alpi",
     "municipality": "Ponte nelle Alpi",
     "province": "BL",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Speed Enforced"
   },
   {
     "id": "osm-camera-3258101025",
@@ -24573,7 +24721,8 @@
     "locality": "Firenze",
     "municipality": "Firenze",
     "province": "FI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "name": "autovelox"
   },
   {
     "id": "osm-camera-339242800",
@@ -24602,7 +24751,8 @@
     "locality": "Sesto Fiorentino",
     "municipality": "Sesto Fiorentino",
     "province": "FI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-3392823404",
@@ -24767,7 +24917,8 @@
     "locality": "Rapallo",
     "municipality": "Rapallo",
     "province": "GE",
-    "region": "Liguria"
+    "region": "Liguria",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-3449771852",
@@ -24776,7 +24927,8 @@
     "locality": "Rapallo",
     "municipality": "Rapallo",
     "province": "GE",
-    "region": "Liguria"
+    "region": "Liguria",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-3449771853",
@@ -24785,7 +24937,8 @@
     "locality": "Rapallo",
     "municipality": "Rapallo",
     "province": "GE",
-    "region": "Liguria"
+    "region": "Liguria",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-3449771854",
@@ -24794,7 +24947,8 @@
     "locality": "Borgo Priolo",
     "municipality": "Borgo Priolo",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-3449771855",
@@ -24803,7 +24957,8 @@
     "locality": "Borgo Priolo",
     "municipality": "Borgo Priolo",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-3449771856",
@@ -24812,7 +24967,8 @@
     "locality": "Borgo Priolo",
     "municipality": "Borgo Priolo",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-3449771857",
@@ -24821,7 +24977,8 @@
     "locality": "Borgo Priolo",
     "municipality": "Borgo Priolo",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-345557089",
@@ -25997,7 +26154,8 @@
     "locality": "Civitella di Romagna",
     "municipality": "Civitella di Romagna",
     "province": "FC",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-3708475908",
@@ -26007,7 +26165,8 @@
     "locality": "Civitella di Romagna",
     "municipality": "Civitella di Romagna",
     "province": "FC",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-3710162384",
@@ -26026,7 +26185,8 @@
     "locality": "Barberino di Mugello",
     "municipality": "Barberino di Mugello",
     "province": "FI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "name": "camera"
   },
   {
     "id": "osm-camera-3710175501",
@@ -26303,7 +26463,8 @@
     "locality": "Montagna in Valtellina",
     "municipality": "Montagna in Valtellina",
     "province": "SO",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "rilevatore velocità 50 km/ora"
   },
   {
     "id": "osm-camera-3780617264",
@@ -26541,7 +26702,8 @@
     "locality": "Montegaldella",
     "municipality": "Montegaldella",
     "province": "VI",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox 50 km/h"
   },
   {
     "id": "osm-camera-3838712238",
@@ -26828,7 +26990,8 @@
     "locality": "San Pietro Mosezzo",
     "municipality": "San Pietro Mosezzo",
     "province": "NO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-3937917685",
@@ -26875,7 +27038,8 @@
     "locality": "Rodano",
     "municipality": "Rodano",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Rodano"
   },
   {
     "id": "osm-camera-3993480879",
@@ -26885,7 +27049,8 @@
     "locality": "Settala",
     "municipality": "Settala",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Rodano"
   },
   {
     "id": "osm-camera-3993648016",
@@ -27185,7 +27350,8 @@
     "locality": "Moruzzo",
     "municipality": "Moruzzo",
     "province": "UD",
-    "region": "Friuli-Venezia Giulia"
+    "region": "Friuli-Venezia Giulia",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-4083588047",
@@ -27221,7 +27387,8 @@
     "locality": "Montegalda",
     "municipality": "Montegalda",
     "province": "VI",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-4087993401",
@@ -27230,7 +27397,8 @@
     "locality": "Montegalda",
     "municipality": "Montegalda",
     "province": "VI",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-4088003026",
@@ -27259,7 +27427,8 @@
     "locality": "Negrar di Valpolicella",
     "municipality": "Negrar di Valpolicella",
     "province": "VR",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "Autovelox 50km/h"
   },
   {
     "id": "osm-camera-4116168934",
@@ -28026,7 +28195,8 @@
     "locality": "Morgano",
     "municipality": "Morgano",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-4338825477",
@@ -28036,7 +28206,8 @@
     "locality": "Cassina de' Pecchi",
     "municipality": "Cassina de' Pecchi",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Sant'Agata Cassina"
   },
   {
     "id": "osm-camera-4338825478",
@@ -28046,7 +28217,8 @@
     "locality": "Cassina de' Pecchi",
     "municipality": "Cassina de' Pecchi",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Sant'Agata Cassina"
   },
   {
     "id": "osm-camera-4339084024",
@@ -28104,7 +28276,8 @@
     "locality": "Paese",
     "municipality": "Paese",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-4349590757",
@@ -28552,7 +28725,8 @@
     "locality": "Copparo",
     "municipality": "Copparo",
     "province": "FE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Velox Tamara"
   },
   {
     "id": "osm-camera-4407964131",
@@ -28687,7 +28861,8 @@
     "locality": "Bologna",
     "municipality": "Bologna",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Nuova Bazzanese verso Bologna 1"
   },
   {
     "id": "osm-camera-4427659433",
@@ -28697,7 +28872,8 @@
     "locality": "Casalecchio di Reno",
     "municipality": "Casalecchio di Reno",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Nuova Bazzanese verso Bazzano 1"
   },
   {
     "id": "osm-camera-4428740001",
@@ -28945,7 +29121,8 @@
     "locality": "Imola",
     "municipality": "Imola",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "SpeedCam Piratello 70km"
   },
   {
     "id": "osm-camera-4473679846",
@@ -29305,7 +29482,8 @@
     "locality": "Ozzano dell'Emilia",
     "municipality": "Ozzano dell'Emilia",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "SpeedCam Ponte Rizzoli - Cà Bassone"
   },
   {
     "id": "osm-camera-4575684683",
@@ -29315,7 +29493,8 @@
     "locality": "Ozzano dell'Emilia",
     "municipality": "Ozzano dell'Emilia",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "SpeedCam Cà Bassone"
   },
   {
     "id": "osm-camera-4578127811",
@@ -29333,7 +29512,8 @@
     "locality": "Minerbio",
     "municipality": "Minerbio",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "SpeedCam - Minerbio, Via Roma"
   },
   {
     "id": "osm-camera-4580948293",
@@ -29342,7 +29522,8 @@
     "locality": "Budrio",
     "municipality": "Budrio",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "SpeedCam - Cazzano, Via San Zenone"
   },
   {
     "id": "osm-camera-4583560422",
@@ -29523,7 +29704,8 @@
     "locality": "Cassina de' Pecchi",
     "municipality": "Cassina de' Pecchi",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Camporicco"
   },
   {
     "id": "osm-camera-4622102167",
@@ -29597,7 +29779,8 @@
     "locality": "Cassina de' Pecchi",
     "municipality": "Cassina de' Pecchi",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Sant'Agata Cassina"
   },
   {
     "id": "osm-camera-4644686037",
@@ -30004,7 +30187,8 @@
     "locality": "Redondesco",
     "municipality": "Redondesco",
     "province": "MN",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-4707242673",
@@ -30061,7 +30245,8 @@
     "locality": "Padova",
     "municipality": "Padova",
     "province": "PD",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-4716715192",
@@ -30332,7 +30517,8 @@
     "locality": "Valdobbiadene",
     "municipality": "Valdobbiadene",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "SpeedCam San Pietro di Barbozza"
   },
   {
     "id": "osm-camera-4761425760",
@@ -30341,7 +30527,8 @@
     "locality": "Valdobbiadene",
     "municipality": "Valdobbiadene",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "name": "SpeedCam Bigolino"
   },
   {
     "id": "osm-camera-476658311",
@@ -30634,7 +30821,8 @@
     "locality": "Sasso Marconi",
     "municipality": "Sasso Marconi",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-4856943525",
@@ -30644,7 +30832,8 @@
     "locality": "Sasso Marconi",
     "municipality": "Sasso Marconi",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-4856944721",
@@ -30654,7 +30843,8 @@
     "locality": "Sasso Marconi",
     "municipality": "Sasso Marconi",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-4856944723",
@@ -30664,7 +30854,8 @@
     "locality": "Sasso Marconi",
     "municipality": "Sasso Marconi",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-4856944725",
@@ -30674,7 +30865,8 @@
     "locality": "Sasso Marconi",
     "municipality": "Sasso Marconi",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-4856944821",
@@ -30684,7 +30876,8 @@
     "locality": "Sasso Marconi",
     "municipality": "Sasso Marconi",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-4858414273",
@@ -30996,7 +31189,8 @@
     "locality": "Mazzano",
     "municipality": "Mazzano",
     "province": "BS",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Velocar Red & Speed EVO"
   },
   {
     "id": "osm-camera-4944121689",
@@ -31005,7 +31199,8 @@
     "locality": "Mazzano",
     "municipality": "Mazzano",
     "province": "BS",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Velocar Red & Speed EVO"
   },
   {
     "id": "osm-camera-4949045933",
@@ -31549,7 +31744,8 @@
     "locality": "Monfalcone",
     "municipality": "Monfalcone",
     "province": "GO",
-    "region": "Friuli-Venezia Giulia"
+    "region": "Friuli-Venezia Giulia",
+    "name": "Autovelox Box 2"
   },
   {
     "id": "osm-camera-5033911981",
@@ -31558,7 +31754,8 @@
     "locality": "Monfalcone",
     "municipality": "Monfalcone",
     "province": "GO",
-    "region": "Friuli-Venezia Giulia"
+    "region": "Friuli-Venezia Giulia",
+    "name": "Autovelox Box 4"
   },
   {
     "id": "osm-camera-5033911984",
@@ -31567,7 +31764,8 @@
     "locality": "Monfalcone",
     "municipality": "Monfalcone",
     "province": "GO",
-    "region": "Friuli-Venezia Giulia"
+    "region": "Friuli-Venezia Giulia",
+    "name": "Autovelox Box 5"
   },
   {
     "id": "osm-camera-503666413",
@@ -31625,7 +31823,8 @@
     "locality": "Lana/Lana",
     "municipality": "Lana/Lana",
     "province": "BZ",
-    "region": "Trentino-Alto Adige/Südtirol"
+    "region": "Trentino-Alto Adige/Südtirol",
+    "name": "Blitzer Ortsausgang Lana SS238"
   },
   {
     "id": "osm-camera-5051489833",
@@ -31643,7 +31842,8 @@
     "locality": "Monfalcone",
     "municipality": "Monfalcone",
     "province": "GO",
-    "region": "Friuli-Venezia Giulia"
+    "region": "Friuli-Venezia Giulia",
+    "name": "Autovelox Box 3"
   },
   {
     "id": "osm-camera-5054222455",
@@ -31652,7 +31852,8 @@
     "locality": "Monfalcone",
     "municipality": "Monfalcone",
     "province": "GO",
-    "region": "Friuli-Venezia Giulia"
+    "region": "Friuli-Venezia Giulia",
+    "name": "Autovelox Box 7"
   },
   {
     "id": "osm-camera-5054222456",
@@ -31661,7 +31862,8 @@
     "locality": "Monfalcone",
     "municipality": "Monfalcone",
     "province": "GO",
-    "region": "Friuli-Venezia Giulia"
+    "region": "Friuli-Venezia Giulia",
+    "name": "Autovelox Box"
   },
   {
     "id": "osm-camera-5054222457",
@@ -31671,7 +31873,8 @@
     "locality": "Monfalcone",
     "municipality": "Monfalcone",
     "province": "GO",
-    "region": "Friuli-Venezia Giulia"
+    "region": "Friuli-Venezia Giulia",
+    "name": "Autovelox Box 8"
   },
   {
     "id": "osm-camera-5054390690",
@@ -31785,7 +31988,8 @@
     "locality": "Casteggio",
     "municipality": "Casteggio",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "VelOK"
   },
   {
     "id": "osm-camera-5065687161",
@@ -31950,7 +32154,8 @@
     "locality": "Carrara",
     "municipality": "Carrara",
     "province": "MS",
-    "region": "Toscana"
+    "region": "Toscana",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-5103318809",
@@ -32621,7 +32826,8 @@
     "locality": "Pioltello",
     "municipality": "Pioltello",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cassanese"
   },
   {
     "id": "osm-camera-5214230367",
@@ -32711,7 +32917,8 @@
     "locality": "Druogno",
     "municipality": "Druogno",
     "province": "VB",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "VelOK"
   },
   {
     "id": "osm-camera-5222316479",
@@ -32721,7 +32928,8 @@
     "locality": "Druogno",
     "municipality": "Druogno",
     "province": "VB",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "VelOK"
   },
   {
     "id": "osm-camera-5222316480",
@@ -32731,7 +32939,8 @@
     "locality": "Druogno",
     "municipality": "Druogno",
     "province": "VB",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "VelOK"
   },
   {
     "id": "osm-camera-5222316481",
@@ -32799,7 +33008,8 @@
     "locality": "Pioltello",
     "municipality": "Pioltello",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Cassanese"
   },
   {
     "id": "osm-camera-5238450930",
@@ -33950,7 +34160,8 @@
     "locality": "Controguerra",
     "municipality": "Controguerra",
     "province": "TE",
-    "region": "Abruzzo"
+    "region": "Abruzzo",
+    "controlType": "other"
   },
   {
     "id": "osm-camera-546575378",
@@ -34473,7 +34684,8 @@
     "locality": "Castel Bolognese",
     "municipality": "Castel Bolognese",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "70"
   },
   {
     "id": "osm-camera-5605422545",
@@ -35140,7 +35352,8 @@
     "locality": "Anzola dell'Emilia",
     "municipality": "Anzola dell'Emilia",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-5824657794",
@@ -35149,7 +35362,8 @@
     "locality": "San Giovanni in Persiceto",
     "municipality": "San Giovanni in Persiceto",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-5825157357",
@@ -35218,7 +35432,8 @@
     "locality": "Guidizzolo",
     "municipality": "Guidizzolo",
     "province": "MN",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "red light trap"
   },
   {
     "id": "osm-camera-5833434367",
@@ -35227,7 +35442,8 @@
     "locality": "Guidizzolo",
     "municipality": "Guidizzolo",
     "province": "MN",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "red light trap"
   },
   {
     "id": "osm-camera-5833437141",
@@ -36817,7 +37033,8 @@
     "locality": "Marzabotto",
     "municipality": "Marzabotto",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-6249264365",
@@ -36838,7 +37055,8 @@
     "locality": "Anzola dell'Emilia",
     "municipality": "Anzola dell'Emilia",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-626102474",
@@ -36857,7 +37075,8 @@
     "locality": "Venaria Reale",
     "municipality": "Venaria Reale",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "T-red"
   },
   {
     "id": "osm-camera-6264229492",
@@ -37125,7 +37344,8 @@
     "locality": "Santa Marinella",
     "municipality": "Santa Marinella",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Photored"
   },
   {
     "id": "osm-camera-6362270335",
@@ -37134,7 +37354,8 @@
     "locality": "Santa Marinella",
     "municipality": "Santa Marinella",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Photored"
   },
   {
     "id": "osm-camera-6364110379",
@@ -37429,7 +37650,8 @@
     "locality": "Forlì",
     "municipality": "Forlì",
     "province": "FC",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-6443137600",
@@ -37447,7 +37669,8 @@
     "locality": "Forlì",
     "municipality": "Forlì",
     "province": "FC",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-6443146254",
@@ -37485,7 +37708,8 @@
     "locality": "Ravenna",
     "municipality": "Ravenna",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-6451721712",
@@ -37494,7 +37718,8 @@
     "locality": "Ravenna",
     "municipality": "Ravenna",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-6460327630",
@@ -37521,7 +37746,8 @@
     "locality": "Santa Marinella",
     "municipality": "Santa Marinella",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Photereed"
   },
   {
     "id": "osm-camera-6479008577",
@@ -37558,7 +37784,8 @@
     "locality": "Terre del Reno",
     "municipality": "Terre del Reno",
     "province": "FE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Miabello"
   },
   {
     "id": "osm-camera-6487948880",
@@ -37567,7 +37794,8 @@
     "locality": "Cento",
     "municipality": "Cento",
     "province": "FE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Cento"
   },
   {
     "id": "osm-camera-6499773679",
@@ -37725,7 +37953,8 @@
     "locality": "Trevignano",
     "municipality": "Trevignano",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-6552325598",
@@ -37734,7 +37963,8 @@
     "locality": "Trevignano",
     "municipality": "Trevignano",
     "province": "TV",
-    "region": "Veneto"
+    "region": "Veneto",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-6566253873",
@@ -38230,7 +38460,8 @@
     "locality": "Comacchio",
     "municipality": "Comacchio",
     "province": "FE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Semaforo"
   },
   {
     "id": "osm-camera-6748956171",
@@ -38406,7 +38637,8 @@
     "locality": "Castelnuovo Rangone",
     "municipality": "Castelnuovo Rangone",
     "province": "MO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "T-Red"
   },
   {
     "id": "osm-camera-6779354038",
@@ -38797,7 +39029,8 @@
     "locality": "Castelnuovo Rangone",
     "municipality": "Castelnuovo Rangone",
     "province": "MO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "T-Red"
   },
   {
     "id": "osm-camera-6886074699",
@@ -39237,7 +39470,8 @@
     "locality": "Torino",
     "municipality": "Torino",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "EnVES EVO MVD 1605"
   },
   {
     "id": "osm-camera-7013639637",
@@ -39246,7 +39480,8 @@
     "locality": "Torino",
     "municipality": "Torino",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "EnVES EVO MVD 1605"
   },
   {
     "id": "osm-camera-701539544",
@@ -39965,7 +40200,8 @@
     "locality": "Lagnasco",
     "municipality": "Lagnasco",
     "province": "CN",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "Velocar Red&Speed"
   },
   {
     "id": "osm-camera-7203039030",
@@ -40056,7 +40292,8 @@
     "locality": "Torino",
     "municipality": "Torino",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-7227576492",
@@ -40065,7 +40302,8 @@
     "locality": "Torino",
     "municipality": "Torino",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-7227609547",
@@ -40074,7 +40312,8 @@
     "locality": "Torino",
     "municipality": "Torino",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-7230327027",
@@ -40393,7 +40632,8 @@
     "locality": "Casei Gerola",
     "municipality": "Casei Gerola",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox - Direzione Casei"
   },
   {
     "id": "osm-camera-7430420684",
@@ -40535,7 +40775,8 @@
     "locality": "Santa Marinella",
     "municipality": "Santa Marinella",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Autovelox mobile"
   },
   {
     "id": "osm-camera-7550340432",
@@ -40544,7 +40785,8 @@
     "locality": "Civitavecchia",
     "municipality": "Civitavecchia",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Autovelox fisso"
   },
   {
     "id": "osm-camera-7550382989",
@@ -40553,7 +40795,8 @@
     "locality": "Civitavecchia",
     "municipality": "Civitavecchia",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Autovelox fisso"
   },
   {
     "id": "osm-camera-7550393546",
@@ -40562,7 +40805,8 @@
     "locality": "Civitavecchia",
     "municipality": "Civitavecchia",
     "province": "RM",
-    "region": "Lazio"
+    "region": "Lazio",
+    "name": "Autovelox fisso"
   },
   {
     "id": "osm-camera-7550405827",
@@ -40591,7 +40835,8 @@
     "locality": "Bentivoglio",
     "municipality": "Bentivoglio",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "90"
   },
   {
     "id": "osm-camera-7563702877",
@@ -40611,7 +40856,8 @@
     "locality": "Castelvenere",
     "municipality": "Castelvenere",
     "province": "BN",
-    "region": "Campania"
+    "region": "Campania",
+    "name": "Dissuasore"
   },
   {
     "id": "osm-camera-7563751251",
@@ -40620,7 +40866,8 @@
     "locality": "Castelvenere",
     "municipality": "Castelvenere",
     "province": "BN",
-    "region": "Campania"
+    "region": "Campania",
+    "name": "Dissuasore"
   },
   {
     "id": "osm-camera-7563763858",
@@ -40629,7 +40876,8 @@
     "locality": "Castelvenere",
     "municipality": "Castelvenere",
     "province": "BN",
-    "region": "Campania"
+    "region": "Campania",
+    "name": "Dissuasore"
   },
   {
     "id": "osm-camera-7563786473",
@@ -41429,7 +41677,8 @@
     "locality": "Bologna",
     "municipality": "Bologna",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-7724745830",
@@ -41440,7 +41689,8 @@
     "locality": "Bentivoglio",
     "municipality": "Bentivoglio",
     "province": "BO",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-7724774856",
@@ -41451,7 +41701,8 @@
     "locality": "Poggio Renatico",
     "municipality": "Poggio Renatico",
     "province": "FE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "130"
   },
   {
     "id": "osm-camera-7727376751",
@@ -41481,7 +41732,8 @@
     "locality": "Cogoleto",
     "municipality": "Cogoleto",
     "province": "GE",
-    "region": "Liguria"
+    "region": "Liguria",
+    "name": "autovelox"
   },
   {
     "id": "osm-camera-7727376754",
@@ -41491,7 +41743,8 @@
     "locality": "Cogoleto",
     "municipality": "Cogoleto",
     "province": "GE",
-    "region": "Liguria"
+    "region": "Liguria",
+    "name": "autovelox"
   },
   {
     "id": "osm-camera-7727420116",
@@ -41742,7 +41995,8 @@
     "locality": "Reggiolo",
     "municipality": "Reggiolo",
     "province": "RE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-7808279661",
@@ -41752,7 +42006,8 @@
     "locality": "Campagnola Emilia",
     "municipality": "Campagnola Emilia",
     "province": "RE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-7808297131",
@@ -41762,7 +42017,8 @@
     "locality": "Rio Saliceto",
     "municipality": "Rio Saliceto",
     "province": "RE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-7808307205",
@@ -41771,7 +42027,8 @@
     "locality": "Rio Saliceto",
     "municipality": "Rio Saliceto",
     "province": "RE",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-7809170199",
@@ -41913,7 +42170,8 @@
     "locality": "Castel Bolognese",
     "municipality": "Castel Bolognese",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "70"
   },
   {
     "id": "osm-camera-7816063652",
@@ -41923,7 +42181,8 @@
     "locality": "Riolo Terme",
     "municipality": "Riolo Terme",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "70"
   },
   {
     "id": "osm-camera-7816063654",
@@ -41934,7 +42193,8 @@
     "locality": "Riolo Terme",
     "municipality": "Riolo Terme",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "50"
   },
   {
     "id": "osm-camera-7816063657",
@@ -42494,7 +42754,8 @@
     "locality": "Jesi",
     "municipality": "Jesi",
     "province": "AN",
-    "region": "Marche"
+    "region": "Marche",
+    "name": "speed camera 110 km"
   },
   {
     "id": "osm-camera-7992409724",
@@ -42562,7 +42823,9 @@
     "locality": "Siena",
     "municipality": "Siena",
     "province": "SI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "controlType": "ztl",
+    "name": "Varco Porta Ovile"
   },
   {
     "id": "osm-camera-8038928569",
@@ -42744,7 +43007,8 @@
     "locality": "Borghetto Santo Spirito",
     "municipality": "Borghetto Santo Spirito",
     "province": "SV",
-    "region": "Liguria"
+    "region": "Liguria",
+    "name": "T-red"
   },
   {
     "id": "osm-camera-8121412007",
@@ -43170,7 +43434,8 @@
     "locality": "Pescara",
     "municipality": "Pescara",
     "province": "PE",
-    "region": "Abruzzo"
+    "region": "Abruzzo",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-8247699082",
@@ -43200,7 +43465,8 @@
     "locality": "Corsico",
     "municipality": "Corsico",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox fisso"
   },
   {
     "id": "osm-camera-8262263842",
@@ -43209,7 +43475,8 @@
     "locality": "Alseno",
     "municipality": "Alseno",
     "province": "PC",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Cortina"
   },
   {
     "id": "osm-camera-8262359469",
@@ -43391,7 +43658,8 @@
     "locality": "Casei Gerola",
     "municipality": "Casei Gerola",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox - Direzione Voghera"
   },
   {
     "id": "osm-camera-8306725922",
@@ -43579,7 +43847,8 @@
     "locality": "Pescara",
     "municipality": "Pescara",
     "province": "PE",
-    "region": "Abruzzo"
+    "region": "Abruzzo",
+    "controlType": "other"
   },
   {
     "id": "osm-camera-8390804955",
@@ -44253,7 +44522,8 @@
     "locality": "Torino",
     "municipality": "Torino",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-8754767389",
@@ -44292,7 +44562,8 @@
     "locality": "Orbassano",
     "municipality": "Orbassano",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-8759091158",
@@ -44302,7 +44573,8 @@
     "locality": "Orbassano",
     "municipality": "Orbassano",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-8759106622",
@@ -44312,7 +44584,8 @@
     "locality": "Torino",
     "municipality": "Torino",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-8759106623",
@@ -44321,7 +44594,8 @@
     "locality": "Torino",
     "municipality": "Torino",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-87615340",
@@ -46014,7 +46288,9 @@
     "locality": "Montesilvano",
     "municipality": "Montesilvano",
     "province": "PE",
-    "region": "Abruzzo"
+    "region": "Abruzzo",
+    "controlType": "other",
+    "name": "Velo OK"
   },
   {
     "id": "osm-camera-9176914436",
@@ -46189,7 +46465,8 @@
     "locality": "Collegno",
     "municipality": "Collegno",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "autovelox 70 km h"
   },
   {
     "id": "osm-camera-921298565",
@@ -46199,7 +46476,8 @@
     "locality": "Collegno",
     "municipality": "Collegno",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "name": "autovelox 70 km h"
   },
   {
     "id": "osm-camera-9213986180",
@@ -46819,7 +47097,8 @@
     "locality": "Castel Bolognese",
     "municipality": "Castel Bolognese",
     "province": "RA",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "50"
   },
   {
     "id": "osm-camera-9382392009",
@@ -46858,7 +47137,8 @@
     "locality": "Rodano",
     "municipality": "Rodano",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Rodano"
   },
   {
     "id": "osm-camera-9387792225",
@@ -46868,7 +47148,8 @@
     "locality": "Settala",
     "municipality": "Settala",
     "province": "MI",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Autovelox Rodano"
   },
   {
     "id": "osm-camera-9388593010",
@@ -46878,7 +47159,8 @@
     "locality": "Lovere",
     "municipality": "Lovere",
     "province": "BG",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "controlType": "other"
   },
   {
     "id": "osm-camera-9394699710",
@@ -47429,7 +47711,8 @@
     "locality": "Voghera",
     "municipality": "Voghera",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Photored direzione Casei"
   },
   {
     "id": "osm-camera-9465463204",
@@ -47438,7 +47721,8 @@
     "locality": "Voghera",
     "municipality": "Voghera",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Photored direzione Voghera"
   },
   {
     "id": "osm-camera-9465498286",
@@ -47447,7 +47731,8 @@
     "locality": "Voghera",
     "municipality": "Voghera",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Voghera Viale repubblica- Photored direzione Rivanazzano"
   },
   {
     "id": "osm-camera-9465498288",
@@ -47456,7 +47741,8 @@
     "locality": "Voghera",
     "municipality": "Voghera",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Photored Via Barbieri direzione strada Bobbio"
   },
   {
     "id": "osm-camera-9465498291",
@@ -47465,7 +47751,8 @@
     "locality": "Voghera",
     "municipality": "Voghera",
     "province": "PV",
-    "region": "Lombardia"
+    "region": "Lombardia",
+    "name": "Photored Strada Bobbio direzione Voghera"
   },
   {
     "id": "osm-camera-9471327113",
@@ -47554,7 +47841,8 @@
     "locality": "Forlì",
     "municipality": "Forlì",
     "province": "FC",
-    "region": "Emilia-Romagna"
+    "region": "Emilia-Romagna",
+    "name": "Autovelox"
   },
   {
     "id": "osm-camera-9492611778",
@@ -47868,7 +48156,8 @@
     "locality": "Feletto",
     "municipality": "Feletto",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-9642240328",
@@ -47878,7 +48167,8 @@
     "locality": "Feletto",
     "municipality": "Feletto",
     "province": "TO",
-    "region": "Piemonte"
+    "region": "Piemonte",
+    "controlType": "trafficLight"
   },
   {
     "id": "osm-camera-9643450909",
@@ -48598,7 +48888,8 @@
     "locality": "Cepagatti",
     "municipality": "Cepagatti",
     "province": "PE",
-    "region": "Abruzzo"
+    "region": "Abruzzo",
+    "name": "VeloOK"
   },
   {
     "id": "osm-camera-9856208954",
@@ -48655,7 +48946,8 @@
     "locality": "Spoltore",
     "municipality": "Spoltore",
     "province": "PE",
-    "region": "Abruzzo"
+    "region": "Abruzzo",
+    "name": "autovelox"
   },
   {
     "id": "osm-camera-9873192076",
@@ -48693,7 +48985,8 @@
     "locality": "Bari",
     "municipality": "Bari",
     "province": "BA",
-    "region": "Puglia"
+    "region": "Puglia",
+    "name": "SS16 mobile radar"
   },
   {
     "id": "osm-camera-9879781361",
@@ -48702,7 +48995,8 @@
     "locality": "Bitonto",
     "municipality": "Bitonto",
     "province": "BA",
-    "region": "Puglia"
+    "region": "Puglia",
+    "name": "ZI speed cam"
   },
   {
     "id": "osm-camera-9880481795",
@@ -49053,7 +49347,8 @@
     "locality": "Nocciano",
     "municipality": "Nocciano",
     "province": "PE",
-    "region": "Abruzzo"
+    "region": "Abruzzo",
+    "name": "Velo OK"
   },
   {
     "id": "osm-camera-9925325482",
