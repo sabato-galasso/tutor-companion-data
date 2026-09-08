@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-06.1",
-  "generatedAt": "2026-09-07T12:00:00.000Z",
+  "version": "2026-09-08.2",
+  "generatedAt": "2026-09-08T06:56:00.000Z",
   "sources": [
     {
       "id": "openstreetmap",
@@ -25,7 +25,7 @@
     {
       "path": "speed-cameras.json",
       "records": 5084,
-      "sha256": "1d0eb6c95165650b0bf94f35156e7a3f1de9c6b5bc3953b3dd46aace5d4c5aa6"
+      "sha256": "dc800550fceb24477a338dc66f56f66a507b27cb7df6f33ecd718310edb2990e"
     },
     {
       "path": "tutor-sections-osm.json",
