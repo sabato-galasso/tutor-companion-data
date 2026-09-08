@@ -17510,6 +17510,8 @@
     "id": "osm-camera-195511300",
     "latitude": 43.318342,
     "longitude": 11.325655,
+    "controlType": "ztl",
+    "name": "Varco Esterna Fontebranda",
     "locality": "Siena",
     "municipality": "Siena",
     "province": "SI",
