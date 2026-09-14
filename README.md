@@ -9,6 +9,7 @@ Cataloghi JSON pubblici da usare per aggiornare offline Tutor Companion. Questo 
 - `data/tutor-sections-osm.json`: tratti a velocità media geolocalizzati;
 - `data/tutor-sections-aspi.json`: tratte Tutor pubblicate da Autostrade per l’Italia;
 - `data/mit-velox-devices.json`: registro dei dispositivi MIT, che non implica una posizione geografica certa.
+- `research/`: dossier di verifica territoriali. Conservano fonti, stato operativo, data di verifica e prossima revisione; non sono caricati dall'app come controlli attivi.
 
 ## Uso nell’app
 

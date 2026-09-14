@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "area": {
+    "province": "SI",
+    "name": "Val d'Orcia — primo lotto"
+  },
+  "reviewedAt": "2026-09-14",
+  "defaultReviewDueAt": "2026-10-14",
+  "records": [
+    {
+      "id": "montalcino-santangelo-scalo-speed-camera",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "corroborated",
+      "catalogRecordId": "osm-camera-11620061950",
+      "location": {
+        "latitude": 42.964191,
+        "longitude": 11.425786,
+        "road": "SP14 Traversa dei Monti",
+        "locality": "Sant'Angelo Scalo",
+        "municipality": "Montalcino",
+        "direction": 6
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "MIT — Registro Velox",
+          "url": "https://velox.mit.gov.it/dispositivi",
+          "note": "Dispositivo dell'autorità di Montalcino presente nel registro, senza posizione pubblica specifica."
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/11620061950",
+          "note": "Posizione, limite 50 km/h e verso del ramo; non prova l'attivazione."
+        }
+      ],
+      "note": "Non classificare come attivo verificato finché Comune o Polizia Locale non confermano la postazione attuale."
+    },
+    {
+      "id": "montalcino-torrenieri-speed-camera-historic",
+      "type": "speedCamera",
+      "operationalStatus": "decommissioned",
+      "evidenceClass": "corroborated",
+      "location": {
+        "locality": "Torrenieri",
+        "municipality": "Montalcino"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Montalcino News — consiglio comunale",
+          "url": "https://www.montalcinonews.com/2017/12/arriva-un-nuovo-autovelox-a-sant%E2%80%99angelo-scalo/",
+          "note": "Riporta la rimozione dell'autovelox di Torrenieri durante la discussione consiliare del 2017."
+        }
+      ],
+      "note": "Resta escluso dal catalogo pubblico; una ZTL attiva nella stessa località è un controllo distinto."
+    },
+    {
+      "id": "montalcino-torrenieri-via-della-fiera-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "road": "Via della Fiera",
+        "locality": "Torrenieri",
+        "municipality": "Montalcino"
+      },
+      "accessDirection": "entry",
+      "activatedAt": "2025-12-03",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Montalcino — Area 3 Polizia Locale",
+          "url": "https://www.comune.montalcino.si.it/it/news/attivato-il-sistema-di-controllo-accessi-automatizzato-nella-ztl-in-via-della-fiera-a-torrenieri?type=3",
+          "note": "Comunica l'attivazione del sistema automatizzato e le autorizzazioni richieste."
+        }
+      ],
+      "note": "Il Comune non pubblica il punto fisico del varco: non creare un marker o un avviso finché non è geolocalizzato."
+    },
+    {
+      "id": "san-quirico-porta-romana-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "road": "Via Dante Alighieri, intersezione Via G. Matteotti / Piazza IV Novembre",
+        "locality": "San Quirico d'Orcia",
+        "municipality": "San Quirico d'Orcia"
+      },
+      "accessDirection": "entry",
+      "schedule": "11:00–05:00 feriali; dalle 11:00 venerdì alle 05:00 lunedì; 00:00–24:00 festivi infrasettimanali",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di San Quirico d'Orcia — regolamentazione ZTL 2026",
+          "url": "https://www.comunesanquirico.it/non-categorizzato/nuova-regolamentazione-della-zona-a-traffico-limitato-del-centro-storico-del-capoluogo/",
+          "note": "Conferma il varco Porta Romana e gli orari vigenti."
+        },
+        {
+          "name": "Unione dei Comuni Amiata Val d'Orcia — regolamento varchi",
+          "url": "https://www.comunesanquirico.it/wp-content/uploads/REGOLAMENTAZIONE-DELLA-ZONA-A-TRAFFICO-LIMITATO-CON-RILEVAZIONE-ACCESSI-MEDIANTE-INSTALLAZIONE-DI-VARCHI-TELEMATICI.pdf",
+          "note": "Individua l'intersezione esatta nel testo, ma non la coordinata del dispositivo."
+        }
+      ],
+      "note": "Direzione GPS e coordinata del dispositivo da rilevare sul posto o con fonte cartografica comunale."
+    },
+    {
+      "id": "san-quirico-porta-cappuccini-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "corroborated",
+      "catalogStatus": "candidateCoordinateResolved",
+      "location": {
+        "latitude": 43.060741,
+        "longitude": 11.605956,
+        "road": "Via dei Fossi, Porta Cappuccini",
+        "locality": "San Quirico d'Orcia",
+        "municipality": "San Quirico d'Orcia"
+      },
+      "accessDirection": "entry",
+      "schedule": "00:00–24:00 ogni giorno",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di San Quirico d'Orcia — regolamentazione ZTL 2026",
+          "url": "https://www.comunesanquirico.it/non-categorizzato/nuova-regolamentazione-della-zona-a-traffico-limitato-del-centro-storico-del-capoluogo/",
+          "note": "Conferma l'orario vigente del varco Porta Cappuccini."
+        },
+        {
+          "name": "Unione dei Comuni Amiata Val d'Orcia — regolamento varchi",
+          "url": "https://www.comunesanquirico.it/wp-content/uploads/REGOLAMENTAZIONE-DELLA-ZONA-A-TRAFFICO-LIMITATO-CON-RILEVAZIONE-ACCESSI-MEDIANTE-INSTALLAZIONE-DI-VARCHI-TELEMATICI.pdf",
+          "note": "Individua il varco in Via dei Fossi all'altezza di Porta Cappuccini."
+        },
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/node/772740648",
+          "note": "Risolve la coordinata del punto Porta Cappuccini; non prova l'attivazione, già attestata dalle fonti comunali."
+        }
+      ],
+      "note": "Coordinata pronta per revisione finale; non pubblicata finché non viene confermata la posizione fisica della telecamera."
+    },
+    {
+      "id": "pienza-capoluogo-ztl-accesses",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationsNeeded",
+      "location": {
+        "locality": "Pienza",
+        "municipality": "Pienza",
+        "accesses": [
+          "Via delle Mura",
+          "Via Dogali",
+          "Via dell'Addobbo",
+          "Piazza Dante Alighieri"
+        ]
+      },
+      "accessDirection": "entry",
+      "schedule": "00:00–24:00 ogni giorno",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Pienza — disciplinare ZTL",
+          "url": "https://static-www.comune.pienza.si.it/wp-content/uploads/2025/03/26136_DISCIPLINARE_DEFINITIVO_1744023287.pdf",
+          "note": "Elenca i quattro accessi e conferma la rilevazione elettronica."
+        },
+        {
+          "name": "Portale turistico ufficiale del Comune di Pienza",
+          "url": "https://www.pienzawelcome.it/en/pienza-useful-information/accessibility-and-transport/",
+          "note": "Conferma la ZTL attiva 24/7 e i varchi del capoluogo."
+        }
+      ],
+      "note": "I singoli varchi devono essere geolocalizzati prima della pubblicazione nel catalogo."
+    },
+    {
+      "id": "pienza-monticchiello-porta-santagata-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "road": "Porta Sant'Agata",
+        "locality": "Monticchiello",
+        "municipality": "Pienza"
+      },
+      "accessDirection": "entry",
+      "schedule": "00:00–24:00 ogni giorno",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Pienza — disciplinare ZTL",
+          "url": "https://static-www.comune.pienza.si.it/wp-content/uploads/2025/03/26136_DISCIPLINARE_DEFINITIVO_1744023287.pdf",
+          "note": "Indica Porta Sant'Agata come unico accesso alla ZTL di Monticchiello."
+        }
+      ],
+      "note": "Coordinata del varco da rilevare prima della pubblicazione."
+    },
+    {
+      "id": "pienza-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-11204865012",
+        "osm-camera-11619494508"
+      ],
+      "location": {
+        "locality": "Pienza",
+        "municipality": "Pienza"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Due punti importati senza fonte comunale o record MIT corrispondente."
+        }
+      ],
+      "note": "Non promuovere a verificati; verificare con Comune, Polizia Locale o MIT prima di modificarne gli avvisi."
+    }
+  ]
+}
