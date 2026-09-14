@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-08.4",
-  "generatedAt": "2026-09-08T19:00:22.000Z",
+  "version": "2026-09-14.1",
+  "generatedAt": "2026-09-14T05:55:34Z",
   "sources": [
     {
       "id": "openstreetmap",
@@ -19,13 +19,19 @@
       "id": "aspi-tutor",
       "name": "Autostrade per l’Italia — Il Tutor",
       "url": "https://www.autostrade.it/it/tecnologia-sicurezza/sicurezza/il-tutor"
+    },
+    {
+      "id": "comune-siena-ztl",
+      "name": "Comune di Siena — mappa varchi ZTL",
+      "url": "https://www.comune.siena.it/sites/default/files/2024-04/mappa%20varchi%20ZTL.pdf",
+      "verifiedAt": "2026-09-13"
     }
   ],
   "files": [
     {
       "path": "speed-cameras.json",
-      "records": 5084,
-      "sha256": "ccfc7e579ad1b6a7ec51fd5f7c45812849b04bb5e7bdc69b43b16a16b03c8e9a"
+      "records": 5105,
+      "sha256": "2fddacc18659ae67e48a92a92eb47e2d62d793549e3ddd55653a19046c817de6"
     },
     {
       "path": "tutor-sections-osm.json",

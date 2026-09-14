@@ -3628,39 +3628,6 @@
     "region": "Piemonte"
   },
   {
-    "id": "osm-camera-11293424486",
-    "latitude": 43.323474,
-    "longitude": 11.332254,
-    "locality": "Siena",
-    "municipality": "Siena",
-    "province": "SI",
-    "region": "Toscana",
-    "controlType": "ztl",
-    "name": "Varco Vallerozzi"
-  },
-  {
-    "id": "osm-camera-11293488965",
-    "latitude": 43.317467,
-    "longitude": 11.341826,
-    "locality": "Siena",
-    "municipality": "Siena",
-    "province": "SI",
-    "region": "Toscana",
-    "controlType": "ztl",
-    "name": "Varco Porta Pispini"
-  },
-  {
-    "id": "osm-camera-11293488968",
-    "latitude": 43.314934,
-    "longitude": 11.339646,
-    "locality": "Siena",
-    "municipality": "Siena",
-    "province": "SI",
-    "region": "Toscana",
-    "controlType": "ztl",
-    "name": "Varco Porta Romana"
-  },
-  {
     "id": "osm-camera-11296360337",
     "latitude": 46.358631,
     "longitude": 11.876444,
@@ -17592,17 +17559,6 @@
     "municipality": "Camponogara",
     "province": "VE",
     "region": "Veneto"
-  },
-  {
-    "id": "osm-camera-195511300",
-    "latitude": 43.318342,
-    "longitude": 11.325655,
-    "locality": "Siena",
-    "municipality": "Siena",
-    "province": "SI",
-    "region": "Toscana",
-    "controlType": "ztl",
-    "name": "Varco Esterna Fontebranda"
   },
   {
     "id": "osm-camera-1955321194",
@@ -42817,17 +42773,6 @@
     "region": "Lombardia"
   },
   {
-    "id": "osm-camera-8038755133",
-    "latitude": 43.323475,
-    "longitude": 11.33244,
-    "locality": "Siena",
-    "municipality": "Siena",
-    "province": "SI",
-    "region": "Toscana",
-    "controlType": "ztl",
-    "name": "Varco Porta Ovile"
-  },
-  {
     "id": "osm-camera-8038928569",
     "latitude": 45.454908,
     "longitude": 11.058979,
@@ -49939,5 +49884,291 @@
     "municipality": "Capaccio Paestum",
     "province": "SA",
     "region": "Campania"
+  },
+  {
+    "id": "comune-siena-ztl-2",
+    "name": "Varco Tufi",
+    "latitude": 43.31248,
+    "longitude": 11.33277,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-3",
+    "name": "Varco Fontanella",
+    "latitude": 43.31251,
+    "longitude": 11.33391,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-4",
+    "name": "Varco Porta Romana",
+    "latitude": 43.31470,
+    "longitude": 11.33969,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-5",
+    "name": "Varco Porta Romana",
+    "latitude": 43.31473,
+    "longitude": 11.34016,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-7",
+    "name": "Varco Porta Pispini",
+    "latitude": 43.31745,
+    "longitude": 11.34181,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-8",
+    "name": "Varco Ovile",
+    "latitude": 43.32331,
+    "longitude": 11.33264,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-9",
+    "name": "Varco Vallerozzi",
+    "latitude": 43.32347,
+    "longitude": 11.33225,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-10",
+    "name": "Varco Matteotti",
+    "latitude": 43.32177,
+    "longitude": 11.33236,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-11",
+    "name": "Varco Matteotti",
+    "latitude": 43.32162,
+    "longitude": 11.33215,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-12",
+    "name": "Varco San Domenico",
+    "latitude": 43.32008,
+    "longitude": 11.32994,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-13",
+    "name": "Varco San Domenico",
+    "latitude": 43.32013,
+    "longitude": 11.33005,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-14",
+    "name": "Varco Fontebranda",
+    "latitude": 43.31800,
+    "longitude": 11.32583,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-15",
+    "name": "Varco Fontebranda",
+    "latitude": 43.31778,
+    "longitude": 11.32596,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-16",
+    "name": "Varco Bastianini",
+    "latitude": 43.31461,
+    "longitude": 11.32665,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-17",
+    "name": "Varco Sperandie",
+    "latitude": 43.31166,
+    "longitude": 11.32610,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-18",
+    "name": "Varco Mascagni",
+    "latitude": 43.31473,
+    "longitude": 11.32942,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-19",
+    "name": "Varco Mascagni",
+    "latitude": 43.31489,
+    "longitude": 11.32944,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-20",
+    "name": "Varco San Marco",
+    "latitude": 43.31186,
+    "longitude": 11.32610,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-21",
+    "name": "Varco Garibaldi",
+    "latitude": 43.32458,
+    "longitude": 11.33028,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-22",
+    "name": "Varco Garibaldi",
+    "latitude": 43.32435,
+    "longitude": 11.33032,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-23",
+    "name": "Varco Camollia",
+    "latitude": 43.32707,
+    "longitude": 11.32543,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-24",
+    "name": "Varco Gazzani",
+    "latitude": 43.32451,
+    "longitude": 11.32621,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-25",
+    "name": "Varco Gazzani",
+    "latitude": 43.32420,
+    "longitude": 11.32638,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-26",
+    "name": "Varco Fontegiusta",
+    "latitude": 43.32511,
+    "longitude": 11.32617,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-27",
+    "name": "Varco Fontegiusta",
+    "latitude": 43.32474,
+    "longitude": 11.32617,
+    "controlType": "ztl",
+    "accessDirection": "exit",
+    "alertOnApproach": false,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
+  },
+  {
+    "id": "comune-siena-ztl-28",
+    "name": "Varco Sasso di San Bernardino",
+    "latitude": 43.32259,
+    "longitude": 11.32783,
+    "controlType": "ztl",
+    "accessDirection": "entry",
+    "alertOnApproach": true,
+    "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Comune di Siena · mappa varchi ZTL (verificata 13/09/2026)"
   }
 ]
