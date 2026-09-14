@@ -1358,6 +1358,170 @@
         }
       ],
       "note": "Non dichiarare una ZTL o controllo attivo puntuale finché non emerge una fonte comunale con località e disciplina; nessun controllo stradale geolocalizzabile trovato nelle fonti consultate."
+    },
+    {
+      "id": "colle-electronic-ztl-gates",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Colle Alta e Colle Bassa",
+        "municipality": "Colle di Val d'Elsa",
+        "accesses": [
+          "Intersezione Via Mazzini / Via Oberdan",
+          "Intersezione Via Mazzini / Piazza Bartolomeo Scala",
+          "Porta del Palazzo Campana"
+        ]
+      },
+      "schedule": "00:00–24:00 tutti i giorni, salvo disattivazioni per necessità particolari.",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Colle di Val d'Elsa — disciplinare ZTL",
+          "url": "https://www.comune.collevaldelsa.it/s3prod/uploads/ckeditor/attachments/1/1/5/9/3/1/disciplinare-delle-aree-pedonali-e-delle-zone-a-traffico-limitato.pdf",
+          "note": "Localizza tre varchi elettronici, con telecamere omologate e controllo targa, attivi tutto l'anno 24/7 salvo eccezioni."
+        },
+        {
+          "name": "Comune di Colle di Val d'Elsa — pagina ZTL",
+          "url": "https://www.comune.collevaldelsa.it/it/page/ztl-a6d74b1f-26ee-4731-879e-e4169e81d1f6",
+          "note": "Pagina istituzionale che descrive i tre varchi e il controllo elettronico."
+        }
+      ],
+      "note": "I tre accessi sono identificati per intersezione/porta ma non è disponibile una coordinata affidabile del dispositivo: solo dossier admin, senza marker/app alert."
+    },
+    {
+      "id": "colle-borgo-seasonal-ztl-review",
+      "type": "ztl",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "road": "Via Gracco del Secco",
+        "locality": "Borgo, centro storico",
+        "municipality": "Colle di Val d'Elsa"
+      },
+      "schedule": "Nel provvedimento 2025: venerdì, sabato, domenica e festivi, 20:00–24:00, dal 1 maggio al 30 settembre.",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Colle di Val d'Elsa — attivazione ZTL Borgo 2025",
+          "url": "https://www.comune.collevaldelsa.it/index.php/it/news/1838724",
+          "note": "Comunica l'attivazione stagionale 2025 e il segnale luminoso in Via Gracco del Secco, ma non una disciplina 2026."
+        }
+      ],
+      "note": "Non assumere che l'orario stagionale 2025 sia vigente nel 2026: serve conferma aggiornata prima della pubblicazione."
+    },
+    {
+      "id": "colle-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-3677271446",
+        "osm-camera-651357125",
+        "osm-camera-651357127",
+        "osm-camera-11619046908",
+        "osm-camera-11619046956"
+      ],
+      "location": {
+        "municipality": "Colle di Val d'Elsa"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — cinque nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Cinque punti storici del catalogo provengono da OpenStreetMap, senza fonte comunale o MIT associata nel dossier."
+        },
+        {
+          "name": "Comune di Colle di Val d'Elsa",
+          "url": "https://comune.colle-di-val-d-elsa.si.it/it",
+          "note": "Nelle fonti comunali consultate non è stato individuato un atto che confermi o dismetta le singole postazioni."
+        }
+      ],
+      "note": "Candidati da verificare singolarmente con Comune, Polizia Locale o MIT; nessuna promozione nell'app."
+    },
+    {
+      "id": "poggibonsi-center-ztl-apu",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Centro storico",
+        "municipality": "Poggibonsi"
+      },
+      "schedule": "00:00–24:00, tutti i giorni per ZTL e APU indicate nella disciplina comunale.",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Poggibonsi — informazioni generali ZTL",
+          "url": "https://comune.poggibonsi.si.it/it/page/informazioni-generali-ztl",
+          "note": "Pagina aggiornata nel 2023 che descrive la disciplina in vigore, le strade della ZTL/APU e gli orari 24/7."
+        }
+      ],
+      "note": "La zona è attiva ma la fonte non assegna singole coordinate e direzioni di avvicinamento: resta nel dossier admin senza marker/app alert."
+    },
+    {
+      "id": "poggibonsi-electronic-ztl-gates-review",
+      "type": "ztl",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Centro storico",
+        "municipality": "Poggibonsi"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Poggibonsi — mappa varchi ZTL",
+          "url": "https://comune.poggibonsi.si.it/it/documenti_pubblici/mappa-varchi-ztl",
+          "note": "Documenta sette varchi elettronici autorizzati dal MIT, ma la mappa pubblicata risulta aggiornata al 2016."
+        },
+        {
+          "name": "Comune di Poggibonsi — ZTL",
+          "url": "https://comune.poggibonsi.si.it/it/topics/62",
+          "note": "Pagina istituzionale corrente che continua a offrire servizi e documenti ZTL, senza aggiornamento puntuale dei sette varchi."
+        }
+      ],
+      "note": "Non assumere attivi nel 2026 tutti i sette varchi della mappa 2016: recuperare mappa/atto aggiornato prima di geolocalizzare o pubblicare."
+    },
+    {
+      "id": "poggibonsi-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-1697860181",
+        "osm-camera-10009944821",
+        "osm-camera-11619046968",
+        "osm-camera-12324057690"
+      ],
+      "location": {
+        "municipality": "Poggibonsi"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — quattro nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Quattro punti storici del catalogo provengono da OpenStreetMap, senza fonte comunale o MIT associata nel dossier."
+        },
+        {
+          "name": "Comune di Poggibonsi",
+          "url": "https://www.comune.poggibonsi.si.it/it",
+          "note": "Nelle fonti comunali consultate non è stato individuato un atto che confermi o dismetta le singole postazioni."
+        }
+      ],
+      "note": "Candidati da verificare singolarmente con Comune, Polizia Locale o MIT; nessuna promozione nell'app."
     }
   ]
 }
