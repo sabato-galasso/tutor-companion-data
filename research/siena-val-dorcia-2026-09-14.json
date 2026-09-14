@@ -1252,6 +1252,112 @@
         }
       ],
       "note": "Esito di copertura, non prova di assenza: nessun controllo viene aggiunto o rimosso dal catalogo pubblico finché non emerge una fonte puntuale."
+    },
+    {
+      "id": "castellina-via-toscana-ztl-entry",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "corroborated",
+      "catalogStatus": "candidateCoordinateResolved",
+      "location": {
+        "latitude": 43.4693632,
+        "longitude": 11.2870758,
+        "road": "Via Toscana",
+        "locality": "Castellina in Chianti",
+        "municipality": "Castellina in Chianti"
+      },
+      "accessDirection": "entry",
+      "schedule": "Dal 1 gennaio al 31 dicembre di ogni anno.",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Castellina in Chianti — avviso varco ZTL",
+          "url": "https://castellina-in-chianti-api.municipiumapp.it/s3/1695/allegati/allegati-notizie/avviso-ztl.pdf",
+          "note": "Indica un varco elettronico in Via Toscana che registra le targhe in ingresso nella ZTL, attivo annualmente."
+        },
+        {
+          "name": "OpenStreetMap — Via Toscana",
+          "url": "https://www.openstreetmap.org/way/1188132003",
+          "note": "Risolve la strada indicata nell'avviso; richiede conferma sul posto della posizione puntuale della telecamera."
+        }
+      ],
+      "note": "Ingresso ZTL elettronico attestato dal Comune; coordinata della via da OSM. Mantenerlo nell'admin come attivo non pubblicato finché non si conferma il punto fisico."
+    },
+    {
+      "id": "castellina-speed-enforcement-review",
+      "type": "speedCamera",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Castellina in Chianti"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Castellina in Chianti — Polizia Locale",
+          "url": "https://www.comune.castellina.si.it/it/unita_organizzative/6205",
+          "note": "Tra le competenze del servizio è indicato l'accertamento della velocità mediante apparecchiature autovelox, senza postazioni o calendario pubblicati."
+        }
+      ],
+      "note": "Il servizio di controllo velocità è attestato, non una postazione fissa: non creare marker/app alert senza luogo, tipo e periodo di utilizzo."
+    },
+    {
+      "id": "castellina-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-266702024",
+        "osm-camera-2476427469",
+        "osm-camera-2476427471",
+        "osm-camera-11619046918"
+      ],
+      "location": {
+        "municipality": "Castellina in Chianti"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — quattro nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Quattro punti storici del catalogo provengono da OpenStreetMap; il Comune non collega pubblicamente il servizio autovelox a queste coordinate."
+        },
+        {
+          "name": "Comune di Castellina in Chianti — Polizia Locale",
+          "url": "https://www.comune.castellina.si.it/it/unita_organizzative/6205",
+          "note": "Conferma il servizio di accertamento velocità ma non identifica le quattro postazioni."
+        }
+      ],
+      "note": "Non associare automaticamente gli OSM al servizio comunale: verificare ogni postazione con atto, Polizia Locale o MIT prima della promozione."
+    },
+    {
+      "id": "radda-ztl-and-road-controls-review",
+      "type": "other",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Radda in Chianti"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Radda in Chianti — Ufficio Polizia Locale",
+          "url": "https://www.comune.raddainchianti.si.it/amministrazione/uffici/",
+          "note": "L'ufficio espone un indirizzo dedicato ztl@comune.raddainchianti.si.it, ma non pubblica disciplina, varchi, orari o ubicazioni."
+        },
+        {
+          "name": "Comune di Radda in Chianti — argomenti",
+          "url": "https://www.comune.raddainchianti.si.it/argomenti/",
+          "note": "Il sito istituzionale tratta il tema ZTL, senza elementi territoriali o tecnici utili alla geolocalizzazione."
+        }
+      ],
+      "note": "Non dichiarare una ZTL o controllo attivo puntuale finché non emerge una fonte comunale con località e disciplina; nessun controllo stradale geolocalizzabile trovato nelle fonti consultate."
     }
   ]
 }
