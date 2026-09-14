@@ -1144,6 +1144,114 @@
         }
       ],
       "note": "Esito di copertura, non prova di assenza: nessun controllo viene aggiunto o rimosso dal catalogo pubblico finché non emerge una fonte puntuale."
+    },
+    {
+      "id": "castelnuovo-villa-sesta-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Villa a Sesta",
+        "municipality": "Castelnuovo Berardenga"
+      },
+      "activatedAt": "2026-01-26",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Castelnuovo Berardenga — ZTL",
+          "url": "https://www.comune.castelnuovo.si.it/it/topics/ztl",
+          "note": "Notizia comunale del 15 gennaio 2026: attivazione della ZTL a Villa a Sesta dal 26 gennaio 2026, con deroghe e autorizzazioni annuali della Polizia Municipale."
+        }
+      ],
+      "note": "ZTL attiva confermata, ma senza strada del varco, coordinata, direzione, orario o indicazione di controllo elettronico: solo dossier admin, nessun marker/app alert."
+    },
+    {
+      "id": "castelnuovo-capoluogo-ztl-review",
+      "type": "ztl",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Capoluogo e area Castello",
+        "municipality": "Castelnuovo Berardenga"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Castelnuovo Berardenga — notizia ZTL 2024",
+          "url": "https://comune.castelnuovo.si.it/it/news/1694728",
+          "note": "Descrive la ZTL stagionale del centro storico e la ZTL annuale nell'area Castello, con elenco delle vie, ma è un'informazione riferita al 2024."
+        },
+        {
+          "name": "Comune di Castelnuovo Berardenga — argomento ZTL",
+          "url": "https://www.comune.castelnuovo.si.it/it/topics/ztl",
+          "note": "La pagina attuale conserva le notizie storiche ZTL ma non pubblica una disciplina 2026 per queste aree."
+        }
+      ],
+      "note": "Non assumere che gli orari 2024 siano vigenti nel 2026: serve ordinanza o conferma aggiornata della Polizia Municipale prima della pubblicazione."
+    },
+    {
+      "id": "castelnuovo-road-controls-review",
+      "type": "other",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Castelnuovo Berardenga"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Castelnuovo Berardenga",
+          "url": "https://www.comune.castelnuovo.si.it/it",
+          "note": "Nelle fonti istituzionali consultate non è stato individuato un atto che confermi o dismetta autovelox, Tutor o PhotoRed geolocalizzabili."
+        }
+      ],
+      "note": "Esito di copertura, non prova di assenza: nessun controllo viene aggiunto o rimosso dal catalogo pubblico finché non emerge una fonte puntuale."
+    },
+    {
+      "id": "gaiole-ztl-access-review",
+      "type": "ztl",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Gaiole in Chianti"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Gaiole in Chianti — determinazioni Polizia Municipale 2023",
+          "url": "https://www.comuneweb.it/egov/Gaiole/ammTrasparente/Provvedimenti/Provvedimenti_dirigenti/dettaglio/allegato.html",
+          "note": "Atto del 29 novembre 2023 per tessere transponder di apertura accesso ZTL; non indica località, varchi, orari o stato attuale."
+        }
+      ],
+      "note": "L'atto prova un sistema di accesso ZTL storico, non il funzionamento o la localizzazione nel 2026: non creare marker o avvisi senza conferma aggiornata."
+    },
+    {
+      "id": "gaiole-road-controls-review",
+      "type": "other",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Gaiole in Chianti"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Gaiole in Chianti",
+          "url": "https://www.comune.gaiole.si.it/",
+          "note": "Nelle fonti istituzionali consultate non è stato individuato un atto che confermi o dismetta autovelox, Tutor o PhotoRed geolocalizzabili."
+        }
+      ],
+      "note": "Esito di copertura, non prova di assenza: nessun controllo viene aggiunto o rimosso dal catalogo pubblico finché non emerge una fonte puntuale."
     }
   ]
 }
