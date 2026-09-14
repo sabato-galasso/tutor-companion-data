@@ -116,23 +116,37 @@
   },
   {
     "id": "osm-camera-10010054523",
+    "name": "Autovelox SR2 Cassia Sud → Montalcino",
     "latitude": 43.121898,
     "longitude": 11.483163,
+    "controlType": "speedCamera",
     "speedLimitKmh": 50,
+    "direction": 181,
+    "alertOnApproach": true,
+    "road": "SR2 Cassia Sud",
     "locality": "Buonconvento",
     "municipality": "Buonconvento",
     "province": "SI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "sourceLabel": "Prefettura di Siena · decreto postazioni autovelox (verificata 14/09/2026)",
+    "description": "Postazione autovelox bidirezionale sulla SR2 Cassia Sud, km 198+900, in direzione Montalcino. Coordinate e verso corroborati dalla relazione OpenStreetMap 14558320."
   },
   {
     "id": "osm-camera-10010054524",
+    "name": "Autovelox SR2 Cassia Sud → Siena",
     "latitude": 43.122315,
     "longitude": 11.483127,
+    "controlType": "speedCamera",
     "speedLimitKmh": 50,
+    "direction": 352,
+    "alertOnApproach": true,
+    "road": "SR2 Cassia Sud",
     "locality": "Buonconvento",
     "municipality": "Buonconvento",
     "province": "SI",
-    "region": "Toscana"
+    "region": "Toscana",
+    "sourceLabel": "Prefettura di Siena · decreto postazioni autovelox (verificata 14/09/2026)",
+    "description": "Postazione autovelox bidirezionale sulla SR2 Cassia Sud, km 198+900, in direzione Siena. Coordinate e verso corroborati dalla relazione OpenStreetMap 19142720."
   },
   {
     "id": "osm-camera-10010720635",
