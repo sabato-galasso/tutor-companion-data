@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-14.1",
-  "generatedAt": "2026-09-14T05:55:34Z",
+  "version": "2026-09-14.2",
+  "generatedAt": "2026-09-14T06:26:49Z",
   "sources": [
     {
       "id": "openstreetmap",
@@ -25,13 +25,19 @@
       "name": "Comune di Siena — mappa varchi ZTL",
       "url": "https://www.comune.siena.it/sites/default/files/2024-04/mappa%20varchi%20ZTL.pdf",
       "verifiedAt": "2026-09-13"
+    },
+    {
+      "id": "comune-siena-tred",
+      "name": "Comune di Siena — sistemi di rilevamento del rosso semaforico",
+      "url": "https://www.comune.siena.it/novita/countdown-ai-semafori-tucci-sistemi-molto-utili-la-sicurezza-della-circolazione",
+      "verifiedAt": "2026-09-14"
     }
   ],
   "files": [
     {
       "path": "speed-cameras.json",
-      "records": 5105,
-      "sha256": "2fddacc18659ae67e48a92a92eb47e2d62d793549e3ddd55653a19046c817de6"
+      "records": 5117,
+      "sha256": "950303dfb3f4e615ac6871ba499bbce8cd740e63c3e17b771dbbd0ec9c70d965"
     },
     {
       "path": "tutor-sections-osm.json",
