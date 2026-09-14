@@ -912,6 +912,125 @@
         }
       ],
       "note": "Varco/i di uscita attivi ma senza posizione pubblicata: conservato solo nel dossier admin, nessun marker o avviso app."
+    },
+    {
+      "id": "torrita-capoluogo-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Capoluogo",
+        "municipality": "Torrita di Siena",
+        "accesses": [
+          "Via O. Maestri",
+          "Via Cavour",
+          "Via C. Battisti",
+          "Via G. Di Tacco",
+          "Via D. Alighieri",
+          "Via San Martino",
+          "Via B. Peruzzi",
+          "Piazza G. Carducci",
+          "Piazza G. Matteotti",
+          "Via de' Pecorai",
+          "Via Adua",
+          "Via della Lupa"
+        ]
+      },
+      "schedule": "00:00–24:00, 365 giorni l'anno.",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Torrita di Siena — servizio permessi ZTL",
+          "url": "https://www.comune.torrita.siena.it/home/servizi/servizio/Servizio-60.html",
+          "note": "Servizio attivo: elenca le dodici strade della ZTL e dichiara validità 24 ore su 24, 365 giorni l'anno."
+        }
+      ],
+      "note": "La fonte non indica varchi elettronici, posizioni, direzioni o dispositivi: mantenere nel dossier admin senza marker o avvisi app."
+    },
+    {
+      "id": "torrita-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-3677271444",
+        "osm-camera-3677271445",
+        "osm-camera-11619642641"
+      ],
+      "location": {
+        "municipality": "Torrita di Siena"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — tre nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Tre punti storici del catalogo provengono da OpenStreetMap, senza una fonte comunale o MIT associata nel dossier."
+        },
+        {
+          "name": "Comune di Torrita di Siena",
+          "url": "https://www.comune.torrita.siena.it/",
+          "note": "Nelle fonti comunali consultate non è stato individuato un atto che confermi o dismetta le singole postazioni."
+        }
+      ],
+      "note": "Candidati da verificare singolarmente con Comune, Polizia Locale o MIT; nessuna promozione nell'app."
+    },
+    {
+      "id": "sinalunga-ztl-review",
+      "type": "ztl",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Sinalunga"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Sinalunga — servizio mobilità",
+          "url": "https://www.comune.sinalunga.si.it/home/servizi.html?categoria=%2FServizi%2F104",
+          "note": "Il portale comunale offre il servizio per richiedere permessi di accesso ad aree ZTL, senza indicare perimetro, orari, varchi o dispositivi."
+        },
+        {
+          "name": "Comune di Sinalunga — Comando Polizia Locale",
+          "url": "https://www.comune.sinalunga.si.it/home/amministrazione/uffici/Ufficio-21.html",
+          "note": "Ufficio competente indicato dal portale per approfondire disciplina e localizzazione."
+        }
+      ],
+      "note": "Non dichiarare una ZTL puntuale come attiva finché il Comune non pubblica o conferma perimetro e disciplina vigente."
+    },
+    {
+      "id": "sinalunga-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-8242396539",
+        "osm-camera-12018298837",
+        "osm-camera-13917841122"
+      ],
+      "location": {
+        "municipality": "Sinalunga"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — tre nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Tre punti storici del catalogo provengono da OpenStreetMap, senza una fonte comunale o MIT associata nel dossier."
+        },
+        {
+          "name": "Comune di Sinalunga",
+          "url": "https://www.comune.sinalunga.si.it/",
+          "note": "Nelle fonti comunali consultate non è stato individuato un atto che confermi o dismetta le singole postazioni."
+        }
+      ],
+      "note": "Candidati da verificare singolarmente con Comune, Polizia Locale o MIT; nessuna promozione nell'app."
     }
   ]
 }
