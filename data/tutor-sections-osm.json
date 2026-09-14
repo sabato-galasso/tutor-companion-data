@@ -798,25 +798,6 @@
     "endRegion": "Marche"
   },
   {
-    "id": "osm-average-16464180",
-    "label": "Tutor OSM 16464180",
-    "start": {
-      "latitude": 43.171673,
-      "longitude": 11.464953
-    },
-    "end": {
-      "latitude": 43.170432,
-      "longitude": 11.465451
-    },
-    "speedLimitKmh": 50,
-    "startLocality": "Monteroni d'Arbia",
-    "startProvince": "SI",
-    "startRegion": "Toscana",
-    "endLocality": "Monteroni d'Arbia",
-    "endProvince": "SI",
-    "endRegion": "Toscana"
-  },
-  {
     "id": "osm-average-16759723",
     "label": "Tutor OSM 16759723",
     "start": {

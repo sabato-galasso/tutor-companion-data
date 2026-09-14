@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-14.2",
-  "generatedAt": "2026-09-14T06:26:49Z",
+  "version": "2026-09-14.3",
+  "generatedAt": "2026-09-14T06:46:25Z",
   "sources": [
     {
       "id": "openstreetmap",
@@ -31,18 +31,24 @@
       "name": "Comune di Siena — sistemi di rilevamento del rosso semaforico",
       "url": "https://www.comune.siena.it/novita/countdown-ai-semafori-tucci-sistemi-molto-utili-la-sicurezza-della-circolazione",
       "verifiedAt": "2026-09-14"
+    },
+    {
+      "id": "prefettura-siena-autovelox",
+      "name": "Prefettura di Siena — decreto postazioni autovelox",
+      "url": "https://www.comune.buonconvento.si.it/dam/jcr%3A7e821686-afb4-438e-83f6-7a9d4263c0aa/Decreto%2520Prefetto%2520Siena.pdf",
+      "verifiedAt": "2026-09-14"
     }
   ],
   "files": [
     {
       "path": "speed-cameras.json",
-      "records": 5117,
-      "sha256": "950303dfb3f4e615ac6871ba499bbce8cd740e63c3e17b771dbbd0ec9c70d965"
+      "records": 5119,
+      "sha256": "fa8b2722850f16c7b7e69aebcaf4bd886ddbd63c74b5c924bacedea4a1caf678"
     },
     {
       "path": "tutor-sections-osm.json",
-      "records": 56,
-      "sha256": "2d763a96bf1036daf18f2e78dfa25a40c55ee9850989d8e40087263cfc8d0103"
+      "records": 55,
+      "sha256": "7ae8a90d299147a32a50bfa53e63fba68a4a7713f11a19a77bf3ec6fd78f4d5c"
     },
     {
       "path": "mit-velox-devices.json",

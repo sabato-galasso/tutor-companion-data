@@ -50326,5 +50326,33 @@
     "locality": "Siena", "municipality": "Siena", "province": "SI", "region": "Toscana",
     "sourceLabel": "Comune di Siena · sistemi di rilevamento del rosso semaforico (verificata 14/09/2026)",
     "description": "Intersezione Vittorio Emanuele–Ricasoli–piazza Amendola; ramo Ricasoli."
+  },
+  {
+    "id": "prefettura-siena-ss2-ponte-arbia-verso-siena",
+    "name": "Autovelox SS2 Cassia → Siena",
+    "latitude": 43.1704701,
+    "longitude": 11.4654358,
+    "controlType": "speedCamera",
+    "speedLimitKmh": 50,
+    "direction": 344,
+    "alertOnApproach": true,
+    "road": "SS2 Cassia Sud",
+    "locality": "Ponte d'Arbia", "municipality": "Monteroni d'Arbia", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Prefettura di Siena · decreto postazioni autovelox (verificata 14/09/2026)",
+    "description": "Postazione autovelox bidirezionale, SS2 Cassia Sud km 204+905, direzione Siena. Coordinate e verso corroborati dalla geometria OpenStreetMap."
+  },
+  {
+    "id": "prefettura-siena-ss2-ponte-arbia-verso-buonconvento",
+    "name": "Autovelox SS2 Cassia → Buonconvento",
+    "latitude": 43.1715639,
+    "longitude": 11.4649963,
+    "controlType": "speedCamera",
+    "speedLimitKmh": 50,
+    "direction": 164,
+    "alertOnApproach": true,
+    "road": "SS2 Cassia Sud",
+    "locality": "Ponte d'Arbia", "municipality": "Monteroni d'Arbia", "province": "SI", "region": "Toscana",
+    "sourceLabel": "Prefettura di Siena · decreto postazioni autovelox (verificata 14/09/2026)",
+    "description": "Postazione autovelox bidirezionale, SS2 Cassia Sud km 204+905, direzione Buonconvento. Coordinate e verso corroborati dalla geometria OpenStreetMap."
   }
 ]
