@@ -1031,6 +1031,119 @@
         }
       ],
       "note": "Candidati da verificare singolarmente con Comune, Polizia Locale o MIT; nessuna promozione nell'app."
+    },
+    {
+      "id": "asciano-centro-storico-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Centro storico",
+        "municipality": "Asciano",
+        "accesses": [
+          "Corso Matteotti, n.c. 80–135 (Torre Civica–Porta Bianchi Bandinelli)",
+          "Via Bartolenga",
+          "Via della Porticciola",
+          "Vicolo del Bove",
+          "Via Giovanni d'Asciano",
+          "Via dei Vasari",
+          "Via Luigi Magi",
+          "Via Santa Maria",
+          "Piazza del Grano",
+          "Via Conte Guido",
+          "Via della Peschiera"
+        ]
+      },
+      "schedule": "Dal 1 maggio al 30 settembre di ogni anno.",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Asciano — disciplinare Area Pedonale e ZTL",
+          "url": "https://www.comune.asciano.siena.it/dam/jcr%3A6f0247fd-79ed-4262-ae3c-63d717901f13/Disciplinare%20per%20il%20rilascio%20di%20autorizzazioni%20nella%20Area%20Pedonale%20e%20ZTL%20-Stali%20Rosa%20e%20Parcheggi%20residenti.pdf",
+          "note": "Delimita la ZTL del capoluogo e ne indica il periodo annuale di vigenza."
+        }
+      ],
+      "note": "Il perimetro è attestato, ma la fonte non assegna coordinate e direzioni ai singoli varchi: mantenere nel dossier admin senza marker o avvisi app."
+    },
+    {
+      "id": "asciano-area-pedonale-electronic-gates",
+      "type": "other",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "road": "Corso Matteotti, n.c. 15–89",
+        "locality": "Centro storico",
+        "municipality": "Asciano"
+      },
+      "schedule": "Area pedonale permanente.",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Asciano — disciplinare Area Pedonale e ZTL",
+          "url": "https://www.comune.asciano.siena.it/dam/jcr%3A6f0247fd-79ed-4262-ae3c-63d717901f13/Disciplinare%20per%20il%20rilascio%20di%20autorizzazioni%20nella%20Area%20Pedonale%20e%20ZTL%20-Stali%20Rosa%20e%20Parcheggi%20residenti.pdf",
+          "note": "Indica l'area pedonale permanente e l'esistenza di varchi elettronici conformi al DPR 250/1999 per il controllo degli accessi all'AP."
+        }
+      ],
+      "note": "Varchi elettronici attestati ma senza posizione o ramo singolo: non creare marker o avviso app finché non sono geolocalizzati."
+    },
+    {
+      "id": "rapolano-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-11619085857",
+        "osm-camera-11619085859",
+        "osm-camera-11619085862",
+        "osm-camera-13918063610"
+      ],
+      "location": {
+        "municipality": "Rapolano Terme"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — quattro nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Quattro punti storici del catalogo provengono da OpenStreetMap, senza una fonte comunale o MIT associata nel dossier."
+        },
+        {
+          "name": "Comune di Rapolano Terme — Polizia Municipale",
+          "url": "https://www.comune.rapolanoterme.si.it/home/amministrazione/uffici/Ufficio-16.html",
+          "note": "Ufficio competente; nelle fonti istituzionali consultate non è stato individuato un atto che confermi o dismetta le singole postazioni."
+        }
+      ],
+      "note": "Candidati da verificare singolarmente con Comune, Polizia Locale o MIT; nessuna promozione nell'app."
+    },
+    {
+      "id": "rapolano-road-controls-review",
+      "type": "other",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Rapolano Terme"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Rapolano Terme",
+          "url": "https://www.comune.rapolanoterme.si.it/",
+          "note": "Nelle fonti istituzionali consultate non è stato individuato un atto che confermi ZTL, Tutor, PhotoRed o controlli di velocità geolocalizzabili."
+        },
+        {
+          "name": "Comune di Rapolano Terme — Polizia Municipale",
+          "url": "https://www.comune.rapolanoterme.si.it/home/amministrazione/uffici/Ufficio-16.html",
+          "note": "Riferimento competente per il prossimo ciclo di conferma o controllo dismissioni."
+        }
+      ],
+      "note": "Esito di copertura, non prova di assenza: nessun controllo viene aggiunto o rimosso dal catalogo pubblico finché non emerge una fonte puntuale."
     }
   ]
 }
