@@ -4636,22 +4636,6 @@
     "region": "Toscana"
   },
   {
-    "id": "osm-camera-11620003612",
-    "name": "Autovelox SP14 Traversa dei Monti · bidirezionale",
-    "latitude": 43.083673,
-    "longitude": 11.548256,
-    "controlType": "speedCamera",
-    "speedLimitKmh": 50,
-    "alertOnApproach": true,
-    "road": "SP14 Via Traversa dei Monti",
-    "locality": "Torrenieri",
-    "municipality": "Montalcino",
-    "province": "SI",
-    "region": "Toscana",
-    "sourceLabel": "MIT · Registro Velox + OpenStreetMap (verificata 14/09/2026)",
-    "description": "Autovelox fisso bidirezionale all'ingresso di Torrenieri sulla SP14 Traversa dei Monti, limite 50 km/h. Il registro MIT identifica il dispositivo della Polizia Municipale di Montalcino (EnVES EVO MVD 1605); la posizione e i due rami sono corroborati dalle relazioni OpenStreetMap 17208052 e 17208053."
-  },
-  {
     "id": "osm-camera-11620003614",
     "latitude": 43.061506,
     "longitude": 11.91205,
