@@ -586,6 +586,116 @@
         }
       ],
       "note": "I due punti storici restano candidati: non promuoverli o modificarne gli avvisi senza una fonte puntuale dell'ente competente."
+    },
+    {
+      "id": "chiusi-citta-electronic-ztl-gate",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Chiusi Città",
+        "municipality": "Chiusi"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune della Città di Chiusi — informativa privacy",
+          "url": "https://www.comune.chiusi.siena.it/images/SEGRETERIA/INFORMATIVE_PRIVACY/Informativa_estesa.pdf",
+          "note": "L'informativa dell'ente menziona espressamente il controllo accessi al varco ZTL di Chiusi Città."
+        }
+      ],
+      "note": "Il varco elettronico è attestato, ma la fonte non indica strada, coordinata, verso o orario: non creare marker né avviso finché tali dati non sono acquisiti dal Comune."
+    },
+    {
+      "id": "chiusi-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-8242396540",
+        "osm-camera-11192909341",
+        "osm-camera-11192909342",
+        "osm-camera-11192909343",
+        "osm-camera-11620003614",
+        "osm-camera-11620003615",
+        "osm-camera-11620003621",
+        "osm-camera-12137385074"
+      ],
+      "location": {
+        "municipality": "Chiusi"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — otto nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Otto punti già importati nel catalogo sono di origine OSM, senza una fonte comunale o MIT associata nel dossier."
+        },
+        {
+          "name": "Comune della Città di Chiusi",
+          "url": "https://www.comune.chiusi.siena.it/",
+          "note": "Nelle fonti comunali consultate non è stato individuato un atto che confermi le singole postazioni o una loro dismissione."
+        }
+      ],
+      "note": "Punti storici da verificare singolarmente con Comune, Polizia Locale o MIT; non promuovere a verificati e non usare gli eventuali versi OSM negli avvisi."
+    },
+    {
+      "id": "cetona-centro-storico-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Centro storico",
+        "municipality": "Cetona"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Cetona — servizio ZTL",
+          "url": "https://comune.cetona.si.it/argomento/ztl/",
+          "note": "Il servizio comunale gestisce i permessi di accesso ZTL per il centro storico."
+        },
+        {
+          "name": "Comune di Cetona — Polizia Locale",
+          "url": "https://comune.cetona.si.it/amministrazione/unita_organizzativa/polizia-municipale/",
+          "note": "La Polizia Locale indica i permessi per la Zona a Traffico Limitato Centro Storico di Cetona."
+        }
+      ],
+      "note": "La ZTL è attestata, ma non sono pubblicati perimetro, varchi, orari o controllo elettronico: mantenere solo nel dossier admin finché non emergono dati puntuali."
+    },
+    {
+      "id": "cetona-osm-speed-camera-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordId": "osm-camera-13241491978",
+      "location": {
+        "latitude": 42.965841,
+        "longitude": 11.901179,
+        "locality": "Cetona",
+        "municipality": "Cetona",
+        "speedLimitKmh": 50
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — nodo 13241491978",
+          "url": "https://www.openstreetmap.org/node/13241491978",
+          "note": "Punto storico del catalogo a 50 km/h; OpenStreetMap non prova l'operatività della postazione."
+        },
+        {
+          "name": "Comune di Cetona",
+          "url": "https://comune.cetona.si.it/",
+          "note": "Nelle fonti comunali consultate non è stato individuato un atto che confermi la postazione o la sua dismissione."
+        }
+      ],
+      "note": "Da riesaminare: non promuovere a verificato né creare un nuovo avviso nell'app senza fonte dell'ente competente."
     }
   ]
 }
