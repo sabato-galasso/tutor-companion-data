@@ -696,6 +696,222 @@
         }
       ],
       "note": "Da riesaminare: non promuovere a verificato né creare un nuovo avviso nell'app senza fonte dell'ente competente."
+    },
+    {
+      "id": "montepulciano-via-ciliano-ztl-exit",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "corroborated",
+      "catalogStatus": "candidateCoordinateResolved",
+      "location": {
+        "latitude": 43.0968209,
+        "longitude": 11.7852175,
+        "road": "Via di Ciliano, Porta al Prato",
+        "locality": "Montepulciano",
+        "municipality": "Montepulciano"
+      },
+      "accessDirection": "exit",
+      "activatedAt": "2025-01-20",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Montepulciano — ordinanza n. 9/2025",
+          "url": "https://www.comune.montepulciano.si.it/wp-content/uploads/2025/01/OrdinanzadelResponsabile_Copia_9_2025-ztl-varchi-uscita.pdf",
+          "note": "Attesta il varco elettronico pienamente operativo dal 20 gennaio 2025 in Via di Ciliano, tra i quattro varchi d'uscita autorizzati dal MIT."
+        },
+        {
+          "name": "OpenStreetMap — Porta al Prato",
+          "url": "https://www.openstreetmap.org/relation/10014463",
+          "note": "Risolve la posizione di Porta Prato/Via di Ciliano citata nell'ordinanza; richiede conferma sul posto della posizione puntuale della telecamera."
+        }
+      ],
+      "note": "Varco di uscita: attivo nel dossier admin, non pubblicato nell'app."
+    },
+    {
+      "id": "montepulciano-via-gozzano-ztl-exit",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "corroborated",
+      "catalogStatus": "candidateCoordinateResolved",
+      "location": {
+        "latitude": 43.0949456,
+        "longitude": 11.7835624,
+        "road": "Via di Gozzano, Borgo Buio",
+        "locality": "Montepulciano",
+        "municipality": "Montepulciano"
+      },
+      "accessDirection": "exit",
+      "activatedAt": "2025-01-20",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Montepulciano — ordinanza n. 9/2025",
+          "url": "https://www.comune.montepulciano.si.it/wp-content/uploads/2025/01/OrdinanzadelResponsabile_Copia_9_2025-ztl-varchi-uscita.pdf",
+          "note": "Attesta il varco elettronico pienamente operativo dal 20 gennaio 2025 in Via di Gozzano (Borgo Buio)."
+        },
+        {
+          "name": "OpenStreetMap — Via di Gozzano",
+          "url": "https://www.openstreetmap.org/way/166467600",
+          "note": "Risolve la strada citata nell'ordinanza; richiede conferma sul posto della posizione puntuale della telecamera."
+        }
+      ],
+      "note": "Varco di uscita: attivo nel dossier admin, non pubblicato nell'app."
+    },
+    {
+      "id": "montepulciano-via-opio-ztl-exit",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "corroborated",
+      "catalogStatus": "candidateCoordinateResolved",
+      "location": {
+        "latitude": 43.0908929,
+        "longitude": 11.781832,
+        "road": "Via dell'Opio, Porta delle Farine / Via del Teatro",
+        "locality": "Montepulciano",
+        "municipality": "Montepulciano"
+      },
+      "accessDirection": "exit",
+      "activatedAt": "2025-01-20",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Montepulciano — ordinanza n. 9/2025",
+          "url": "https://www.comune.montepulciano.si.it/wp-content/uploads/2025/01/OrdinanzadelResponsabile_Copia_9_2025-ztl-varchi-uscita.pdf",
+          "note": "Attesta il varco elettronico pienamente operativo dal 20 gennaio 2025 in Via dell'Opio (Via del Teatro/Porta delle Farine)."
+        },
+        {
+          "name": "OpenStreetMap — Porta delle Farine",
+          "url": "https://www.openstreetmap.org/way/722767671",
+          "note": "Risolve la posizione della porta citata nell'ordinanza; richiede conferma sul posto della posizione puntuale della telecamera."
+        }
+      ],
+      "note": "Varco di uscita: attivo nel dossier admin, non pubblicato nell'app."
+    },
+    {
+      "id": "montepulciano-via-grassi-ztl-exit",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "corroborated",
+      "catalogStatus": "candidateCoordinateResolved",
+      "location": {
+        "latitude": 43.0938047,
+        "longitude": 11.7801229,
+        "road": "Via dei Grassi, Porta dei Grassi",
+        "locality": "Montepulciano",
+        "municipality": "Montepulciano"
+      },
+      "accessDirection": "exit",
+      "activatedAt": "2025-01-20",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Montepulciano — ordinanza n. 9/2025",
+          "url": "https://www.comune.montepulciano.si.it/wp-content/uploads/2025/01/OrdinanzadelResponsabile_Copia_9_2025-ztl-varchi-uscita.pdf",
+          "note": "Attesta il varco elettronico pienamente operativo dal 20 gennaio 2025 in Via dei Grassi."
+        },
+        {
+          "name": "OpenStreetMap — Porta dei Grassi",
+          "url": "https://www.openstreetmap.org/way/722763108",
+          "note": "Risolve la posizione della porta citata nell'ordinanza; richiede conferma sul posto della posizione puntuale della telecamera."
+        }
+      ],
+      "note": "Varco di uscita: attivo nel dossier admin, non pubblicato nell'app."
+    },
+    {
+      "id": "montepulciano-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-2311020867",
+        "osm-camera-11479375608",
+        "osm-camera-11479375612",
+        "osm-camera-11618743917",
+        "osm-camera-11619642655",
+        "osm-camera-11620003570",
+        "osm-camera-11620003579",
+        "osm-camera-11620003582",
+        "osm-camera-11620003588",
+        "osm-camera-13917892059"
+      ],
+      "location": {
+        "municipality": "Montepulciano"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — dieci nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Dieci punti già importati nel catalogo sono di origine OSM, senza una fonte puntuale dell'ente competente associata nel dossier."
+        },
+        {
+          "name": "Comune di Montepulciano",
+          "url": "https://www.comune.montepulciano.si.it/",
+          "note": "Nelle fonti comunali consultate non è stato individuato un atto che confermi o dismetta le singole postazioni."
+        }
+      ],
+      "note": "Punti storici da verificare singolarmente: nessuna promozione nell'app senza fonte comunale, Polizia Locale o MIT."
+    },
+    {
+      "id": "chianciano-via-dante-porta-rivellini-ztl-entry",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "corroborated",
+      "catalogStatus": "candidateCoordinateResolved",
+      "location": {
+        "latitude": 43.0580886,
+        "longitude": 11.8292243,
+        "road": "Via Dante, fuori Porta Rivellini",
+        "locality": "Chianciano Terme",
+        "municipality": "Chianciano Terme"
+      },
+      "accessDirection": "entry",
+      "schedule": "Ogni giorno, 19:00–07:00.",
+      "activatedAt": "2025-05-19",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Città di Chianciano Terme — attivazione ZTL",
+          "url": "https://www.comune.chianciano-terme.siena.it/notizie/Attivazione-ZTL.html",
+          "note": "Conferma ZTL attiva dal 19 maggio 2025, orario 19:00–07:00, segnale luminoso in Via Dante fuori Porta Rivellini e rilevazione anche in uscita."
+        },
+        {
+          "name": "OpenStreetMap — Porta Rivellini",
+          "url": "https://www.openstreetmap.org/way/575276071",
+          "note": "Risolve la posizione di Porta Rivellini indicata dal Comune; richiede conferma sul posto della posizione puntuale del dispositivo."
+        }
+      ],
+      "note": "Ingresso ZTL attivo attestato dal Comune; l'eventuale varco di uscita non è geolocalizzato e resta separato. Non pubblicato nell'app finché non si conferma il punto fisico."
+    },
+    {
+      "id": "chianciano-ztl-exit-controls",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "official",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "locality": "Centro storico",
+        "municipality": "Chianciano Terme"
+      },
+      "accessDirection": "exit",
+      "schedule": "Ogni giorno, 19:00–07:00.",
+      "activatedAt": "2025-05-19",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Città di Chianciano Terme — attivazione ZTL",
+          "url": "https://www.comune.chianciano-terme.siena.it/notizie/Attivazione-ZTL.html",
+          "note": "Comunica espressamente che i transiti non autorizzati sono rilevati anche in uscita, senza indicare il punto del varco."
+        }
+      ],
+      "note": "Varco/i di uscita attivi ma senza posizione pubblicata: conservato solo nel dossier admin, nessun marker o avviso app."
     }
   ]
 }
