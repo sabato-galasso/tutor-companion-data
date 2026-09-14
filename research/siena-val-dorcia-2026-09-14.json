@@ -352,6 +352,106 @@
         }
       ],
       "note": "Esito di copertura, non prova di assenza: nessun controllo viene aggiunto o rimosso dal catalogo pubblico finché non emerge una fonte puntuale."
+    },
+    {
+      "id": "abbadia-via-gorizia-osm-speed-camera",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordId": "osm-camera-10019254681",
+      "location": {
+        "latitude": 42.8792967,
+        "longitude": 11.6757792,
+        "road": "Via Gorizia",
+        "locality": "Abbadia San Salvatore",
+        "municipality": "Abbadia San Salvatore",
+        "speedLimitKmh": 30
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — nodo 10019254681",
+          "url": "https://www.openstreetmap.org/node/10019254681",
+          "note": "Segnala una postazione a 30 km/h in Via Gorizia; ultimo aggiornamento del nodo 12 settembre 2022. Non prova l'operatività."
+        },
+        {
+          "name": "Comune di Abbadia San Salvatore",
+          "url": "https://www.comune.abbadiasansalvatore.si.it/it",
+          "note": "Nelle pagine istituzionali consultate non è stato individuato un atto che confermi questa postazione."
+        },
+        {
+          "name": "MIT — Registro Velox",
+          "url": "https://velox.mit.gov.it/dispositivi",
+          "note": "Nella ricerca effettuata il 14 settembre 2026 non è stato individuato un record MIT attribuito al Comune."
+        }
+      ],
+      "note": "Punto storico del catalogo: tenere visibile nell'admin come da verificare, senza promozione o nuovo avviso nell'app."
+    },
+    {
+      "id": "abbadia-via-remedi-osm-speed-camera",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordId": "osm-camera-10019254682",
+      "location": {
+        "latitude": 42.8765081,
+        "longitude": 11.6831084,
+        "road": "Via Remedi",
+        "locality": "Abbadia San Salvatore",
+        "municipality": "Abbadia San Salvatore",
+        "speedLimitKmh": 30
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — nodo 10019254682",
+          "url": "https://www.openstreetmap.org/node/10019254682",
+          "note": "Segnala una postazione a 30 km/h in Via Remedi; ultimo aggiornamento del nodo 12 settembre 2022. Non prova l'operatività."
+        },
+        {
+          "name": "Comune di Abbadia San Salvatore",
+          "url": "https://www.comune.abbadiasansalvatore.si.it/it",
+          "note": "Nelle pagine istituzionali consultate non è stato individuato un atto che confermi questa postazione."
+        },
+        {
+          "name": "MIT — Registro Velox",
+          "url": "https://velox.mit.gov.it/dispositivi",
+          "note": "Nella ricerca effettuata il 14 settembre 2026 non è stato individuato un record MIT attribuito al Comune."
+        }
+      ],
+      "note": "Punto storico del catalogo: tenere visibile nell'admin come da verificare, senza promozione o nuovo avviso nell'app."
+    },
+    {
+      "id": "piancastagnaio-road-controls-review",
+      "type": "other",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Piancastagnaio"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Piancastagnaio",
+          "url": "https://www.comune.piancastagnaio.si.it/",
+          "note": "Nelle fonti istituzionali consultate non è stato individuato un atto che confermi velox, Tutor, PhotoRed o varchi ZTL geolocalizzabili."
+        },
+        {
+          "name": "Unione dei Comuni Amiata Val d'Orcia — Polizia Locale",
+          "url": "https://www.uc-amiatavaldorcia.si.it/it/page/servizio-7-polizia-municipale",
+          "note": "Servizio competente da consultare al prossimo ciclo per confermare eventuali controlli locali o dismissioni."
+        },
+        {
+          "name": "MIT — Registro Velox",
+          "url": "https://velox.mit.gov.it/dispositivi",
+          "note": "Nella ricerca effettuata il 14 settembre 2026 non è stato individuato un record MIT attribuito a Piancastagnaio."
+        }
+      ],
+      "note": "Esito di copertura, non prova di assenza: nessun controllo viene aggiunto o rimosso dal catalogo pubblico finché non emerge una fonte puntuale."
     }
   ]
 }
