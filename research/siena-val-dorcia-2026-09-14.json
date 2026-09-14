@@ -452,6 +452,140 @@
         }
       ],
       "note": "Esito di copertura, non prova di assenza: nessun controllo viene aggiunto o rimosso dal catalogo pubblico finché non emerge una fonte puntuale."
+    },
+    {
+      "id": "sarteano-porta-di-mezzo-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "corroborated",
+      "catalogStatus": "candidateCoordinateResolved",
+      "location": {
+        "latitude": 42.9895022,
+        "longitude": 11.8691246,
+        "road": "Via Porta di Mezzo",
+        "locality": "Sarteano",
+        "municipality": "Sarteano"
+      },
+      "accessDirection": "entry",
+      "schedule": "1 gennaio–30 giugno e 16 settembre–31 dicembre: 13:00–15:00 e 18:30–06:00; 1 luglio–15 settembre: 13:00–15:00 e 01:00–06:00.",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Sarteano — disciplinare ZTL capoluogo",
+          "url": "https://www.comune.sarteano.si.it/wp-content/uploads/2023/11/2021_Disciplinare_ZTL_Capoluogo_Sarteano.pdf",
+          "note": "Indica il varco di accesso Porta di Mezzo, gli orari e il controllo elettronico dei varchi; decreto MIT n. 416 del 4 novembre 2020 indicato nel testo."
+        },
+        {
+          "name": "OpenStreetMap — Porta di Mezzo",
+          "url": "https://www.openstreetmap.org/way/1394160295",
+          "note": "Risolve la posizione della porta indicata dal disciplinare; non prova da sola la posizione esatta della telecamera."
+        }
+      ],
+      "note": "Varco attivo attestato dal Comune; coordinata della porta ricavata da OSM. Mantenerlo nell'admin come attivo non pubblicato finché non si conferma sul posto la posizione fisica e il ramo d'approccio."
+    },
+    {
+      "id": "sarteano-porta-umbra-ztl",
+      "type": "ztl",
+      "operationalStatus": "active",
+      "evidenceClass": "corroborated",
+      "catalogStatus": "candidateCoordinateResolved",
+      "location": {
+        "latitude": 42.9902784,
+        "longitude": 11.8715339,
+        "road": "Costa Vallepiatta",
+        "locality": "Sarteano",
+        "municipality": "Sarteano"
+      },
+      "accessDirection": "entry",
+      "schedule": "Tutto l'anno: 13:00–15:00 e 18:30–06:00.",
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Sarteano — disciplinare ZTL capoluogo",
+          "url": "https://www.comune.sarteano.si.it/wp-content/uploads/2023/11/2021_Disciplinare_ZTL_Capoluogo_Sarteano.pdf",
+          "note": "Indica il varco di accesso Porta Umbra, l'orario e il controllo elettronico dei varchi."
+        },
+        {
+          "name": "OpenStreetMap — Porta Umbra",
+          "url": "https://www.openstreetmap.org/way/1181396831",
+          "note": "Risolve la posizione della porta indicata dal disciplinare; non prova da sola la posizione esatta della telecamera."
+        }
+      ],
+      "note": "Varco attivo attestato dal Comune; coordinata della porta ricavata da OSM. Mantenerlo nell'admin come attivo non pubblicato finché non si conferma sul posto la posizione fisica e il ramo d'approccio."
+    },
+    {
+      "id": "sarteano-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-11489089077",
+        "osm-camera-11492201245",
+        "osm-camera-11619992751",
+        "osm-camera-11620061117",
+        "osm-camera-11923911019",
+        "osm-camera-13276594732"
+      ],
+      "location": {
+        "locality": "Sarteano",
+        "municipality": "Sarteano"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — sei nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Sei nodi del catalogo riportano postazioni a 50 km/h; quattro conservano anche un verso OSM. Gli aggiornamenti disponibili vanno dal gennaio 2024 al novembre 2025 e non provano l'operatività."
+        },
+        {
+          "name": "Comune di Sarteano — Polizia Municipale",
+          "url": "https://www.comune.sarteano.si.it/category/polizia-municipale/",
+          "note": "Nelle fonti comunali consultate non è stato individuato un atto che confermi queste postazioni o la loro eventuale dismissione."
+        },
+        {
+          "name": "MIT — Registro Velox",
+          "url": "https://velox.mit.gov.it/dispositivi",
+          "note": "Nella ricerca effettuata il 14 settembre 2026 non è stato individuato un record MIT attribuito a Sarteano."
+        }
+      ],
+      "note": "I sei punti storici restano candidati: non promuoverli né usare i versi OSM negli avvisi finché Comune, Polizia Locale o MIT non confermano ogni postazione."
+    },
+    {
+      "id": "san-casciano-bagni-osm-speed-cameras-existing",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordIds": [
+        "osm-camera-11620061119",
+        "osm-camera-11620061136"
+      ],
+      "location": {
+        "locality": "San Casciano dei Bagni",
+        "municipality": "San Casciano dei Bagni"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — due nodi velocità",
+          "url": "https://www.openstreetmap.org/",
+          "note": "Due nodi del catalogo riportano postazioni a 50 km/h, aggiornati il 13 febbraio 2024; non provano l'operatività."
+        },
+        {
+          "name": "Comune di San Casciano dei Bagni",
+          "url": "https://www.comune.sancascianodeibagni.si.it/",
+          "note": "Nelle fonti istituzionali consultate non è stato individuato un atto che confermi le due postazioni o la loro eventuale dismissione."
+        },
+        {
+          "name": "MIT — Registro Velox",
+          "url": "https://velox.mit.gov.it/dispositivi",
+          "note": "Nella ricerca effettuata il 14 settembre 2026 non è stato individuato un record MIT attribuito al Comune."
+        }
+      ],
+      "note": "I due punti storici restano candidati: non promuoverli o modificarne gli avvisi senza una fonte puntuale dell'ente competente."
     }
   ]
 }
