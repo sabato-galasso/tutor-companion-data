@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "area": {
     "province": "SI",
-    "name": "Val d'Orcia — primo lotto"
+    "name": "Val d'Orcia — lotti prioritari"
   },
   "reviewedAt": "2026-09-14",
   "defaultReviewDueAt": "2026-10-14",
@@ -227,6 +227,131 @@
         }
       ],
       "note": "Non promuovere a verificati; verificare con Comune, Polizia Locale o MIT prima di modificarne gli avvisi."
+    },
+    {
+      "id": "castiglione-dorcia-mondonuovo-osm-speed-camera",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordId": "osm-camera-11619494509",
+      "location": {
+        "latitude": 43.0044374,
+        "longitude": 11.6170345,
+        "road": "Via del Fosso",
+        "locality": "Mondonuovo",
+        "municipality": "Castiglione d'Orcia",
+        "speedLimitKmh": 50
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — nodo 11619494509",
+          "url": "https://www.openstreetmap.org/node/11619494509",
+          "note": "Segnala una postazione a 50 km/h in Via del Fosso; ultimo aggiornamento del nodo 13 febbraio 2024. Non prova l'operatività."
+        },
+        {
+          "name": "Comune di Castiglione d'Orcia",
+          "url": "https://www.comune.castiglionedorcia.siena.it/",
+          "note": "Nelle pagine istituzionali consultate non è stato individuato un atto che confermi questa postazione."
+        },
+        {
+          "name": "MIT — Registro Velox",
+          "url": "https://velox.mit.gov.it/dispositivi",
+          "note": "Nella ricerca effettuata il 14 settembre 2026 non è stato individuato un record MIT attribuito a Castiglione d'Orcia."
+        }
+      ],
+      "note": "Punto storico del catalogo: nessun nuovo avviso o promozione nell'app senza conferma di Comune, Polizia Locale o MIT."
+    },
+    {
+      "id": "castiglione-dorcia-vivo-osm-speed-camera",
+      "type": "speedCamera",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogRecordId": "osm-camera-11619494513",
+      "location": {
+        "latitude": 42.9286566,
+        "longitude": 11.6484553,
+        "road": "Via Amiata",
+        "locality": "Vivo d'Orcia",
+        "municipality": "Castiglione d'Orcia",
+        "speedLimitKmh": 50
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "OpenStreetMap — nodo 11619494513",
+          "url": "https://www.openstreetmap.org/node/11619494513",
+          "note": "Segnala una postazione a 50 km/h in Via Amiata, Vivo d'Orcia; ultimo aggiornamento del nodo 13 febbraio 2024. Non prova l'operatività."
+        },
+        {
+          "name": "Comune di Castiglione d'Orcia",
+          "url": "https://www.comune.castiglionedorcia.siena.it/",
+          "note": "Nelle pagine istituzionali consultate non è stato individuato un atto che confermi questa postazione."
+        },
+        {
+          "name": "MIT — Registro Velox",
+          "url": "https://velox.mit.gov.it/dispositivi",
+          "note": "Nella ricerca effettuata il 14 settembre 2026 non è stato individuato un record MIT attribuito a Castiglione d'Orcia."
+        }
+      ],
+      "note": "Punto storico del catalogo: nessun nuovo avviso o promozione nell'app senza conferma di Comune, Polizia Locale o MIT."
+    },
+    {
+      "id": "castiglione-dorcia-ztl-permit-procedure",
+      "type": "ztl",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Castiglione d'Orcia"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Sportello telematico — Comune di Castiglione d'Orcia",
+          "url": "https://sportelloamico.comune.castiglionedorcia.siena.it/api/modulo/v1/document%3As_italia%3Atrasmissione.integrazioni.ztl%3Btrasmissione.documentazione/download_pdf",
+          "note": "La modulistica istituzionale richiama integrazioni/documentazione ZTL, ma non pubblica il perimetro, lo stato attivo o i varchi."
+        },
+        {
+          "name": "Unione dei Comuni Amiata Val d'Orcia — Polizia Locale",
+          "url": "https://www.uc-amiatavaldorcia.si.it/it/page/servizio-7-polizia-municipale",
+          "note": "Servizio di Polizia Locale competente per il territorio; serve un atto o una conferma puntuale sui varchi."
+        }
+      ],
+      "note": "Non dichiarare una ZTL attiva e non creare marker: la sola modulistica non conferma né l'esistenza di un varco né la sua posizione."
+    },
+    {
+      "id": "radicofani-road-controls-review",
+      "type": "other",
+      "operationalStatus": "needsReview",
+      "evidenceClass": "candidate",
+      "catalogStatus": "candidateLocationNeeded",
+      "location": {
+        "municipality": "Radicofani"
+      },
+      "reviewedAt": "2026-09-14",
+      "reviewDueAt": "2026-10-14",
+      "sources": [
+        {
+          "name": "Comune di Radicofani",
+          "url": "https://www.comune.radicofani.si.it/",
+          "note": "Nelle fonti istituzionali consultate non è stato individuato un atto che confermi velox, Tutor, PhotoRed o varchi ZTL geolocalizzabili."
+        },
+        {
+          "name": "Unione dei Comuni Amiata Val d'Orcia — Polizia Locale",
+          "url": "https://www.uc-amiatavaldorcia.si.it/it/page/servizio-7-polizia-municipale",
+          "note": "Servizio competente da consultare al prossimo ciclo per confermare eventuali controlli locali o dismissioni."
+        },
+        {
+          "name": "MIT — Registro Velox",
+          "url": "https://velox.mit.gov.it/dispositivi",
+          "note": "Nella ricerca effettuata il 14 settembre 2026 non è stato individuato un record MIT attribuito a Radicofani."
+        }
+      ],
+      "note": "Esito di copertura, non prova di assenza: nessun controllo viene aggiunto o rimosso dal catalogo pubblico finché non emerge una fonte puntuale."
     }
   ]
 }
