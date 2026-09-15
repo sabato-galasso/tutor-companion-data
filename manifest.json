@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-15.1",
-  "generatedAt": "2026-09-15T07:04:29Z",
+  "version": "2026-09-15.2",
+  "generatedAt": "2026-09-15T15:45:00Z",
   "sources": [
     {
       "id": "openstreetmap",
@@ -73,6 +73,24 @@
       "name": "Comune di San Gimignano — nuova disciplina ZTL",
       "url": "https://www.comune.sangimignano.si.it/it/news/san-gimignano-da-venerdi-1-maggio-entra-in-vigore-la-nuova-ztl",
       "verifiedAt": "2026-09-15"
+    },
+    {
+      "id": "polizia-tutor-2025",
+      "name": "Polizia di Stato — elenco tratte Tutor (marzo 2025)",
+      "url": "https://www.poliziadistato.it/statics/30/elenco-tratte-controllate-con-il-tutor---marzo-2025.pdf",
+      "verifiedAt": "2026-09-15"
+    },
+    {
+      "id": "aspi-tutor-26-2025",
+      "name": "Autostrade per l’Italia — 26 nuove tratte Tutor",
+      "url": "https://www.autostrade.it/en/comunicazione-e-media/comunicati-stampa-corporate/-/bulletin/view/51729141-2969-4be0-b44d-5206e87cf394",
+      "verifiedAt": "2026-09-15"
+    },
+    {
+      "id": "mit-tutor-3",
+      "name": "MIT — Decreto dirigenziale n. 305/2024 (Tutor 3.0)",
+      "url": "https://www.mit.gov.it/index.php/normativa/decreto-dirigenziale-n-305-del-20062024",
+      "verifiedAt": "2026-09-15"
     }
   ],
   "files": [
@@ -94,7 +112,7 @@
     {
       "path": "tutor-sections-aspi.json",
       "records": 178,
-      "sha256": "0009cf6aa34e027e9de24a83b501ecbf9b61d09d838d4f60512b42cf0f3ccd85"
+      "sha256": "5c67f3bd326904f7bb1d021534f3a3173b9184d862b55f88ee271e972b70af93"
     }
   ]
 }
