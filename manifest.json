@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2026-09-14.6",
-  "generatedAt": "2026-09-14T07:08:08Z",
+  "version": "2026-09-14.7",
+  "generatedAt": "2026-09-14T15:35:35Z",
   "sources": [
     {
       "id": "openstreetmap",
@@ -37,13 +37,37 @@
       "name": "Prefettura di Siena — decreto postazioni autovelox",
       "url": "https://www.comune.buonconvento.si.it/dam/jcr%3A7e821686-afb4-438e-83f6-7a9d4263c0aa/Decreto%2520Prefetto%2520Siena.pdf",
       "verifiedAt": "2026-09-14"
+    },
+    {
+      "id": "comune-sarteano-ztl",
+      "name": "Comune di Sarteano — disciplinare ZTL capoluogo",
+      "url": "https://www.comune.sarteano.si.it/wp-content/uploads/2023/11/2021_Disciplinare_ZTL_Capoluogo_Sarteano.pdf",
+      "verifiedAt": "2026-09-14"
+    },
+    {
+      "id": "comune-montepulciano-ztl",
+      "name": "Comune di Montepulciano — ordinanza n. 9/2025",
+      "url": "https://www.comune.montepulciano.si.it/wp-content/uploads/2025/01/OrdinanzadelResponsabile_Copia_9_2025-ztl-varchi-uscita.pdf",
+      "verifiedAt": "2026-09-14"
+    },
+    {
+      "id": "comune-chianciano-ztl",
+      "name": "Città di Chianciano Terme — attivazione ZTL",
+      "url": "https://www.comune.chianciano-terme.siena.it/notizie/Attivazione-ZTL.html",
+      "verifiedAt": "2026-09-14"
+    },
+    {
+      "id": "comune-castellina-ztl",
+      "name": "Comune di Castellina in Chianti — avviso varco ZTL",
+      "url": "https://castellina-in-chianti-api.municipiumapp.it/s3/1695/allegati/allegati-notizie/avviso-ztl.pdf",
+      "verifiedAt": "2026-09-14"
     }
   ],
   "files": [
     {
       "path": "speed-cameras.json",
-      "records": 5118,
-      "sha256": "2c8c76f79261d8c6307a936a9d46e68db8c7ec5ad44385cceab9633efe67b114"
+      "records": 5126,
+      "sha256": "e01ece1cae17182423028cd91739e2800fe9bfdaaf6e02f45ef02ef864f91a84"
     },
     {
       "path": "tutor-sections-osm.json",

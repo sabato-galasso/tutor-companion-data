@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "area": {
     "province": "SI",
-    "name": "Val d'Orcia — lotti prioritari"
+    "name": "Provincia di Siena — lotti verificati"
   },
   "reviewedAt": "2026-09-14",
   "defaultReviewDueAt": "2026-10-14",
@@ -458,7 +458,8 @@
       "type": "ztl",
       "operationalStatus": "active",
       "evidenceClass": "corroborated",
-      "catalogStatus": "candidateCoordinateResolved",
+      "catalogStatus": "published",
+      "catalogRecordId": "comune-sarteano-ztl-porta-di-mezzo-entry",
       "location": {
         "latitude": 42.9895022,
         "longitude": 11.8691246,
@@ -482,14 +483,15 @@
           "note": "Risolve la posizione della porta indicata dal disciplinare; non prova da sola la posizione esatta della telecamera."
         }
       ],
-      "note": "Varco attivo attestato dal Comune; coordinata della porta ricavata da OSM. Mantenerlo nell'admin come attivo non pubblicato finché non si conferma sul posto la posizione fisica e il ramo d'approccio."
+      "note": "Pubblicato nel catalogo app come ingresso ZTL. La coordinata corrisponde alla porta indicata dal Comune ed è corroborata da OpenStreetMap; da ricontrollare entro la data indicata."
     },
     {
       "id": "sarteano-porta-umbra-ztl",
       "type": "ztl",
       "operationalStatus": "active",
       "evidenceClass": "corroborated",
-      "catalogStatus": "candidateCoordinateResolved",
+      "catalogStatus": "published",
+      "catalogRecordId": "comune-sarteano-ztl-porta-umbra-entry",
       "location": {
         "latitude": 42.9902784,
         "longitude": 11.8715339,
@@ -513,7 +515,7 @@
           "note": "Risolve la posizione della porta indicata dal disciplinare; non prova da sola la posizione esatta della telecamera."
         }
       ],
-      "note": "Varco attivo attestato dal Comune; coordinata della porta ricavata da OSM. Mantenerlo nell'admin come attivo non pubblicato finché non si conferma sul posto la posizione fisica e il ramo d'approccio."
+      "note": "Pubblicato nel catalogo app come ingresso ZTL. La coordinata corrisponde alla porta indicata dal Comune ed è corroborata da OpenStreetMap; da ricontrollare entro la data indicata."
     },
     {
       "id": "sarteano-osm-speed-cameras-existing",
@@ -702,7 +704,8 @@
       "type": "ztl",
       "operationalStatus": "active",
       "evidenceClass": "corroborated",
-      "catalogStatus": "candidateCoordinateResolved",
+      "catalogStatus": "published",
+      "catalogRecordId": "comune-montepulciano-ztl-via-ciliano-exit",
       "location": {
         "latitude": 43.0968209,
         "longitude": 11.7852175,
@@ -726,14 +729,15 @@
           "note": "Risolve la posizione di Porta Prato/Via di Ciliano citata nell'ordinanza; richiede conferma sul posto della posizione puntuale della telecamera."
         }
       ],
-      "note": "Varco di uscita: attivo nel dossier admin, non pubblicato nell'app."
+      "note": "Pubblicato nel catalogo app come uscita ZTL senza avviso di avvicinamento; da ricontrollare entro la data indicata."
     },
     {
       "id": "montepulciano-via-gozzano-ztl-exit",
       "type": "ztl",
       "operationalStatus": "active",
       "evidenceClass": "corroborated",
-      "catalogStatus": "candidateCoordinateResolved",
+      "catalogStatus": "published",
+      "catalogRecordId": "comune-montepulciano-ztl-via-gozzano-exit",
       "location": {
         "latitude": 43.0949456,
         "longitude": 11.7835624,
@@ -757,14 +761,15 @@
           "note": "Risolve la strada citata nell'ordinanza; richiede conferma sul posto della posizione puntuale della telecamera."
         }
       ],
-      "note": "Varco di uscita: attivo nel dossier admin, non pubblicato nell'app."
+      "note": "Pubblicato nel catalogo app come uscita ZTL senza avviso di avvicinamento; da ricontrollare entro la data indicata."
     },
     {
       "id": "montepulciano-via-opio-ztl-exit",
       "type": "ztl",
       "operationalStatus": "active",
       "evidenceClass": "corroborated",
-      "catalogStatus": "candidateCoordinateResolved",
+      "catalogStatus": "published",
+      "catalogRecordId": "comune-montepulciano-ztl-via-opio-exit",
       "location": {
         "latitude": 43.0908929,
         "longitude": 11.781832,
@@ -788,14 +793,15 @@
           "note": "Risolve la posizione della porta citata nell'ordinanza; richiede conferma sul posto della posizione puntuale della telecamera."
         }
       ],
-      "note": "Varco di uscita: attivo nel dossier admin, non pubblicato nell'app."
+      "note": "Pubblicato nel catalogo app come uscita ZTL senza avviso di avvicinamento; da ricontrollare entro la data indicata."
     },
     {
       "id": "montepulciano-via-grassi-ztl-exit",
       "type": "ztl",
       "operationalStatus": "active",
       "evidenceClass": "corroborated",
-      "catalogStatus": "candidateCoordinateResolved",
+      "catalogStatus": "published",
+      "catalogRecordId": "comune-montepulciano-ztl-via-grassi-exit",
       "location": {
         "latitude": 43.0938047,
         "longitude": 11.7801229,
@@ -819,7 +825,7 @@
           "note": "Risolve la posizione della porta citata nell'ordinanza; richiede conferma sul posto della posizione puntuale della telecamera."
         }
       ],
-      "note": "Varco di uscita: attivo nel dossier admin, non pubblicato nell'app."
+      "note": "Pubblicato nel catalogo app come uscita ZTL senza avviso di avvicinamento; da ricontrollare entro la data indicata."
     },
     {
       "id": "montepulciano-osm-speed-cameras-existing",
@@ -862,7 +868,8 @@
       "type": "ztl",
       "operationalStatus": "active",
       "evidenceClass": "corroborated",
-      "catalogStatus": "candidateCoordinateResolved",
+      "catalogStatus": "published",
+      "catalogRecordId": "comune-chianciano-ztl-via-dante-porta-rivellini-entry",
       "location": {
         "latitude": 43.0580886,
         "longitude": 11.8292243,
@@ -887,7 +894,7 @@
           "note": "Risolve la posizione di Porta Rivellini indicata dal Comune; richiede conferma sul posto della posizione puntuale del dispositivo."
         }
       ],
-      "note": "Ingresso ZTL attivo attestato dal Comune; l'eventuale varco di uscita non è geolocalizzato e resta separato. Non pubblicato nell'app finché non si conferma il punto fisico."
+      "note": "Pubblicato nel catalogo app come ingresso ZTL. L'eventuale varco di uscita, non geolocalizzato, resta separato e solo nel dossier admin."
     },
     {
       "id": "chianciano-ztl-exit-controls",
@@ -1258,7 +1265,8 @@
       "type": "ztl",
       "operationalStatus": "active",
       "evidenceClass": "corroborated",
-      "catalogStatus": "candidateCoordinateResolved",
+      "catalogStatus": "published",
+      "catalogRecordId": "comune-castellina-ztl-via-toscana-entry",
       "location": {
         "latitude": 43.4693632,
         "longitude": 11.2870758,
@@ -1282,7 +1290,7 @@
           "note": "Risolve la strada indicata nell'avviso; richiede conferma sul posto della posizione puntuale della telecamera."
         }
       ],
-      "note": "Ingresso ZTL elettronico attestato dal Comune; coordinata della via da OSM. Mantenerlo nell'admin come attivo non pubblicato finché non si conferma il punto fisico."
+      "note": "Pubblicato nel catalogo app come ingresso ZTL. La coordinata in Via Toscana è corroborata da OpenStreetMap; da ricontrollare entro la data indicata."
     },
     {
       "id": "castellina-speed-enforcement-review",
