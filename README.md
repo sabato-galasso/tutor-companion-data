@@ -7,7 +7,7 @@ Cataloghi JSON pubblici da usare per aggiornare offline Tutor Companion. Questo 
 - `manifest.json`: versione del catalogo, fonti, numero di record e hash SHA-256;
 - `data/speed-cameras.json`: autovelox fissi geolocalizzati;
 - `data/tutor-sections-osm.json`: tratti a velocità media geolocalizzati;
-- `data/tutor-sections-aspi.json`: tratte Tutor pubblicate da Autostrade per l’Italia, con fonte, stato, date di riesame e classificazione delle 26 tratte Tutor 3.0 del lotto ASPI 2025. Le eventuali `mapGeometry` sono ricostruzioni OSM dichiaratamente indicative e sono riservate al pannello admin: non sono coordinate certificate dei portali né dati per avvisi GPS;
+- `data/tutor-sections-aspi.json`: tratte Tutor pubblicate da Autostrade per l’Italia, con fonte, stato, date di riesame e classificazione delle 26 tratte Tutor 3.0 del lotto ASPI 2025. Le PK di ingresso e uscita sono progressive autostradali, non lunghezze; una eventuale `officialLength` viene valorizzata solo quando la fonte dichiara esplicitamente la lunghezza della singola tratta. In mancanza, l'admin mostra separatamente il calcolo derivato dalle due PK. Le eventuali `mapGeometry` sono ricostruzioni OSM dichiaratamente indicative e sono riservate al pannello admin: non sono coordinate certificate dei portali né dati per avvisi GPS;
 - `data/mit-velox-devices.json`: registro dei dispositivi MIT, che non implica una posizione geografica certa.
 - `research/`: dossier di verifica territoriali. Conservano fonti, stato operativo, data di verifica e prossima revisione; non sono caricati dall'app come controlli attivi.
 
